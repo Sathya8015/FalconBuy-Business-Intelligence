@@ -1,0 +1,3001 @@
+Order_ID,Product_ID,Return_Date,Return_Reason,Refund_Amount,Return_Status
+2511,450,2025-07-28,Damaged product,14035.83,Completed
+11882,419,2025-04-24,Defective item,7835.37,Approved
+2882,51,2025-06-30,Defective item,23324.63,Completed
+14210,68,2026-03-18,Late delivery,21928.43,Completed
+15994,454,2026-02-09,Quality issue,12085.73,Completed
+19285,57,2024-08-24,Product not as described,15380.52,Completed
+11934,373,2026-06-26,Quality issue,21943.46,Completed
+2559,240,2026-03-18,Size mismatch,13922.45,Completed
+10658,386,2024-10-12,Late delivery,1899.59,Approved
+611,60,2025-08-05,Wrong item delivered,20340.17,Approved
+5621,92,2026-07-06,Product not as described,144.89,Requested
+20000,358,2025-07-01,Wrong item delivered,5744.43,Rejected
+551,377,2025-07-05,Wrong item delivered,12493.26,Completed
+4240,267,2025-04-02,Wrong item delivered,11358.33,Approved
+13319,339,2025-04-13,Damaged product,10025.47,Completed
+15040,467,2025-01-29,Defective item,8832.39,Rejected
+14553,42,2025-09-25,Damaged product,8438.03,Rejected
+7381,36,2025-12-14,Product not as described,8074.84,Completed
+4026,264,2025-03-02,Changed mind,22120.54,Completed
+19679,5,2025-01-29,Size mismatch,20073.29,Completed
+9072,14,2025-09-06,Damaged product,1158.41,Completed
+14133,407,2025-09-11,Damaged product,4958.01,Completed
+5475,363,2024-11-23,Late delivery,20570.31,Completed
+19165,76,2024-12-12,Quality issue,11697.73,Completed
+12603,363,2025-02-16,Late delivery,12066.13,Completed
+18695,221,2025-07-24,Product not as described,8923.73,Completed
+18340,236,2024-07-19,Changed mind,9054.17,Completed
+13111,317,2024-09-06,Product not as described,7837.64,Rejected
+4421,410,2024-08-07,Damaged product,10105.52,Requested
+17928,117,2025-08-02,Late delivery,2098.29,Completed
+11207,316,2025-07-11,Size mismatch,13247.63,Requested
+3277,345,2025-03-12,Size mismatch,16663.74,Completed
+13143,397,2026-03-20,Damaged product,5694.96,Requested
+1177,302,2025-09-04,Damaged product,7063.95,Requested
+8111,436,2025-09-17,Size mismatch,21175.43,Requested
+2756,264,2026-03-07,Changed mind,4529.96,Approved
+6881,273,2025-08-04,Product not as described,8536.24,Completed
+10701,414,2026-05-28,Changed mind,10389.01,Completed
+13900,122,2026-01-22,Size mismatch,19495.44,Approved
+13548,384,2025-08-29,Defective item,23875.54,Completed
+16434,45,2025-10-01,Defective item,7273.9,Approved
+16197,304,2024-09-20,Damaged product,633.76,Completed
+2272,223,2025-06-06,Product not as described,16642.64,Completed
+4486,428,2025-02-09,Defective item,9881.87,Completed
+12056,271,2025-08-26,Product not as described,1963.63,Completed
+11581,254,2026-03-22,Late delivery,12279.17,Approved
+6053,256,2025-04-29,Size mismatch,8824.07,Completed
+4699,466,2024-07-21,Product not as described,16187.88,Approved
+14593,142,2026-06-28,Damaged product,21444.26,Approved
+9200,13,2025-08-12,Size mismatch,22541.95,Completed
+17293,312,2026-06-18,Changed mind,13869.14,Completed
+10506,81,2024-12-14,Damaged product,8324.9,Approved
+6431,6,2025-07-16,Quality issue,17273.54,Completed
+17715,390,2024-10-09,Damaged product,22136.64,Completed
+16342,104,2026-06-07,Wrong item delivered,11438.17,Completed
+4775,405,2026-03-16,Damaged product,5647.15,Rejected
+12861,139,2025-02-12,Damaged product,8878.23,Approved
+5605,425,2025-12-20,Late delivery,13224.69,Rejected
+2185,63,2026-03-10,Product not as described,1280.34,Completed
+2590,480,2026-04-29,Defective item,13699.74,Completed
+11173,287,2024-09-01,Late delivery,9182.14,Completed
+12069,103,2026-01-08,Late delivery,16929.51,Completed
+15332,76,2025-09-22,Damaged product,9540.34,Completed
+10257,244,2026-04-07,Size mismatch,8478.18,Completed
+12082,229,2025-07-24,Damaged product,9924.88,Completed
+8175,164,2025-05-24,Quality issue,12635.82,Approved
+10300,492,2024-12-29,Late delivery,6336.96,Approved
+16313,161,2024-10-14,Product not as described,21620.25,Completed
+10295,368,2026-02-04,Quality issue,17775.26,Requested
+10487,454,2025-12-24,Late delivery,18159.09,Completed
+3909,193,2025-11-01,Defective item,8137.38,Rejected
+7851,453,2026-02-09,Late delivery,23097.62,Approved
+16965,347,2025-05-08,Changed mind,8355.4,Completed
+13875,120,2025-12-11,Defective item,22731.83,Completed
+16437,221,2026-03-14,Quality issue,13401.18,Completed
+18584,294,2025-07-22,Product not as described,15807.52,Completed
+6962,469,2024-07-31,Damaged product,3908.82,Completed
+17273,43,2026-02-17,Quality issue,5049.23,Requested
+2559,415,2024-09-17,Quality issue,15853.43,Rejected
+18609,421,2025-04-04,Quality issue,3499.83,Completed
+2301,104,2025-02-20,Wrong item delivered,23406.01,Approved
+7364,27,2024-09-20,Product not as described,17429.79,Approved
+9438,340,2025-10-12,Size mismatch,8528.24,Approved
+17172,107,2025-05-03,Late delivery,12757.33,Approved
+10265,459,2025-06-24,Defective item,6383.87,Approved
+18765,341,2025-12-27,Late delivery,21355.51,Approved
+2781,315,2025-01-30,Product not as described,21347.17,Rejected
+882,475,2026-04-14,Late delivery,2793.65,Completed
+16114,301,2025-09-29,Quality issue,9945.47,Requested
+9929,152,2024-12-10,Late delivery,16685.5,Completed
+12534,304,2025-03-06,Defective item,12105.59,Completed
+3534,124,2025-07-13,Wrong item delivered,17798.13,Completed
+191,389,2026-04-25,Wrong item delivered,5405.76,Completed
+4236,282,2025-07-01,Damaged product,17647.44,Approved
+16924,403,2025-06-09,Quality issue,22353.61,Approved
+5923,382,2026-02-08,Product not as described,14338.27,Completed
+13891,101,2025-06-03,Wrong item delivered,13918.76,Completed
+2779,315,2024-11-11,Late delivery,8813.34,Approved
+4189,12,2024-09-11,Changed mind,18234.26,Completed
+10794,357,2025-03-04,Product not as described,6110.27,Requested
+13815,298,2026-03-05,Wrong item delivered,1932.55,Approved
+4609,313,2025-11-03,Quality issue,7633.54,Completed
+19713,175,2026-04-11,Defective item,3618.01,Approved
+11177,162,2025-02-01,Changed mind,16876.88,Completed
+9970,241,2026-05-14,Damaged product,6314.16,Completed
+17617,83,2025-07-03,Wrong item delivered,2018.53,Completed
+17469,34,2024-11-29,Quality issue,19949.18,Completed
+7471,68,2025-07-25,Size mismatch,9353.26,Rejected
+19495,46,2024-08-15,Quality issue,1131.41,Completed
+348,490,2024-10-15,Late delivery,655.22,Completed
+16692,393,2025-08-04,Damaged product,2104.43,Approved
+1612,93,2025-03-03,Size mismatch,2784.3,Rejected
+18139,23,2025-06-11,Wrong item delivered,12899.37,Completed
+1880,2,2025-08-18,Size mismatch,23005,Approved
+8146,97,2025-04-24,Late delivery,5376.1,Completed
+3606,339,2025-03-21,Damaged product,4420.88,Rejected
+14475,406,2025-01-30,Quality issue,21555.27,Completed
+334,67,2024-09-14,Wrong item delivered,2304.72,Completed
+2000,412,2024-09-18,Product not as described,11652.83,Completed
+10759,368,2026-05-09,Late delivery,9791.99,Requested
+10699,391,2025-04-20,Damaged product,13319.36,Approved
+11257,398,2025-10-19,Size mismatch,503.67,Completed
+13620,172,2025-04-05,Defective item,23497.65,Completed
+17134,299,2025-10-15,Quality issue,9461.96,Requested
+5805,112,2025-10-03,Damaged product,23057.75,Completed
+8350,306,2024-10-04,Size mismatch,16163.21,Completed
+1986,59,2026-01-23,Product not as described,15604.05,Approved
+5930,342,2025-12-01,Damaged product,595.13,Completed
+10,88,2025-07-08,Size mismatch,2529.56,Rejected
+14187,111,2025-07-17,Size mismatch,4702.53,Approved
+3889,471,2026-06-08,Product not as described,889.14,Completed
+12005,43,2025-07-04,Changed mind,24130.77,Completed
+5744,322,2025-02-15,Wrong item delivered,22205.73,Completed
+17594,371,2024-12-16,Size mismatch,20650.74,Completed
+5939,482,2025-09-16,Quality issue,22802.02,Approved
+13758,447,2025-12-29,Product not as described,6941.01,Completed
+14802,135,2025-06-16,Size mismatch,24661.35,Approved
+12278,300,2024-09-25,Changed mind,4366.6,Completed
+2786,76,2024-12-10,Damaged product,19859.26,Approved
+15092,56,2024-07-17,Damaged product,16403.38,Completed
+19334,409,2025-02-07,Late delivery,12595.29,Rejected
+2517,385,2026-06-10,Late delivery,23323.16,Approved
+3609,419,2024-08-24,Late delivery,6848.45,Completed
+10433,199,2026-03-24,Size mismatch,2085.34,Approved
+11684,278,2025-11-15,Size mismatch,7881.82,Requested
+5748,351,2026-01-01,Damaged product,3936.22,Requested
+18176,21,2025-02-24,Quality issue,3643.51,Completed
+9826,485,2025-05-13,Late delivery,5657.56,Completed
+1094,370,2026-06-29,Late delivery,12875.86,Completed
+14570,7,2025-04-15,Late delivery,19910.2,Completed
+12900,390,2025-07-21,Size mismatch,12518.09,Completed
+7546,281,2025-12-21,Quality issue,1429.92,Approved
+2454,468,2025-03-08,Defective item,4185.54,Requested
+13214,98,2026-01-13,Product not as described,20692.97,Completed
+18650,24,2025-01-12,Wrong item delivered,845.63,Completed
+18569,407,2024-10-07,Damaged product,3188.74,Completed
+2218,72,2026-02-18,Product not as described,20139.16,Approved
+19361,111,2024-10-27,Changed mind,13241.13,Approved
+12885,79,2025-02-27,Late delivery,1077.66,Approved
+16151,278,2024-08-28,Late delivery,3566.7,Rejected
+3415,477,2025-01-13,Wrong item delivered,2021.93,Completed
+13968,364,2024-11-04,Changed mind,20521.13,Completed
+16496,171,2025-11-14,Changed mind,19688.47,Completed
+14502,82,2026-07-07,Wrong item delivered,12781.88,Requested
+14711,38,2024-08-08,Late delivery,14722.07,Completed
+9722,34,2025-05-25,Product not as described,9647.51,Completed
+16254,146,2024-09-22,Quality issue,18053.45,Approved
+15677,23,2024-11-18,Quality issue,14739.83,Completed
+8760,180,2025-09-25,Size mismatch,23068.88,Completed
+1757,87,2026-03-31,Size mismatch,24863.07,Completed
+13740,231,2024-12-30,Late delivery,3201.96,Approved
+7695,201,2025-12-24,Size mismatch,1445.99,Approved
+19486,389,2026-05-03,Late delivery,22475.46,Completed
+8674,134,2025-09-28,Late delivery,13611.48,Completed
+13758,388,2025-04-22,Quality issue,17376.79,Completed
+18769,191,2024-11-10,Defective item,14136.65,Completed
+19117,293,2025-07-05,Wrong item delivered,20586.12,Completed
+7013,178,2025-09-15,Wrong item delivered,2174.48,Completed
+789,82,2024-12-12,Defective item,11008.68,Completed
+19509,340,2026-06-15,Product not as described,20517.94,Completed
+16433,119,2025-01-02,Late delivery,2951.56,Completed
+19161,251,2025-12-11,Wrong item delivered,417.94,Approved
+267,209,2025-03-12,Late delivery,17551.15,Rejected
+5956,73,2026-04-11,Late delivery,13950.88,Approved
+7420,350,2024-12-03,Changed mind,12201.37,Completed
+19536,230,2024-10-08,Defective item,11119.2,Rejected
+12808,242,2025-04-22,Size mismatch,18471.01,Requested
+13201,423,2026-01-30,Size mismatch,13113.81,Completed
+15096,324,2025-06-05,Changed mind,10370.24,Completed
+16303,465,2026-07-09,Size mismatch,17863.63,Completed
+3271,394,2025-04-23,Size mismatch,1711.37,Completed
+16123,150,2024-07-28,Damaged product,16665.62,Completed
+3228,362,2026-02-03,Late delivery,11721.86,Rejected
+12488,442,2026-04-20,Changed mind,4916.09,Completed
+18399,470,2026-06-21,Defective item,1919.26,Completed
+8907,445,2025-08-08,Product not as described,11555.52,Requested
+13767,159,2025-09-22,Defective item,9170.95,Requested
+16958,474,2025-03-18,Wrong item delivered,4931.29,Completed
+11510,111,2024-09-01,Quality issue,18213.59,Completed
+10063,406,2025-11-02,Size mismatch,482.46,Completed
+14941,122,2026-06-07,Quality issue,9856.6,Completed
+3363,56,2025-04-29,Product not as described,7649.92,Requested
+5235,118,2025-05-27,Changed mind,1988.37,Rejected
+10899,320,2025-02-03,Quality issue,22074.77,Completed
+17387,151,2026-06-29,Product not as described,13885.47,Approved
+7002,9,2024-09-20,Defective item,18225.12,Completed
+18302,26,2025-04-11,Product not as described,15810.89,Requested
+12817,225,2026-02-14,Quality issue,14668.19,Rejected
+9939,497,2025-06-11,Quality issue,3564.33,Completed
+7623,77,2025-07-23,Defective item,2062.13,Rejected
+15609,99,2025-12-18,Quality issue,4742.88,Completed
+13202,151,2026-01-16,Late delivery,4180.28,Completed
+10585,276,2026-06-01,Product not as described,9218.99,Rejected
+12430,443,2026-01-17,Defective item,14569.32,Requested
+7631,219,2026-05-11,Late delivery,20589.36,Completed
+19895,137,2026-05-09,Late delivery,18053.94,Completed
+1876,305,2026-05-02,Changed mind,9748.29,Completed
+94,430,2025-11-06,Defective item,4085.77,Completed
+17707,465,2026-05-28,Quality issue,15438.87,Approved
+19706,184,2024-07-20,Product not as described,7857.7,Completed
+5998,24,2025-11-06,Damaged product,21926.98,Approved
+7664,66,2025-07-24,Changed mind,1483,Approved
+7101,486,2026-05-16,Quality issue,6153.11,Completed
+2742,377,2025-09-30,Quality issue,16469.29,Rejected
+10868,73,2026-02-26,Late delivery,22584.14,Rejected
+10652,90,2025-01-17,Defective item,20702.94,Completed
+8267,336,2026-04-13,Wrong item delivered,12564.85,Completed
+4140,263,2024-08-02,Wrong item delivered,19728.53,Approved
+8028,422,2024-07-27,Defective item,12601.1,Completed
+9631,100,2025-08-07,Damaged product,2347.51,Completed
+5416,312,2024-10-18,Damaged product,13867.3,Completed
+12128,290,2024-09-04,Quality issue,18379.55,Completed
+17926,131,2026-01-03,Damaged product,9962.99,Completed
+19960,489,2026-01-16,Damaged product,17089.67,Completed
+11653,301,2026-04-25,Changed mind,6852.57,Completed
+8989,263,2025-08-09,Quality issue,21744.86,Completed
+17926,57,2025-06-01,Size mismatch,12722.92,Completed
+16003,232,2026-07-03,Wrong item delivered,20210.24,Approved
+398,177,2024-10-17,Product not as described,133.88,Completed
+11693,280,2026-04-29,Size mismatch,16137.63,Completed
+9507,163,2025-04-10,Quality issue,2930.07,Completed
+10623,500,2026-03-22,Product not as described,458.57,Completed
+3198,187,2025-01-26,Quality issue,5346.4,Approved
+913,275,2024-10-15,Product not as described,12372.91,Rejected
+7681,342,2026-01-25,Late delivery,7272.62,Completed
+727,336,2026-07-04,Size mismatch,23224.48,Completed
+4225,480,2026-06-21,Wrong item delivered,12371.85,Approved
+6372,224,2026-01-25,Damaged product,7742.26,Completed
+16292,242,2026-05-12,Quality issue,4835.84,Rejected
+19290,10,2025-10-23,Product not as described,16126.17,Completed
+10503,75,2026-05-29,Product not as described,11916.4,Completed
+5990,20,2024-07-17,Quality issue,6959.64,Completed
+5587,180,2025-06-23,Defective item,11533.11,Rejected
+11575,24,2024-12-15,Late delivery,16353.94,Completed
+6046,471,2025-03-01,Changed mind,10946.99,Completed
+7643,244,2026-06-08,Product not as described,6899.9,Approved
+15607,1,2024-11-02,Size mismatch,6716.54,Completed
+1496,403,2025-06-01,Wrong item delivered,12529.18,Rejected
+15912,13,2026-06-04,Damaged product,14970.14,Completed
+4800,250,2025-05-03,Defective item,17054.27,Completed
+8755,87,2026-05-27,Defective item,4920.36,Completed
+3181,383,2026-01-06,Size mismatch,12024.06,Approved
+11882,190,2025-09-04,Quality issue,11067.65,Completed
+13852,46,2024-08-03,Wrong item delivered,10848.65,Completed
+11997,252,2026-03-23,Changed mind,4777,Completed
+13273,227,2025-07-17,Damaged product,7969.91,Approved
+15312,21,2025-02-14,Wrong item delivered,21783.42,Rejected
+7103,85,2025-06-18,Size mismatch,16329.85,Completed
+3264,394,2025-07-12,Damaged product,24818.26,Rejected
+8039,276,2025-06-01,Changed mind,1640.8,Completed
+9626,35,2026-01-14,Damaged product,9098.25,Completed
+17782,422,2025-07-08,Product not as described,21255.74,Completed
+1137,433,2026-06-23,Damaged product,24558.15,Completed
+3930,236,2025-03-10,Product not as described,3331,Requested
+15732,252,2025-06-23,Product not as described,1473.08,Completed
+14399,313,2025-07-01,Damaged product,8901,Rejected
+1298,278,2024-07-13,Quality issue,2496.39,Completed
+6190,375,2026-06-17,Damaged product,13726.69,Completed
+5876,179,2025-08-21,Changed mind,13853.94,Completed
+6841,169,2025-03-04,Size mismatch,12075.21,Requested
+14002,422,2025-08-15,Product not as described,11508.16,Completed
+4476,118,2025-08-03,Damaged product,24625.99,Completed
+13446,414,2025-09-28,Late delivery,4287.8,Completed
+10279,218,2025-03-27,Size mismatch,16137.87,Completed
+19554,266,2026-05-27,Quality issue,11302.85,Requested
+19416,222,2024-07-12,Late delivery,12008.87,Completed
+12590,470,2025-03-06,Quality issue,12394.98,Approved
+8984,321,2025-03-09,Damaged product,13405.5,Requested
+6080,71,2025-07-18,Defective item,3453.13,Completed
+11316,11,2025-12-20,Changed mind,19128.55,Approved
+9406,314,2024-12-11,Damaged product,9465.52,Completed
+15003,471,2024-07-15,Quality issue,459.66,Completed
+4534,262,2025-02-24,Damaged product,18085.49,Requested
+11042,108,2025-10-30,Late delivery,20262.31,Completed
+7900,20,2026-02-02,Late delivery,19730.66,Requested
+3461,369,2024-08-07,Size mismatch,14301.07,Completed
+4661,413,2025-01-26,Product not as described,11240.78,Completed
+7797,441,2026-01-29,Wrong item delivered,1348.31,Completed
+5653,33,2026-07-02,Late delivery,14665.74,Approved
+11482,204,2025-04-14,Changed mind,10284.75,Completed
+5414,126,2024-07-29,Late delivery,15240.63,Requested
+4903,278,2025-09-17,Product not as described,18305.49,Completed
+2158,11,2026-05-24,Defective item,12199.89,Approved
+17050,352,2026-07-08,Changed mind,6702.94,Completed
+14953,129,2025-08-07,Changed mind,14763.83,Completed
+9376,472,2025-08-23,Size mismatch,1272.86,Approved
+3347,88,2026-06-23,Quality issue,7474.4,Approved
+9526,361,2024-12-23,Wrong item delivered,22736.33,Completed
+8095,432,2025-05-14,Quality issue,19168.26,Approved
+1260,402,2025-09-22,Quality issue,11192.13,Completed
+1449,325,2026-06-21,Changed mind,9800.88,Approved
+13654,470,2026-04-03,Wrong item delivered,22953.49,Approved
+9046,226,2026-03-21,Size mismatch,14683.77,Completed
+10447,348,2026-03-22,Damaged product,9879.54,Completed
+11364,368,2024-10-26,Product not as described,17773.99,Approved
+19920,488,2025-08-09,Defective item,3470.79,Completed
+2944,460,2026-02-12,Defective item,13317.56,Approved
+6147,258,2025-02-04,Damaged product,20177.13,Completed
+13198,142,2025-04-20,Size mismatch,23012.96,Completed
+15258,410,2026-05-25,Damaged product,18313.21,Completed
+415,490,2024-12-28,Defective item,12413.93,Rejected
+8928,52,2025-01-09,Late delivery,20691.86,Approved
+3628,415,2026-01-25,Late delivery,1824.49,Completed
+11443,171,2024-09-17,Size mismatch,14026.58,Completed
+10326,120,2024-12-22,Product not as described,12977.73,Requested
+13472,459,2025-06-02,Product not as described,18961.45,Completed
+19039,6,2024-10-24,Wrong item delivered,23918.88,Completed
+12798,249,2024-12-30,Changed mind,8503.31,Completed
+1601,465,2026-02-07,Late delivery,23061.35,Completed
+16573,125,2025-09-01,Changed mind,7952.74,Completed
+5658,9,2024-11-25,Late delivery,9001.86,Completed
+6381,335,2025-03-25,Damaged product,1161.98,Completed
+3068,211,2025-11-02,Size mismatch,19484.04,Completed
+10408,79,2024-12-30,Wrong item delivered,15094.21,Rejected
+4125,404,2024-07-19,Size mismatch,21737.33,Completed
+2895,215,2026-02-28,Quality issue,21735.57,Requested
+2912,12,2025-12-22,Quality issue,15141.06,Completed
+2410,368,2025-01-13,Late delivery,23130.93,Completed
+3878,224,2025-04-02,Quality issue,15748.84,Completed
+4935,375,2025-04-14,Defective item,11580.19,Completed
+17108,312,2024-08-16,Size mismatch,6580.84,Approved
+19985,315,2026-04-16,Damaged product,17135.78,Completed
+15648,342,2026-05-07,Damaged product,19155.26,Approved
+8736,135,2025-07-28,Size mismatch,15383.62,Completed
+6710,170,2025-06-12,Changed mind,23203.08,Requested
+15747,297,2025-05-11,Defective item,24714.1,Requested
+2014,443,2024-08-16,Wrong item delivered,15461.48,Rejected
+16909,75,2024-11-04,Damaged product,15789.44,Completed
+13253,36,2024-10-19,Late delivery,2343.79,Completed
+8167,418,2026-03-06,Defective item,19388.68,Completed
+15347,58,2025-12-02,Quality issue,1611.74,Rejected
+16727,499,2024-08-18,Defective item,9894.37,Rejected
+18179,171,2024-10-18,Quality issue,2176.4,Completed
+4042,305,2025-10-09,Late delivery,2632.71,Rejected
+5921,251,2024-12-26,Damaged product,12389.5,Rejected
+9352,170,2024-12-26,Wrong item delivered,3084.8,Requested
+17270,412,2026-01-20,Quality issue,4249.54,Rejected
+14389,316,2026-03-30,Defective item,2563.61,Approved
+12730,218,2025-07-30,Changed mind,21986.21,Requested
+15010,471,2025-01-15,Product not as described,17707.95,Completed
+14795,376,2024-10-22,Defective item,15643.14,Completed
+15122,157,2025-08-05,Late delivery,3352.93,Completed
+18704,168,2025-09-17,Defective item,10208.89,Requested
+9340,393,2026-07-08,Quality issue,297.82,Approved
+13755,473,2024-07-25,Wrong item delivered,1302.27,Requested
+1498,234,2025-12-13,Changed mind,15491.48,Completed
+5107,221,2024-11-03,Wrong item delivered,23377.46,Rejected
+5560,10,2025-01-28,Damaged product,5456.16,Completed
+13136,153,2024-08-22,Product not as described,21542.16,Approved
+12425,392,2025-06-27,Damaged product,5693.83,Rejected
+15365,248,2026-07-08,Damaged product,5879.17,Completed
+19645,74,2025-12-01,Size mismatch,18246.21,Completed
+18713,437,2025-05-26,Changed mind,21990.93,Completed
+19707,330,2026-06-12,Defective item,18499.01,Requested
+14031,212,2026-02-22,Product not as described,6309.91,Completed
+12476,286,2025-09-19,Product not as described,24344.17,Completed
+7212,165,2026-01-11,Defective item,11826.94,Rejected
+4367,115,2026-06-19,Changed mind,5346.01,Completed
+2985,393,2024-09-13,Defective item,964.12,Completed
+17436,133,2025-11-26,Wrong item delivered,11957.14,Completed
+2232,474,2024-10-05,Defective item,19663.38,Completed
+11633,252,2026-04-11,Damaged product,7907.41,Completed
+16344,71,2025-12-28,Quality issue,7635.43,Completed
+9966,295,2025-07-21,Changed mind,21845.85,Completed
+15000,65,2025-08-17,Wrong item delivered,3787.37,Completed
+1743,149,2025-10-23,Damaged product,10645.57,Requested
+8884,212,2025-10-17,Late delivery,24718.68,Approved
+9835,113,2025-08-20,Defective item,1555.66,Completed
+13507,261,2025-12-31,Size mismatch,19994.06,Completed
+16357,424,2025-07-15,Size mismatch,22255.52,Completed
+2040,399,2026-01-18,Product not as described,19773.25,Approved
+10557,265,2024-08-31,Size mismatch,6741.12,Completed
+18525,135,2024-08-06,Changed mind,5576.15,Completed
+10200,142,2026-03-14,Product not as described,2415.3,Completed
+17785,92,2024-11-17,Product not as described,13753.57,Rejected
+9719,38,2026-03-10,Damaged product,15587.31,Completed
+12649,226,2026-05-19,Changed mind,4051.68,Approved
+4110,478,2024-07-21,Product not as described,8596.2,Completed
+16783,460,2026-06-27,Late delivery,19524.38,Completed
+8014,208,2024-07-27,Size mismatch,13172.8,Completed
+3890,209,2026-06-20,Product not as described,21203.97,Completed
+14645,222,2024-10-31,Product not as described,11494.7,Completed
+1740,318,2025-12-15,Size mismatch,1256.75,Approved
+17363,469,2024-11-14,Late delivery,7747.65,Completed
+14943,244,2024-07-24,Size mismatch,7339.45,Rejected
+11452,49,2026-02-16,Damaged product,1984.13,Completed
+3284,305,2025-02-16,Damaged product,20343.93,Completed
+8585,212,2026-02-07,Size mismatch,22962.6,Completed
+7714,188,2026-02-13,Changed mind,21470.16,Completed
+14636,25,2025-01-21,Changed mind,2328.05,Completed
+18795,404,2025-03-31,Size mismatch,22873.05,Requested
+1794,337,2026-03-01,Defective item,12414.65,Rejected
+8801,395,2025-01-01,Damaged product,16585.8,Requested
+4622,238,2024-08-05,Late delivery,14033.36,Completed
+16451,121,2026-06-16,Late delivery,386.28,Requested
+14767,170,2026-06-01,Product not as described,20823.21,Completed
+1651,125,2024-12-15,Size mismatch,1513.92,Completed
+10526,354,2024-12-05,Defective item,5499.56,Completed
+19183,240,2025-06-30,Quality issue,17902.65,Approved
+5736,191,2025-08-10,Wrong item delivered,13222.03,Approved
+10433,376,2026-04-09,Product not as described,13302.01,Completed
+8133,213,2024-12-01,Defective item,2789.35,Completed
+13970,216,2025-06-01,Changed mind,16084.96,Completed
+8302,438,2026-02-22,Product not as described,12627.4,Completed
+1944,261,2024-08-31,Late delivery,6801.29,Requested
+11335,115,2024-10-15,Size mismatch,18238.05,Completed
+17870,218,2026-01-31,Changed mind,4250.47,Requested
+7565,42,2025-01-18,Changed mind,17564.89,Completed
+5424,374,2025-10-19,Changed mind,24801.45,Completed
+19661,385,2026-05-31,Wrong item delivered,6370.06,Rejected
+4499,456,2025-06-23,Defective item,9794.8,Completed
+1365,204,2025-12-01,Size mismatch,6917.13,Completed
+7005,104,2025-03-22,Size mismatch,3178.94,Completed
+3642,316,2024-09-14,Wrong item delivered,21433.43,Completed
+9190,499,2026-04-30,Product not as described,9076.99,Completed
+10041,469,2025-09-20,Quality issue,21485.52,Completed
+9726,301,2026-06-01,Product not as described,15914.11,Approved
+13429,223,2025-11-08,Defective item,12805.38,Approved
+11641,188,2025-07-29,Damaged product,21730.34,Completed
+3611,372,2025-02-19,Changed mind,4584.52,Completed
+8738,455,2024-07-23,Changed mind,17359.34,Completed
+10550,193,2024-07-25,Quality issue,20772.22,Completed
+847,468,2024-07-28,Quality issue,12683.21,Requested
+8234,6,2026-02-20,Damaged product,5419.82,Completed
+11352,98,2025-11-26,Late delivery,11880.9,Approved
+7831,330,2025-08-06,Late delivery,18735.84,Completed
+10529,56,2025-08-13,Changed mind,14875.91,Completed
+74,440,2025-11-29,Product not as described,20339.92,Completed
+17879,140,2025-06-02,Late delivery,23646.53,Requested
+13678,10,2025-09-15,Wrong item delivered,15113,Completed
+10388,137,2026-02-18,Product not as described,566.23,Approved
+13813,434,2026-03-05,Product not as described,11352.63,Approved
+16768,190,2026-04-07,Damaged product,7675.05,Completed
+12468,423,2026-06-29,Size mismatch,18986.63,Approved
+3186,370,2024-12-24,Damaged product,24387.22,Completed
+58,436,2025-02-19,Defective item,24760.62,Rejected
+3259,452,2026-04-24,Quality issue,912.27,Completed
+571,27,2026-04-17,Size mismatch,2040.45,Completed
+15736,134,2026-01-24,Product not as described,11061.8,Completed
+14877,303,2024-12-07,Defective item,22373.63,Completed
+15893,284,2025-05-07,Quality issue,10484.5,Completed
+1308,441,2026-01-11,Damaged product,16878.65,Completed
+7916,493,2024-07-17,Product not as described,19217.97,Completed
+16652,368,2026-05-04,Size mismatch,12999.52,Completed
+14303,450,2025-07-20,Product not as described,10734.85,Approved
+6216,495,2024-12-15,Defective item,10324.72,Approved
+1832,243,2024-11-18,Size mismatch,911.06,Rejected
+11847,85,2025-09-21,Size mismatch,16285.52,Approved
+19594,416,2025-01-23,Changed mind,11732.74,Completed
+4558,285,2025-03-14,Changed mind,15985.14,Completed
+17738,398,2024-07-28,Product not as described,4354.17,Requested
+7001,195,2024-10-24,Defective item,8743.88,Completed
+10225,299,2024-08-23,Damaged product,21176.2,Approved
+279,471,2025-09-14,Defective item,966.45,Approved
+10549,338,2025-04-23,Defective item,19773.59,Completed
+3556,417,2026-03-04,Quality issue,3735.74,Completed
+13491,252,2024-10-07,Late delivery,4722.5,Completed
+8667,94,2026-01-01,Size mismatch,9404.83,Rejected
+16289,485,2025-02-20,Size mismatch,13619.56,Completed
+18832,143,2025-01-06,Wrong item delivered,7525.9,Completed
+7844,368,2026-03-06,Size mismatch,2591.01,Completed
+15443,91,2025-10-03,Changed mind,24477.4,Completed
+2921,143,2025-09-02,Damaged product,20270.42,Approved
+19364,16,2026-03-13,Damaged product,16719.43,Rejected
+10841,160,2025-07-27,Defective item,20694.25,Approved
+19961,252,2025-08-20,Defective item,21733.67,Completed
+6352,191,2024-10-16,Wrong item delivered,16286.4,Requested
+7697,498,2026-06-18,Changed mind,3784.21,Rejected
+14863,451,2026-07-02,Changed mind,998.42,Completed
+11484,488,2026-01-26,Size mismatch,22185.65,Completed
+19743,146,2025-10-07,Defective item,11868.33,Approved
+7900,14,2025-03-19,Damaged product,18340.93,Requested
+11300,432,2025-11-03,Changed mind,8199.51,Completed
+9970,493,2025-07-05,Quality issue,19824.18,Completed
+3265,58,2026-06-10,Damaged product,18970.24,Completed
+18271,458,2025-08-15,Changed mind,19271.37,Requested
+14968,31,2024-12-15,Quality issue,12601.46,Completed
+15868,500,2025-02-26,Defective item,9789.5,Completed
+3260,52,2024-12-07,Product not as described,15997.19,Completed
+14491,332,2025-10-25,Damaged product,15411.85,Completed
+17021,120,2025-06-24,Quality issue,935.74,Approved
+10273,19,2025-01-23,Changed mind,20114.6,Completed
+8659,95,2025-05-09,Wrong item delivered,15039.27,Completed
+4706,452,2026-01-03,Defective item,3210.22,Rejected
+13899,127,2025-05-14,Product not as described,4618.22,Completed
+16271,305,2025-07-29,Defective item,9102.77,Requested
+12476,498,2024-12-04,Changed mind,16855.1,Requested
+4298,375,2025-10-19,Size mismatch,24857.8,Requested
+2911,341,2025-03-01,Quality issue,11000.04,Completed
+507,334,2025-01-17,Quality issue,5379.61,Completed
+5865,32,2025-02-14,Late delivery,7868.38,Completed
+1183,218,2025-03-05,Changed mind,7147.82,Rejected
+3363,153,2024-09-12,Damaged product,14601.99,Completed
+281,376,2026-05-30,Damaged product,938.15,Completed
+2760,269,2024-09-12,Wrong item delivered,13528.15,Approved
+15265,282,2025-10-10,Wrong item delivered,22395.53,Completed
+17700,45,2025-04-22,Late delivery,23555.94,Approved
+19970,32,2025-11-06,Late delivery,8452.33,Completed
+16831,310,2025-01-20,Defective item,9027.07,Rejected
+17795,218,2026-02-12,Defective item,23894.58,Completed
+9442,278,2024-10-21,Changed mind,10694.37,Completed
+10512,428,2025-11-16,Late delivery,14559.99,Completed
+9589,39,2025-04-20,Wrong item delivered,12269.48,Completed
+12897,457,2025-04-06,Product not as described,13808.39,Completed
+17341,64,2025-01-05,Wrong item delivered,24078.63,Completed
+6707,39,2026-02-16,Quality issue,21256.26,Rejected
+18038,281,2025-08-14,Product not as described,1738.94,Completed
+17421,374,2026-05-27,Defective item,23315.29,Completed
+13894,228,2025-03-30,Late delivery,265.07,Completed
+18668,346,2024-09-19,Size mismatch,7385.14,Completed
+12056,125,2024-09-28,Product not as described,1899.76,Requested
+9228,434,2026-04-09,Damaged product,6461.24,Approved
+16578,445,2024-12-17,Size mismatch,5301.37,Completed
+16097,489,2025-05-11,Quality issue,1137.75,Rejected
+8473,178,2025-12-11,Changed mind,10015.46,Completed
+8789,270,2025-11-18,Damaged product,20744.37,Completed
+2499,110,2025-10-27,Product not as described,5009.88,Requested
+10062,119,2025-06-30,Size mismatch,16046.96,Completed
+4454,112,2025-09-07,Size mismatch,17549.12,Completed
+16141,429,2025-01-29,Late delivery,4190.2,Completed
+2654,384,2025-07-03,Defective item,3775.6,Completed
+17606,176,2025-02-21,Size mismatch,9065.02,Completed
+9331,160,2025-02-03,Changed mind,6584.03,Completed
+4573,129,2025-08-30,Product not as described,3540.98,Rejected
+1880,280,2025-09-23,Defective item,9400.82,Completed
+2061,132,2025-09-23,Defective item,794.08,Completed
+4333,36,2025-06-07,Late delivery,1746.81,Approved
+13950,497,2025-11-26,Product not as described,21964.5,Approved
+5444,289,2025-04-12,Changed mind,20774.78,Completed
+13981,253,2026-04-21,Defective item,1783.05,Rejected
+7943,455,2025-01-18,Quality issue,2605.65,Completed
+4240,263,2024-11-17,Defective item,13688.7,Rejected
+7138,233,2024-12-03,Quality issue,4525.17,Completed
+11989,417,2024-11-14,Changed mind,6009.75,Completed
+1850,90,2024-09-25,Late delivery,21789.9,Completed
+11660,52,2024-07-14,Wrong item delivered,12621.83,Completed
+9000,224,2024-11-25,Size mismatch,5186.16,Completed
+4855,328,2025-07-10,Size mismatch,2793.78,Completed
+11332,25,2025-08-28,Product not as described,758.42,Completed
+17436,72,2026-02-03,Damaged product,7045.53,Approved
+10825,466,2025-11-28,Late delivery,24943.64,Approved
+14525,121,2025-01-12,Size mismatch,22114.58,Completed
+2564,241,2025-10-18,Size mismatch,15168.18,Approved
+8204,215,2024-10-24,Quality issue,21276.25,Completed
+8785,168,2025-01-04,Quality issue,13675.77,Completed
+18965,395,2024-11-14,Defective item,9265.47,Completed
+10892,498,2025-01-16,Size mismatch,22359.3,Requested
+14887,169,2024-08-24,Damaged product,15995.85,Requested
+7702,196,2024-07-13,Damaged product,500.87,Completed
+11826,141,2026-02-16,Wrong item delivered,20581.19,Completed
+5465,340,2026-06-20,Quality issue,23540.42,Rejected
+12296,494,2024-11-16,Quality issue,16022.96,Completed
+9921,358,2025-11-26,Damaged product,19293.3,Approved
+2637,20,2025-07-21,Late delivery,14438.8,Completed
+16975,78,2026-02-07,Size mismatch,8996.27,Rejected
+2756,372,2024-12-23,Late delivery,3602.02,Completed
+16009,49,2026-04-13,Damaged product,15214.79,Completed
+9810,203,2024-09-25,Defective item,6534.08,Completed
+17101,252,2026-02-03,Damaged product,2533.66,Completed
+142,386,2025-02-21,Wrong item delivered,11614.92,Completed
+15842,242,2026-05-01,Damaged product,7953.34,Rejected
+4030,14,2026-06-23,Quality issue,9853.67,Completed
+1019,8,2025-09-30,Quality issue,310.73,Completed
+14592,244,2025-02-11,Wrong item delivered,6378.87,Requested
+15798,237,2025-12-11,Changed mind,21800.34,Completed
+17900,125,2025-03-23,Defective item,17817.9,Rejected
+11911,365,2026-02-26,Size mismatch,19353.98,Requested
+19988,79,2026-04-10,Product not as described,1058.92,Approved
+7642,339,2026-06-27,Late delivery,5494.86,Completed
+10303,282,2025-09-01,Changed mind,8818.27,Completed
+9235,281,2026-06-09,Late delivery,1159.9,Completed
+11083,303,2025-10-13,Product not as described,22334.11,Approved
+9077,67,2025-03-25,Quality issue,5621.06,Completed
+15090,386,2025-06-27,Product not as described,10228.47,Completed
+8271,235,2025-03-24,Size mismatch,2735.63,Completed
+5367,462,2025-05-17,Changed mind,18378.54,Completed
+19478,271,2026-04-05,Defective item,1137.95,Completed
+16479,309,2025-11-02,Quality issue,8284.83,Completed
+9477,286,2024-08-24,Late delivery,7154.68,Approved
+8806,68,2025-05-17,Late delivery,2426.56,Approved
+18220,450,2025-12-22,Late delivery,20416.22,Completed
+3430,243,2026-03-23,Damaged product,6542.03,Rejected
+19950,177,2026-01-08,Changed mind,8222.11,Completed
+15338,416,2025-02-08,Size mismatch,819.95,Completed
+15494,400,2026-01-09,Defective item,20703.38,Completed
+6392,476,2025-10-08,Product not as described,14879.37,Completed
+16731,197,2026-01-19,Defective item,14503.87,Completed
+11048,34,2026-07-08,Changed mind,15713.82,Approved
+10764,6,2025-08-11,Product not as described,4962.98,Approved
+460,394,2025-04-16,Late delivery,11344.78,Rejected
+18210,107,2025-03-10,Damaged product,15013.97,Rejected
+13747,483,2025-10-06,Size mismatch,21243.55,Completed
+18787,404,2025-02-22,Damaged product,6691.73,Completed
+4467,361,2025-04-26,Size mismatch,14364.42,Approved
+18320,82,2026-03-20,Quality issue,24987.55,Completed
+5256,368,2024-07-16,Changed mind,24284.52,Completed
+3663,199,2025-08-24,Size mismatch,8249.09,Completed
+1320,341,2025-12-27,Defective item,2204.43,Completed
+5683,127,2026-04-01,Damaged product,4432.96,Completed
+6911,192,2024-07-29,Late delivery,16847.74,Rejected
+16648,400,2025-04-20,Size mismatch,11066.86,Approved
+18947,280,2024-10-27,Size mismatch,18811.88,Approved
+76,13,2025-07-06,Quality issue,21762.55,Completed
+4327,51,2024-07-18,Damaged product,19984.33,Completed
+14920,404,2025-11-23,Product not as described,6271.25,Completed
+6254,210,2026-04-14,Damaged product,3941.87,Completed
+16653,236,2026-03-27,Changed mind,10848.21,Completed
+282,295,2025-04-08,Quality issue,6724.23,Completed
+16675,165,2025-09-13,Damaged product,21408.67,Approved
+10985,186,2025-08-11,Damaged product,16334.04,Completed
+14471,403,2024-10-18,Defective item,17121.13,Approved
+16270,190,2024-08-01,Wrong item delivered,22445.95,Requested
+3843,294,2025-06-04,Damaged product,3328.34,Requested
+17479,373,2025-05-01,Changed mind,3321.22,Approved
+16582,326,2025-05-26,Defective item,12264.73,Completed
+18329,401,2024-11-16,Product not as described,11628.65,Completed
+11568,55,2026-01-17,Changed mind,10255.59,Approved
+7184,432,2026-03-01,Wrong item delivered,17391.99,Completed
+14655,145,2025-09-03,Wrong item delivered,8242.18,Completed
+10316,229,2025-04-29,Size mismatch,14334.11,Rejected
+3383,361,2025-03-28,Product not as described,9765.57,Rejected
+16589,481,2025-02-09,Wrong item delivered,22399.75,Requested
+12732,41,2026-07-06,Late delivery,883.35,Rejected
+17744,300,2025-06-03,Damaged product,270.44,Completed
+13687,168,2024-09-02,Size mismatch,13547.31,Approved
+19127,231,2024-12-15,Size mismatch,17051.23,Completed
+8203,374,2024-11-05,Damaged product,10814.99,Completed
+14619,292,2026-04-06,Wrong item delivered,20628.11,Completed
+14533,189,2025-05-08,Changed mind,13650.09,Completed
+11911,373,2024-08-22,Wrong item delivered,1528.91,Completed
+10786,397,2025-02-07,Size mismatch,23009.52,Completed
+7883,93,2025-10-15,Defective item,21207.05,Completed
+3670,63,2025-12-09,Damaged product,4969.25,Approved
+7357,109,2025-03-22,Defective item,8425.2,Requested
+11988,28,2025-12-19,Late delivery,13096.67,Rejected
+14279,450,2025-07-07,Changed mind,24578.23,Approved
+11533,225,2026-02-17,Late delivery,24230.94,Completed
+19974,34,2024-10-25,Late delivery,21554.97,Approved
+944,63,2025-08-03,Size mismatch,9322.87,Completed
+15518,69,2024-11-18,Product not as described,24413.86,Completed
+19744,414,2025-09-16,Quality issue,9209.41,Completed
+18494,233,2024-08-01,Changed mind,23740.75,Requested
+10669,433,2024-10-17,Quality issue,10239.71,Completed
+3931,271,2025-03-06,Wrong item delivered,10314.06,Requested
+752,242,2026-04-15,Size mismatch,2194.24,Completed
+5147,279,2026-06-29,Changed mind,22577.83,Completed
+11227,490,2025-09-04,Size mismatch,11479.09,Approved
+15831,278,2026-05-02,Size mismatch,24165.07,Completed
+13313,27,2024-11-24,Damaged product,5304.15,Completed
+8531,166,2026-03-10,Product not as described,8864.63,Completed
+6854,164,2025-11-27,Wrong item delivered,8455.51,Rejected
+14231,79,2025-05-30,Quality issue,9697.88,Completed
+14644,95,2026-01-01,Wrong item delivered,15485.59,Approved
+10256,420,2026-01-05,Changed mind,17737.65,Completed
+19447,292,2026-03-05,Changed mind,21464.89,Completed
+420,391,2025-09-18,Wrong item delivered,4792.36,Completed
+17996,244,2026-02-23,Late delivery,21433.07,Rejected
+4062,238,2025-01-02,Size mismatch,8773.88,Completed
+4795,376,2025-04-04,Late delivery,22710.96,Approved
+8186,190,2025-11-26,Late delivery,1785.84,Requested
+17054,362,2025-04-26,Late delivery,22009.07,Approved
+3001,379,2025-04-09,Defective item,22144.31,Completed
+5033,172,2026-04-27,Late delivery,10753.57,Completed
+9419,387,2025-11-13,Product not as described,12969.68,Completed
+13073,184,2025-01-01,Changed mind,15364.7,Completed
+9284,466,2024-10-16,Product not as described,9137.01,Completed
+5889,237,2026-06-29,Product not as described,21280.26,Rejected
+13582,382,2026-05-10,Wrong item delivered,13363.77,Requested
+7654,187,2025-03-03,Late delivery,23778.84,Completed
+421,475,2026-03-07,Late delivery,23486.62,Completed
+8812,197,2025-01-19,Quality issue,8807.71,Approved
+4813,395,2025-03-05,Late delivery,5997.12,Completed
+19083,67,2025-03-17,Late delivery,3324.24,Completed
+2104,219,2026-06-21,Defective item,3277.31,Rejected
+7823,304,2024-08-11,Size mismatch,20905.24,Approved
+3283,454,2026-06-07,Changed mind,7402.19,Approved
+3302,469,2025-07-10,Late delivery,13406.46,Completed
+10844,77,2026-07-05,Changed mind,16148.01,Completed
+4489,251,2024-09-03,Product not as described,448.37,Completed
+9960,40,2024-09-02,Wrong item delivered,3040.48,Rejected
+6489,388,2024-07-23,Wrong item delivered,5913.57,Approved
+5985,410,2025-08-25,Size mismatch,7886.95,Rejected
+10383,390,2025-10-27,Changed mind,11647.29,Completed
+7465,487,2024-09-18,Changed mind,3705.92,Completed
+3069,336,2024-09-22,Quality issue,11475.86,Completed
+7489,296,2025-03-11,Changed mind,23846.85,Rejected
+15743,107,2025-10-02,Product not as described,12875.31,Requested
+11245,94,2025-01-09,Defective item,16929.84,Completed
+10562,127,2024-11-06,Wrong item delivered,4717.02,Requested
+17036,198,2025-04-23,Product not as described,9194.47,Completed
+2165,345,2025-07-29,Size mismatch,392.3,Approved
+17070,288,2026-04-11,Product not as described,10714.41,Completed
+9711,34,2025-07-09,Product not as described,17366.68,Requested
+2098,347,2026-03-01,Changed mind,2601.66,Completed
+9486,451,2024-12-08,Product not as described,23722.26,Completed
+6488,91,2024-11-17,Defective item,13000.51,Completed
+7494,179,2025-11-14,Quality issue,2900.5,Approved
+16707,267,2024-08-30,Product not as described,20163.09,Completed
+3475,354,2024-09-25,Quality issue,19076.54,Approved
+6523,155,2024-09-18,Damaged product,21635.58,Completed
+7631,355,2025-09-05,Damaged product,2198.79,Requested
+8915,462,2025-08-25,Defective item,8027.43,Completed
+3704,373,2025-10-17,Defective item,8624.01,Rejected
+10365,252,2026-03-17,Damaged product,24715.48,Completed
+7664,117,2026-05-09,Damaged product,2672.48,Requested
+19276,287,2026-03-05,Size mismatch,2358.38,Completed
+18296,95,2025-02-05,Defective item,8766.02,Completed
+18473,121,2026-02-06,Product not as described,14955.82,Completed
+6787,250,2025-07-06,Wrong item delivered,3526.66,Approved
+10265,414,2026-02-25,Changed mind,24846.41,Approved
+14525,491,2026-01-01,Wrong item delivered,23799.75,Requested
+12522,129,2026-05-27,Defective item,14185.09,Completed
+12161,134,2024-10-27,Wrong item delivered,14103.51,Requested
+19983,458,2026-01-01,Quality issue,21690.55,Rejected
+12606,487,2025-08-03,Size mismatch,18163.17,Completed
+17065,430,2025-05-04,Wrong item delivered,23416.2,Rejected
+5730,53,2025-07-15,Late delivery,710.3,Rejected
+19346,475,2025-10-07,Size mismatch,19873.44,Completed
+9521,263,2026-05-14,Late delivery,12580.88,Requested
+3187,485,2024-12-01,Defective item,17380.99,Completed
+14433,151,2025-07-07,Changed mind,15717.1,Completed
+15061,371,2025-07-14,Wrong item delivered,6572.38,Completed
+15472,382,2025-10-10,Late delivery,621.38,Completed
+12816,485,2025-10-03,Wrong item delivered,24921.14,Completed
+11726,33,2025-02-22,Product not as described,7598.76,Completed
+12938,188,2026-01-05,Size mismatch,2485.78,Completed
+1578,105,2025-03-06,Product not as described,7978.24,Completed
+13907,381,2025-09-04,Size mismatch,3990.44,Requested
+15462,211,2025-03-30,Quality issue,23601.81,Requested
+509,14,2024-07-29,Size mismatch,5824.03,Completed
+17254,146,2025-01-15,Late delivery,10984.75,Completed
+9020,137,2025-02-15,Late delivery,20689.3,Completed
+12342,431,2026-01-06,Product not as described,8172.44,Completed
+15089,288,2026-04-03,Changed mind,17092.63,Completed
+1876,175,2026-04-10,Wrong item delivered,21781.12,Completed
+5532,354,2025-08-28,Quality issue,17730.23,Completed
+9065,333,2026-03-17,Damaged product,11796.41,Completed
+1622,409,2025-07-30,Late delivery,4915.62,Approved
+13611,129,2024-10-01,Wrong item delivered,4425.76,Completed
+17637,183,2026-03-30,Quality issue,227.81,Completed
+11889,32,2025-11-08,Changed mind,16551.88,Completed
+4529,131,2025-12-21,Size mismatch,6349.19,Completed
+333,316,2026-05-11,Quality issue,23964.33,Completed
+16549,178,2025-05-23,Damaged product,22231.11,Completed
+7624,301,2024-12-21,Quality issue,23941.18,Approved
+7174,106,2025-11-28,Quality issue,16987.62,Approved
+10606,92,2025-05-26,Quality issue,23493.79,Completed
+19678,70,2024-10-02,Size mismatch,3118.04,Requested
+18640,449,2024-10-21,Late delivery,13844.69,Completed
+19044,63,2025-11-17,Late delivery,21665.19,Approved
+7051,423,2024-09-20,Wrong item delivered,5912.14,Completed
+2459,268,2024-08-23,Wrong item delivered,13688.65,Completed
+4782,185,2026-05-30,Product not as described,5520.95,Completed
+18471,499,2026-03-07,Size mismatch,12295.35,Completed
+5041,466,2025-12-17,Defective item,6398.1,Completed
+12426,328,2024-09-17,Wrong item delivered,18285.56,Completed
+15501,417,2024-09-23,Wrong item delivered,418.46,Completed
+11250,63,2025-08-08,Changed mind,24922.64,Completed
+7251,380,2024-12-19,Quality issue,5159.49,Completed
+18729,51,2025-04-17,Changed mind,2414.74,Completed
+16697,111,2025-11-02,Quality issue,1890.73,Completed
+15031,441,2024-08-12,Size mismatch,9755.8,Completed
+7991,321,2025-02-07,Defective item,21494.62,Approved
+13168,287,2025-03-22,Size mismatch,7615.49,Completed
+6713,451,2025-06-30,Defective item,14455.8,Rejected
+11560,68,2025-12-01,Damaged product,20744.17,Rejected
+18086,122,2024-10-04,Changed mind,22981.05,Completed
+8526,372,2025-09-16,Quality issue,4060.05,Completed
+11437,387,2025-03-22,Late delivery,11115.72,Completed
+11660,431,2025-04-08,Late delivery,24684.88,Completed
+2943,378,2026-05-22,Size mismatch,13301.29,Requested
+17900,234,2026-06-21,Late delivery,15692.93,Rejected
+16261,69,2025-04-11,Changed mind,8357.44,Completed
+3296,349,2025-05-10,Changed mind,11823.48,Completed
+674,222,2026-01-17,Wrong item delivered,5213.24,Completed
+5720,402,2024-08-07,Late delivery,12445.27,Completed
+1781,444,2025-09-05,Quality issue,11385.2,Completed
+9128,375,2026-01-03,Quality issue,6216.82,Completed
+10913,421,2026-01-03,Wrong item delivered,24924.15,Approved
+7902,352,2024-10-02,Quality issue,218.18,Completed
+15810,475,2026-04-20,Wrong item delivered,23839.6,Rejected
+6771,485,2025-06-05,Defective item,9753.02,Completed
+9148,159,2025-10-04,Wrong item delivered,9258.67,Completed
+4503,189,2024-12-16,Quality issue,19973.52,Rejected
+18988,499,2026-04-17,Changed mind,15952.98,Approved
+11642,192,2025-01-28,Changed mind,4367.94,Approved
+6775,364,2026-01-29,Product not as described,5327.35,Completed
+14737,162,2025-06-09,Size mismatch,20017.13,Completed
+5513,124,2025-08-02,Defective item,14271.12,Completed
+16232,3,2025-01-29,Wrong item delivered,23469.38,Approved
+4485,277,2025-10-11,Quality issue,13486.49,Approved
+17766,386,2025-12-23,Product not as described,7107.14,Rejected
+16947,499,2025-12-31,Wrong item delivered,7034.31,Completed
+5762,290,2024-08-26,Wrong item delivered,14231.2,Completed
+15828,317,2025-09-07,Damaged product,2779.7,Rejected
+2281,31,2026-06-30,Changed mind,1107.71,Completed
+5041,260,2025-06-27,Damaged product,3334.29,Completed
+8757,294,2024-08-20,Product not as described,14013.55,Completed
+9340,62,2025-07-31,Size mismatch,11818.36,Completed
+11685,199,2025-10-13,Changed mind,24829.89,Requested
+6285,72,2026-02-17,Wrong item delivered,9308.15,Rejected
+12608,98,2024-08-27,Defective item,6172.09,Completed
+11431,467,2025-12-07,Size mismatch,9457.59,Completed
+5593,49,2026-01-20,Quality issue,16971.56,Completed
+17129,166,2024-09-13,Changed mind,23222.86,Completed
+9241,302,2025-10-16,Wrong item delivered,22979.84,Requested
+10718,6,2025-09-23,Defective item,18440.4,Rejected
+9828,235,2024-11-29,Size mismatch,12174.59,Completed
+1701,170,2025-02-13,Size mismatch,6845.87,Approved
+9949,122,2025-05-06,Defective item,6149.81,Completed
+18662,357,2025-08-16,Product not as described,8471.37,Completed
+19702,112,2025-09-09,Changed mind,19465.55,Requested
+8907,18,2025-07-24,Product not as described,142.82,Approved
+18681,153,2024-09-25,Wrong item delivered,8116.39,Approved
+8063,216,2024-09-16,Damaged product,8679.87,Completed
+6030,487,2025-03-08,Size mismatch,22546.47,Rejected
+15722,5,2025-04-22,Late delivery,10376.45,Requested
+3241,495,2025-10-01,Damaged product,18743.59,Rejected
+8379,74,2026-01-20,Late delivery,1786.92,Completed
+3744,154,2026-06-17,Product not as described,16866.23,Requested
+19275,64,2025-12-25,Wrong item delivered,2016.16,Rejected
+12966,21,2024-12-29,Changed mind,5523.46,Approved
+19816,331,2025-11-23,Late delivery,24021.12,Completed
+4330,481,2026-06-11,Damaged product,2211.11,Completed
+1794,178,2024-08-22,Wrong item delivered,1497.34,Completed
+15941,500,2025-04-22,Damaged product,14499.96,Completed
+8702,29,2026-05-08,Quality issue,21660.45,Completed
+2087,204,2025-08-24,Late delivery,1503.87,Requested
+14235,7,2026-07-02,Wrong item delivered,11879.79,Approved
+7753,356,2025-11-23,Defective item,21667.74,Approved
+2229,112,2024-10-24,Wrong item delivered,20485.78,Rejected
+11771,71,2024-12-06,Product not as described,2840.57,Completed
+17071,239,2026-04-27,Late delivery,20829.93,Approved
+964,175,2026-01-10,Quality issue,15964.07,Completed
+10912,258,2026-05-07,Quality issue,21543.27,Approved
+8711,117,2025-02-08,Quality issue,8158.62,Approved
+8144,309,2024-11-12,Wrong item delivered,9258.01,Requested
+5771,331,2025-04-30,Defective item,18539.22,Completed
+18633,107,2025-02-03,Wrong item delivered,21687.41,Completed
+19894,82,2025-02-27,Defective item,5957.33,Requested
+11517,69,2025-10-12,Changed mind,5300.33,Requested
+11043,369,2026-05-03,Late delivery,12213.12,Completed
+8737,44,2025-02-18,Late delivery,15726.01,Completed
+10065,86,2025-02-11,Defective item,9509.76,Completed
+12775,144,2025-04-29,Damaged product,24315.28,Completed
+13834,152,2026-04-26,Damaged product,4197.2,Completed
+15854,437,2026-01-05,Size mismatch,8922.68,Completed
+6899,416,2025-03-27,Product not as described,17420.73,Completed
+8522,427,2026-01-02,Late delivery,7433.86,Completed
+11980,160,2024-08-22,Quality issue,12463.23,Completed
+14418,43,2025-12-03,Damaged product,9417.83,Completed
+12608,104,2025-06-25,Late delivery,22138.57,Approved
+12710,202,2025-11-12,Damaged product,21406.51,Requested
+11258,235,2025-01-31,Product not as described,2572.44,Completed
+16107,411,2025-08-01,Late delivery,18786.02,Completed
+5913,486,2026-02-09,Defective item,14905.77,Rejected
+9389,309,2025-07-31,Quality issue,15121.62,Completed
+7628,316,2025-05-07,Damaged product,16845.79,Approved
+19817,258,2025-06-30,Size mismatch,9833.64,Completed
+3242,219,2026-04-02,Damaged product,2624.04,Completed
+8626,89,2025-09-09,Size mismatch,20946.66,Approved
+15718,178,2025-03-18,Product not as described,17959.82,Completed
+10645,158,2025-06-14,Wrong item delivered,3758.31,Completed
+14499,59,2026-05-25,Damaged product,13339.01,Approved
+14573,86,2025-09-21,Late delivery,4840.06,Completed
+8421,475,2026-07-03,Wrong item delivered,14852.79,Completed
+3361,77,2025-11-08,Defective item,8379.53,Completed
+13629,135,2025-04-16,Late delivery,5087.75,Rejected
+3606,353,2025-02-03,Damaged product,9699.87,Approved
+16725,4,2025-08-24,Defective item,23033.8,Completed
+11324,272,2025-10-12,Product not as described,11513.74,Completed
+13653,145,2025-09-27,Late delivery,4337.49,Completed
+10419,312,2024-10-13,Changed mind,3513.02,Approved
+12647,313,2024-07-14,Changed mind,11595.09,Completed
+5931,432,2025-10-11,Changed mind,2322.97,Completed
+14263,198,2026-02-10,Damaged product,15317.21,Completed
+14540,255,2026-01-10,Wrong item delivered,5184.33,Approved
+5948,160,2025-11-03,Quality issue,16196.41,Completed
+3586,234,2025-08-24,Size mismatch,8224.27,Completed
+3835,152,2025-11-07,Product not as described,4234.32,Approved
+6065,308,2024-07-12,Changed mind,7594,Completed
+11579,172,2025-03-08,Damaged product,15005.23,Completed
+2419,457,2025-11-17,Wrong item delivered,5442.92,Rejected
+10093,292,2024-12-25,Late delivery,4185.6,Completed
+13469,83,2025-11-13,Late delivery,3264.69,Completed
+10343,145,2026-06-28,Size mismatch,21268.62,Completed
+8202,468,2025-09-13,Damaged product,10277.86,Completed
+2918,412,2026-06-04,Defective item,7432.15,Completed
+10468,198,2026-02-01,Defective item,3850.81,Completed
+3485,342,2024-10-30,Size mismatch,6874.15,Completed
+4588,266,2024-12-21,Late delivery,3833.91,Completed
+13772,238,2024-07-26,Changed mind,10840.22,Completed
+12467,96,2025-09-18,Product not as described,2437.01,Completed
+2023,278,2025-07-12,Defective item,2044.83,Completed
+8810,304,2025-03-26,Defective item,11086.15,Completed
+5873,334,2025-02-05,Damaged product,13443.42,Completed
+15601,313,2025-08-22,Wrong item delivered,16444.52,Approved
+4043,428,2026-01-20,Changed mind,5233.91,Completed
+16622,57,2025-12-18,Defective item,18022.24,Approved
+18318,452,2025-10-08,Defective item,11610.15,Approved
+1873,264,2025-06-08,Changed mind,22661.71,Completed
+14163,218,2025-12-21,Defective item,4853.03,Completed
+9250,450,2025-06-02,Changed mind,17197.62,Approved
+12272,241,2025-04-02,Size mismatch,9888.07,Completed
+1492,47,2026-03-28,Wrong item delivered,11102.16,Completed
+17702,148,2025-12-29,Damaged product,15785.98,Completed
+17381,178,2026-06-03,Product not as described,18692.74,Completed
+15576,335,2024-07-23,Product not as described,24502.83,Rejected
+13669,416,2024-07-18,Product not as described,21210.3,Requested
+16872,381,2025-07-24,Size mismatch,11007.59,Approved
+7340,250,2025-02-23,Late delivery,19749.95,Requested
+2522,293,2025-05-17,Quality issue,15439.49,Approved
+3589,116,2025-03-03,Defective item,20620.39,Completed
+13699,355,2025-10-05,Product not as described,20433.55,Requested
+4453,352,2024-08-17,Wrong item delivered,21838.89,Completed
+2825,179,2025-04-08,Changed mind,24074.55,Approved
+15776,155,2024-08-13,Product not as described,4500.83,Completed
+17594,205,2025-06-06,Product not as described,4468.14,Completed
+19863,11,2025-12-21,Defective item,18188.98,Approved
+5830,39,2025-08-05,Damaged product,20653.81,Completed
+17824,71,2024-08-12,Late delivery,12511.95,Approved
+9941,424,2025-10-16,Damaged product,6346.87,Completed
+2328,96,2026-02-12,Product not as described,11676.22,Rejected
+8428,189,2025-12-21,Changed mind,17066.34,Requested
+10194,49,2025-02-06,Size mismatch,18468.71,Completed
+11647,385,2024-07-29,Product not as described,1134.83,Completed
+15805,499,2025-06-01,Changed mind,18787.8,Requested
+2845,452,2025-05-14,Size mismatch,19368.27,Rejected
+9044,59,2025-03-08,Product not as described,4618.47,Completed
+14368,103,2024-08-19,Quality issue,1279.15,Completed
+18849,196,2025-02-10,Defective item,9557.92,Completed
+1878,135,2025-01-23,Wrong item delivered,20516.7,Requested
+14865,253,2025-09-21,Changed mind,24023.68,Completed
+12699,489,2025-05-12,Late delivery,9309.64,Completed
+15565,321,2024-10-08,Defective item,7223.64,Completed
+14448,479,2026-04-12,Size mismatch,7947.49,Approved
+5715,307,2025-11-16,Late delivery,8768.01,Completed
+15480,235,2025-02-20,Defective item,7200.12,Completed
+472,462,2026-02-15,Defective item,2753.03,Completed
+16737,295,2025-07-15,Size mismatch,7991.69,Completed
+19739,480,2025-07-15,Product not as described,15954.26,Completed
+12634,364,2025-11-05,Quality issue,20213.61,Approved
+10976,292,2025-01-05,Damaged product,14153.86,Approved
+12084,339,2025-01-12,Wrong item delivered,3924.07,Requested
+6142,395,2025-03-16,Late delivery,8534.99,Completed
+11094,45,2025-10-06,Damaged product,14356.72,Completed
+18408,494,2026-06-13,Quality issue,14061.05,Completed
+1160,408,2025-07-30,Defective item,1444.18,Rejected
+3235,67,2024-11-28,Wrong item delivered,9854.45,Completed
+18584,392,2025-09-13,Defective item,19958.73,Completed
+4621,30,2025-09-17,Quality issue,22870.42,Completed
+2609,402,2025-03-06,Defective item,16957.28,Approved
+19396,349,2025-08-21,Product not as described,16629.85,Completed
+17855,352,2026-01-22,Late delivery,19374.62,Completed
+13633,398,2024-11-06,Changed mind,7536.62,Requested
+15106,412,2025-08-21,Late delivery,131.4,Completed
+9058,407,2026-05-31,Changed mind,21032.72,Completed
+1210,4,2024-11-13,Late delivery,584.26,Completed
+10718,396,2024-11-16,Late delivery,6614.6,Approved
+15511,296,2026-05-24,Size mismatch,13412.4,Requested
+4293,69,2024-10-13,Product not as described,24220,Completed
+4049,454,2025-07-18,Product not as described,15617.18,Completed
+8824,274,2025-06-07,Defective item,4855.32,Approved
+15197,371,2025-11-09,Changed mind,21284.82,Completed
+14160,34,2025-09-03,Defective item,23168.01,Rejected
+16683,150,2025-05-31,Late delivery,4815.5,Completed
+15353,357,2025-06-22,Defective item,9941.15,Completed
+13440,323,2026-02-15,Product not as described,18720.33,Completed
+10025,408,2025-07-29,Product not as described,17290.14,Requested
+7666,141,2025-05-02,Damaged product,21492.78,Completed
+16379,318,2024-11-07,Size mismatch,15572.12,Approved
+19708,53,2026-01-27,Wrong item delivered,6294.22,Completed
+1072,71,2025-11-16,Defective item,10608.37,Approved
+12073,275,2026-01-12,Product not as described,22179.97,Completed
+13053,372,2024-11-29,Damaged product,4810.92,Completed
+772,324,2024-11-13,Defective item,17832.49,Requested
+4220,81,2024-07-16,Wrong item delivered,19993.99,Completed
+11638,280,2026-03-27,Wrong item delivered,2414.48,Rejected
+14989,334,2025-06-30,Quality issue,11825.49,Completed
+4364,94,2024-10-08,Damaged product,21415.22,Approved
+7372,64,2025-09-11,Product not as described,1575.33,Completed
+26,72,2025-10-29,Product not as described,22220.71,Approved
+8360,211,2024-08-27,Product not as described,19246.11,Rejected
+19736,200,2026-05-20,Late delivery,13093.18,Completed
+8970,277,2024-11-22,Quality issue,9611.88,Completed
+7448,380,2025-09-01,Changed mind,12574.28,Approved
+11771,380,2024-08-07,Wrong item delivered,18214.99,Rejected
+4453,469,2025-09-28,Late delivery,9423.21,Completed
+13522,246,2025-10-20,Product not as described,9221.37,Completed
+19934,428,2025-05-07,Changed mind,21340.7,Completed
+9912,410,2025-01-24,Damaged product,155.17,Approved
+5196,142,2026-06-07,Changed mind,10960.27,Completed
+92,69,2026-02-21,Product not as described,14512.88,Completed
+14699,194,2025-01-23,Quality issue,17868.94,Completed
+14429,491,2024-09-28,Size mismatch,16863.84,Rejected
+13918,274,2025-05-23,Late delivery,3713.45,Completed
+797,50,2025-02-12,Product not as described,24839.16,Approved
+8162,182,2025-09-10,Changed mind,22243.16,Completed
+16567,422,2026-04-16,Size mismatch,21495.23,Completed
+6348,165,2025-11-07,Damaged product,3155.68,Approved
+9494,418,2026-03-01,Late delivery,1394.48,Completed
+15725,255,2026-07-09,Defective item,14795.79,Completed
+5392,65,2025-06-06,Product not as described,24691.08,Requested
+19808,419,2025-10-08,Defective item,4409.91,Approved
+8094,487,2026-04-09,Defective item,4105.17,Completed
+7600,61,2024-08-30,Damaged product,9972.24,Completed
+16941,17,2025-04-29,Damaged product,15938.19,Approved
+5581,150,2026-04-19,Product not as described,1663.24,Requested
+19540,351,2026-01-27,Damaged product,6747.56,Completed
+11221,200,2026-05-20,Changed mind,3181.21,Completed
+2022,378,2025-03-19,Quality issue,1746.65,Completed
+15387,153,2026-05-05,Wrong item delivered,3031.31,Completed
+13986,386,2024-11-28,Wrong item delivered,19529.11,Completed
+8266,294,2026-04-17,Wrong item delivered,11125.38,Completed
+8497,372,2026-01-28,Size mismatch,23846.67,Rejected
+3613,293,2026-02-23,Product not as described,932.66,Rejected
+9416,384,2026-06-28,Changed mind,9893.11,Completed
+3656,333,2025-10-20,Quality issue,23234.48,Completed
+11036,264,2025-08-18,Changed mind,15324.5,Completed
+6875,482,2025-08-13,Product not as described,21605.9,Completed
+2439,288,2024-09-21,Product not as described,9055.9,Completed
+14702,433,2025-11-28,Size mismatch,21897.96,Completed
+2023,397,2024-09-18,Wrong item delivered,2503.24,Rejected
+15686,146,2026-03-26,Quality issue,1357.6,Approved
+16184,276,2025-09-11,Late delivery,9486.89,Requested
+11553,128,2024-09-18,Size mismatch,7572.78,Completed
+17073,318,2026-03-30,Size mismatch,16368.73,Completed
+1454,351,2026-06-14,Late delivery,20107.11,Completed
+7018,123,2024-11-25,Wrong item delivered,11663.87,Approved
+4105,76,2026-06-15,Late delivery,17131.07,Completed
+9859,282,2026-02-22,Late delivery,6335.18,Requested
+2541,434,2026-01-13,Wrong item delivered,21302.37,Completed
+1005,230,2024-09-10,Defective item,9653.98,Completed
+19439,304,2025-08-10,Size mismatch,13085.98,Completed
+891,202,2026-01-15,Product not as described,8225.49,Completed
+7227,252,2025-07-05,Defective item,11819.96,Requested
+19236,16,2025-06-15,Size mismatch,2680.42,Requested
+12924,304,2025-08-30,Defective item,18292.94,Requested
+13504,301,2024-08-16,Size mismatch,13717.38,Completed
+1136,224,2025-10-31,Defective item,9243.76,Approved
+10370,471,2025-12-19,Product not as described,17980.7,Completed
+8423,19,2024-09-21,Damaged product,19922.26,Completed
+16680,209,2024-08-25,Wrong item delivered,23995.98,Approved
+19853,397,2025-12-28,Size mismatch,7745.84,Completed
+15077,88,2025-02-23,Late delivery,17144.7,Completed
+1743,48,2025-12-22,Defective item,24980.63,Completed
+11769,433,2025-02-23,Size mismatch,17355.69,Completed
+18122,451,2025-10-17,Quality issue,5473.57,Approved
+5051,355,2026-01-05,Product not as described,1825.96,Completed
+14952,382,2024-11-04,Quality issue,1842.85,Completed
+17320,476,2025-08-18,Quality issue,15323.62,Completed
+17258,346,2026-05-12,Wrong item delivered,10604.75,Approved
+13033,474,2026-03-28,Late delivery,2320.14,Completed
+17993,296,2025-11-29,Quality issue,17675.22,Requested
+5075,407,2025-05-20,Late delivery,1880.72,Approved
+17419,76,2025-12-02,Changed mind,2488.07,Completed
+14347,227,2025-06-04,Size mismatch,3633.54,Completed
+581,49,2024-12-29,Late delivery,23055.16,Completed
+10326,331,2025-04-26,Product not as described,13734.19,Completed
+7478,126,2025-11-08,Damaged product,11066.05,Completed
+11147,488,2025-04-21,Product not as described,7812.54,Completed
+16663,108,2026-07-01,Changed mind,24760.82,Completed
+15677,23,2025-04-19,Changed mind,3638.36,Approved
+449,304,2025-11-09,Product not as described,1259.32,Completed
+2621,188,2024-12-14,Changed mind,4869.43,Completed
+6117,84,2025-04-20,Size mismatch,8641.87,Completed
+877,274,2025-10-09,Changed mind,3677.67,Completed
+12455,260,2025-12-24,Late delivery,7069.94,Completed
+18170,361,2025-10-07,Late delivery,2817.24,Completed
+7248,299,2026-05-15,Product not as described,4603.36,Completed
+8184,286,2025-02-02,Wrong item delivered,21560.59,Requested
+820,498,2026-05-02,Product not as described,5961.51,Approved
+4982,432,2026-04-17,Damaged product,20622.59,Approved
+14095,69,2026-03-13,Wrong item delivered,22881.66,Completed
+3997,105,2025-08-12,Late delivery,5326.68,Completed
+1966,15,2025-10-27,Product not as described,15062.48,Rejected
+12694,84,2025-07-17,Quality issue,1146.96,Rejected
+1532,491,2025-04-25,Product not as described,1828.26,Completed
+5160,327,2025-12-03,Size mismatch,20217.82,Requested
+10387,124,2024-12-05,Damaged product,13050.08,Rejected
+2560,397,2025-08-16,Defective item,10907.68,Completed
+13158,92,2025-07-25,Size mismatch,20636.91,Completed
+10417,193,2025-09-08,Product not as described,23072.96,Completed
+8154,491,2025-11-04,Wrong item delivered,13133.67,Approved
+15415,459,2026-04-20,Damaged product,23502.61,Completed
+12914,500,2025-12-27,Defective item,18986.6,Rejected
+7840,191,2026-01-07,Wrong item delivered,16922.17,Approved
+17551,302,2024-12-28,Late delivery,11603.1,Approved
+3780,414,2025-11-21,Size mismatch,15380.37,Approved
+8246,329,2025-04-05,Changed mind,471.4,Requested
+7883,162,2026-04-22,Damaged product,12866.22,Completed
+4232,137,2026-05-22,Size mismatch,21212.17,Completed
+448,26,2025-12-04,Late delivery,11129.82,Completed
+13342,309,2024-12-04,Changed mind,17133.33,Completed
+1008,462,2025-06-24,Defective item,7839.99,Approved
+7485,472,2026-03-16,Product not as described,22301.51,Completed
+5693,410,2025-02-27,Defective item,14822.17,Completed
+14150,19,2025-09-10,Size mismatch,13759.72,Completed
+11463,440,2025-05-19,Late delivery,8021.18,Rejected
+5089,474,2025-10-31,Wrong item delivered,6227.63,Completed
+1584,73,2024-09-12,Size mismatch,2860.43,Completed
+16059,344,2026-02-18,Late delivery,17982.27,Completed
+14751,482,2025-07-05,Size mismatch,1366.73,Completed
+7978,141,2025-10-30,Changed mind,1545.2,Completed
+16719,458,2025-09-06,Size mismatch,1594.56,Approved
+2963,208,2024-08-30,Quality issue,17371.81,Completed
+9515,441,2025-03-22,Damaged product,5298.31,Completed
+3610,457,2025-05-05,Late delivery,23051.77,Rejected
+17317,160,2026-04-21,Wrong item delivered,15575.17,Approved
+7067,356,2024-07-18,Defective item,19516.58,Completed
+9341,202,2025-02-09,Late delivery,11009.77,Rejected
+8852,144,2025-10-07,Wrong item delivered,1941.76,Completed
+15199,499,2025-11-15,Late delivery,24557.99,Completed
+1592,392,2026-02-17,Product not as described,7849.98,Approved
+5179,172,2024-12-23,Changed mind,5143.97,Completed
+1177,270,2025-03-13,Size mismatch,11827.13,Approved
+5750,36,2026-05-06,Defective item,2110.34,Completed
+5178,229,2025-09-23,Wrong item delivered,7934.29,Requested
+508,453,2024-08-02,Late delivery,4212.19,Requested
+823,466,2025-06-13,Wrong item delivered,9566,Completed
+1375,480,2025-11-17,Size mismatch,13576.71,Completed
+5116,136,2024-12-15,Damaged product,4686.93,Completed
+7657,278,2024-12-01,Product not as described,17188.41,Completed
+13548,81,2025-07-15,Defective item,22557.23,Completed
+15488,395,2025-12-30,Quality issue,8317.14,Completed
+18759,349,2025-12-31,Damaged product,14014.79,Completed
+8340,149,2024-08-02,Changed mind,7718.81,Approved
+18585,193,2026-04-28,Product not as described,11292.49,Completed
+8436,382,2024-12-27,Damaged product,10959.46,Completed
+11502,89,2025-01-09,Late delivery,24258.12,Completed
+486,464,2024-08-30,Quality issue,16286.66,Completed
+11848,102,2025-02-12,Defective item,20736.92,Completed
+9874,118,2026-06-10,Defective item,15502.89,Approved
+17008,36,2026-03-05,Late delivery,14624.37,Completed
+3828,124,2026-04-09,Product not as described,16043.82,Completed
+5033,108,2024-12-06,Late delivery,331.65,Completed
+17591,362,2025-01-11,Wrong item delivered,2837.27,Requested
+7077,365,2025-01-29,Damaged product,19842.22,Requested
+11313,211,2025-07-23,Product not as described,6670.25,Completed
+5497,442,2025-12-25,Product not as described,13889.15,Approved
+10887,58,2025-09-21,Product not as described,769.97,Rejected
+7773,248,2025-08-02,Size mismatch,13976.91,Rejected
+13792,11,2024-12-20,Quality issue,5440.87,Approved
+6312,321,2026-04-17,Quality issue,8719.32,Completed
+14498,1,2024-11-22,Changed mind,13164.15,Rejected
+729,375,2026-06-26,Defective item,4456.26,Rejected
+5845,345,2025-01-15,Wrong item delivered,11167.4,Approved
+14432,114,2025-06-10,Wrong item delivered,15201.85,Completed
+6792,329,2025-05-08,Wrong item delivered,8027.54,Rejected
+11861,441,2025-07-26,Product not as described,6911.73,Rejected
+16748,294,2026-04-27,Defective item,12797.14,Completed
+9144,288,2025-01-23,Product not as described,3561.53,Rejected
+18770,94,2025-11-23,Changed mind,6401.02,Approved
+15849,313,2025-01-17,Product not as described,18000.14,Approved
+17390,115,2026-04-27,Damaged product,7657.95,Approved
+18594,323,2024-09-23,Size mismatch,4727.35,Completed
+9203,355,2024-07-28,Damaged product,6548.53,Completed
+10236,339,2025-07-30,Quality issue,12378.21,Completed
+687,233,2026-03-27,Size mismatch,11875.22,Completed
+12826,177,2026-06-16,Defective item,12081.13,Approved
+2516,211,2025-12-13,Damaged product,16169.79,Approved
+19214,97,2026-04-09,Late delivery,4141.03,Approved
+16278,221,2025-06-18,Damaged product,22533.05,Completed
+861,202,2026-05-29,Quality issue,21815.14,Completed
+6102,36,2026-07-01,Damaged product,7559.19,Completed
+13465,491,2025-12-15,Size mismatch,15969.15,Completed
+9604,397,2024-12-18,Damaged product,18208.66,Approved
+1237,372,2025-11-19,Defective item,12875.71,Completed
+16615,39,2026-05-03,Quality issue,1769.53,Rejected
+10138,237,2025-01-03,Late delivery,14056.2,Completed
+4940,180,2024-12-27,Product not as described,23334.03,Completed
+1425,306,2025-08-28,Wrong item delivered,9318.56,Completed
+5572,403,2025-01-12,Defective item,19052.94,Approved
+2074,267,2024-08-28,Size mismatch,24522.8,Completed
+1059,373,2025-02-12,Late delivery,14261.5,Completed
+4664,462,2025-01-10,Defective item,17863.51,Approved
+18869,320,2025-11-20,Late delivery,23616.77,Completed
+9984,139,2024-08-08,Late delivery,2926.82,Approved
+156,50,2025-04-18,Wrong item delivered,15026.97,Completed
+5472,454,2024-10-11,Damaged product,22767.39,Requested
+2903,198,2025-03-23,Late delivery,15221.76,Completed
+12017,490,2024-12-30,Quality issue,16585.15,Completed
+7584,79,2026-02-05,Size mismatch,9864.33,Approved
+7184,239,2026-01-13,Quality issue,21955.38,Approved
+12592,37,2025-05-31,Quality issue,16063.48,Requested
+4445,333,2025-12-21,Quality issue,20226.04,Requested
+12494,39,2025-07-12,Quality issue,17794.7,Completed
+4212,248,2025-09-19,Wrong item delivered,657.27,Completed
+11279,230,2025-11-29,Defective item,24495.06,Completed
+16679,380,2026-03-05,Quality issue,14668.41,Approved
+14222,389,2026-04-29,Late delivery,9802.32,Completed
+6597,217,2025-06-29,Late delivery,1170.9,Completed
+5262,255,2025-01-06,Quality issue,12110.68,Completed
+18863,55,2025-08-06,Wrong item delivered,4557.94,Rejected
+18725,305,2026-03-22,Defective item,3804.36,Rejected
+12062,311,2025-01-25,Wrong item delivered,6254.97,Requested
+11462,259,2025-03-29,Size mismatch,8577.71,Approved
+14791,242,2025-03-18,Damaged product,16309.35,Requested
+3067,274,2026-02-01,Wrong item delivered,19112.69,Completed
+6543,243,2025-11-25,Wrong item delivered,8397.74,Completed
+18810,183,2024-08-20,Late delivery,21637.97,Approved
+14542,437,2025-11-26,Quality issue,5174.95,Completed
+18740,114,2025-03-31,Wrong item delivered,14525.02,Approved
+12784,342,2026-04-19,Wrong item delivered,16486.9,Completed
+12945,337,2026-02-18,Changed mind,17845.18,Completed
+8912,45,2025-11-19,Defective item,20465.9,Completed
+5763,305,2024-09-10,Product not as described,2209.35,Requested
+8252,280,2026-05-03,Defective item,20315.74,Completed
+4449,436,2025-07-08,Quality issue,347.62,Completed
+10218,353,2026-02-23,Changed mind,20213.11,Completed
+15043,12,2024-11-20,Damaged product,16291.35,Completed
+5251,79,2026-06-02,Product not as described,17853.79,Approved
+16645,218,2024-09-27,Damaged product,7611.53,Completed
+1830,199,2024-11-17,Product not as described,8975.76,Completed
+3062,257,2025-08-14,Damaged product,1518.45,Completed
+16514,200,2024-11-23,Damaged product,1659.45,Approved
+1214,357,2024-08-25,Size mismatch,14941.09,Rejected
+13926,47,2026-05-13,Product not as described,415.75,Completed
+16582,123,2025-09-07,Quality issue,24477.23,Approved
+1883,349,2026-06-13,Product not as described,685.62,Completed
+9580,79,2026-06-18,Damaged product,4205.34,Completed
+4676,448,2026-01-02,Damaged product,23440.27,Approved
+1117,348,2025-01-16,Damaged product,8589.76,Approved
+17647,13,2024-09-25,Quality issue,790.27,Approved
+2442,90,2026-05-12,Wrong item delivered,6676.4,Completed
+8377,174,2025-07-01,Product not as described,2693.51,Completed
+14159,205,2024-10-26,Product not as described,7444.14,Completed
+6078,27,2025-04-30,Wrong item delivered,13559.65,Approved
+4537,398,2025-08-20,Product not as described,9292.1,Completed
+11826,286,2024-07-31,Quality issue,23624.53,Completed
+3708,8,2025-09-06,Quality issue,3250.72,Requested
+19409,207,2025-02-08,Late delivery,20464.09,Approved
+16958,415,2024-08-04,Size mismatch,1865.88,Approved
+17574,95,2025-05-08,Changed mind,20769.87,Completed
+18242,355,2025-01-18,Product not as described,10299.14,Completed
+648,32,2024-10-31,Size mismatch,14581.41,Completed
+16610,451,2024-12-22,Wrong item delivered,5815.8,Completed
+12732,323,2026-05-10,Quality issue,7984.91,Completed
+5521,166,2026-02-23,Size mismatch,18996.71,Requested
+6471,500,2025-07-22,Quality issue,10089.68,Completed
+5917,379,2025-03-30,Defective item,5535.19,Completed
+7979,151,2024-09-19,Wrong item delivered,13568.32,Approved
+336,342,2024-08-20,Defective item,3625.06,Completed
+3634,153,2025-01-21,Size mismatch,15957.11,Completed
+9236,70,2025-03-03,Wrong item delivered,2600.69,Completed
+9674,472,2026-02-16,Defective item,17822.6,Completed
+11535,427,2025-09-28,Wrong item delivered,4527.34,Approved
+19534,198,2026-06-17,Changed mind,12478.64,Completed
+10042,180,2025-06-16,Damaged product,14915.32,Completed
+8515,407,2026-07-02,Product not as described,11132.24,Completed
+14973,280,2026-05-15,Damaged product,7656.14,Completed
+16419,369,2025-04-03,Product not as described,2642.38,Completed
+9204,468,2026-07-02,Product not as described,7891.15,Completed
+10399,457,2024-09-05,Late delivery,698.95,Completed
+16367,202,2024-08-21,Product not as described,619.18,Completed
+164,161,2025-03-13,Damaged product,19870.71,Completed
+6466,199,2024-08-14,Size mismatch,4838.03,Approved
+2056,148,2026-03-09,Quality issue,10335.74,Completed
+19580,471,2025-11-25,Defective item,5743.88,Requested
+2038,216,2025-10-10,Damaged product,13864.66,Completed
+2164,196,2024-10-17,Wrong item delivered,4131.01,Approved
+9123,317,2025-10-29,Late delivery,17166.59,Approved
+17830,451,2024-12-06,Changed mind,13003.36,Rejected
+11146,56,2025-01-30,Changed mind,17862.2,Requested
+91,86,2025-11-26,Product not as described,2316.27,Approved
+6250,469,2024-09-16,Product not as described,7387.88,Completed
+19960,240,2026-02-02,Product not as described,1935.86,Approved
+18239,229,2026-03-04,Size mismatch,18836.37,Completed
+143,477,2025-06-08,Wrong item delivered,7154.62,Approved
+3020,473,2025-05-05,Wrong item delivered,16218.66,Completed
+15604,112,2025-06-17,Wrong item delivered,1773.01,Completed
+7055,80,2024-09-06,Quality issue,9252.7,Completed
+5517,309,2025-05-22,Quality issue,17603.22,Completed
+17534,447,2025-11-04,Product not as described,8681.46,Completed
+13419,91,2026-06-15,Damaged product,8579.92,Rejected
+16916,134,2026-04-25,Defective item,6952.63,Completed
+388,480,2025-10-29,Defective item,4227.27,Completed
+18590,463,2026-04-01,Damaged product,8173.91,Completed
+13006,478,2024-10-22,Late delivery,9683.01,Completed
+1404,118,2024-11-24,Quality issue,10261.23,Approved
+14883,111,2025-05-21,Size mismatch,22750.15,Approved
+12384,147,2025-07-07,Product not as described,19248.05,Rejected
+12846,82,2026-05-26,Product not as described,17337.6,Completed
+19441,354,2026-02-28,Quality issue,13859.37,Completed
+11244,210,2024-09-18,Product not as described,24958.4,Completed
+8099,21,2025-11-15,Late delivery,3799.36,Rejected
+16006,414,2026-04-30,Defective item,24466.98,Approved
+17744,219,2025-11-11,Defective item,2340.49,Completed
+6170,421,2026-05-21,Size mismatch,5197.89,Requested
+10825,221,2025-12-11,Late delivery,24085.18,Approved
+8323,210,2025-10-01,Changed mind,13661.21,Rejected
+5987,133,2024-09-28,Product not as described,11800.96,Completed
+9846,467,2025-07-26,Damaged product,4400.06,Completed
+10483,151,2026-02-02,Product not as described,6946.62,Completed
+17447,315,2025-01-24,Quality issue,4391.21,Completed
+8233,258,2026-02-12,Damaged product,23164.97,Completed
+4484,199,2026-01-25,Late delivery,20960.96,Completed
+3539,424,2024-11-13,Product not as described,4852.38,Completed
+12935,242,2026-05-11,Defective item,5730.34,Completed
+11500,439,2026-01-21,Damaged product,10600.55,Completed
+12578,306,2025-04-27,Wrong item delivered,17814.14,Completed
+4030,227,2025-09-15,Changed mind,2639.01,Completed
+3908,93,2026-06-05,Quality issue,3706.19,Completed
+12139,326,2025-07-20,Defective item,15538.7,Completed
+18496,207,2024-11-16,Product not as described,20951.89,Approved
+1242,119,2026-04-17,Defective item,8056.4,Approved
+4854,147,2025-12-02,Late delivery,4163,Completed
+6911,293,2025-02-09,Quality issue,4334.41,Requested
+2698,337,2024-11-22,Wrong item delivered,23499.8,Completed
+11287,97,2025-03-31,Size mismatch,19039.25,Completed
+564,72,2026-02-10,Damaged product,7564.71,Completed
+9501,290,2025-08-22,Size mismatch,18219.9,Requested
+14701,150,2024-08-21,Changed mind,11035.49,Completed
+13322,234,2026-04-29,Size mismatch,18557.29,Approved
+19207,274,2025-09-04,Changed mind,14920.04,Completed
+3728,80,2025-08-04,Late delivery,23269.13,Completed
+12883,62,2024-09-02,Damaged product,15567.93,Completed
+3988,430,2025-01-07,Defective item,21737.12,Rejected
+16089,256,2025-07-05,Size mismatch,13544.5,Completed
+400,320,2024-07-21,Quality issue,9562.34,Completed
+12408,267,2025-02-08,Product not as described,16421.82,Approved
+9050,112,2025-12-12,Late delivery,5942.71,Requested
+389,127,2024-11-03,Damaged product,22738.39,Completed
+10269,390,2025-07-30,Wrong item delivered,5094.79,Completed
+2892,193,2025-01-13,Size mismatch,5480.96,Requested
+7445,14,2025-05-23,Quality issue,24198.31,Completed
+11674,156,2025-04-09,Product not as described,6875.32,Approved
+8522,336,2025-07-27,Damaged product,23808.25,Completed
+4558,342,2025-02-20,Wrong item delivered,14805.66,Rejected
+10363,448,2025-08-24,Product not as described,6883.04,Completed
+9532,18,2026-02-12,Defective item,1799.21,Completed
+7845,421,2025-03-03,Late delivery,19875.18,Completed
+2152,366,2025-07-02,Wrong item delivered,7249.96,Approved
+17722,455,2024-12-04,Quality issue,1597.11,Rejected
+637,235,2024-09-08,Quality issue,6685.63,Approved
+10953,193,2025-02-13,Changed mind,18465.68,Rejected
+14125,430,2025-02-27,Quality issue,20154.79,Completed
+6915,480,2024-09-19,Late delivery,6599.69,Completed
+1462,245,2026-01-09,Changed mind,4119.02,Rejected
+14866,471,2024-12-23,Product not as described,14240.82,Approved
+16226,331,2025-11-22,Late delivery,5909.92,Requested
+11246,56,2024-07-25,Quality issue,10023.28,Requested
+18146,280,2025-05-20,Product not as described,16290.58,Approved
+7005,78,2026-01-20,Changed mind,10949.21,Completed
+1909,439,2026-05-05,Product not as described,12819.56,Completed
+14245,7,2026-05-21,Size mismatch,295.67,Rejected
+9365,310,2024-10-20,Quality issue,15591.51,Rejected
+2038,455,2024-08-30,Product not as described,9074.55,Completed
+10791,469,2025-05-21,Defective item,9339.73,Completed
+189,7,2025-10-22,Size mismatch,15381.6,Completed
+7349,17,2026-07-05,Product not as described,15001.29,Completed
+5010,254,2026-06-03,Changed mind,8259.92,Completed
+16110,182,2025-11-13,Changed mind,193.16,Completed
+13401,109,2025-05-13,Damaged product,5040.12,Completed
+5172,463,2025-03-17,Product not as described,17442.6,Completed
+19468,108,2025-06-29,Damaged product,19842.52,Completed
+16031,420,2025-11-09,Damaged product,6773.44,Completed
+2144,253,2025-04-30,Defective item,19381.91,Approved
+13338,181,2025-09-10,Late delivery,18935,Completed
+19549,222,2024-11-26,Changed mind,12514.22,Completed
+13899,426,2025-10-18,Defective item,18969.23,Requested
+3166,432,2026-01-15,Wrong item delivered,16710.05,Approved
+18018,267,2024-10-19,Product not as described,16198.85,Approved
+11340,241,2026-01-08,Wrong item delivered,2025.1,Completed
+10737,96,2025-04-06,Wrong item delivered,5631.88,Rejected
+12272,431,2026-04-19,Defective item,20736.09,Completed
+4613,48,2026-04-24,Size mismatch,8385.53,Completed
+2958,206,2026-05-25,Changed mind,19697.74,Completed
+58,236,2024-10-09,Late delivery,6864.72,Completed
+4217,258,2025-10-25,Late delivery,24786.44,Completed
+11286,330,2026-02-26,Quality issue,12162.19,Completed
+5856,292,2025-05-02,Size mismatch,16299.19,Completed
+12604,345,2025-02-06,Defective item,10326.76,Completed
+4585,214,2024-11-30,Quality issue,10732.04,Requested
+19160,441,2025-04-04,Wrong item delivered,5007.48,Completed
+7620,427,2025-06-23,Defective item,12484.19,Completed
+15903,315,2024-09-05,Changed mind,7425.28,Rejected
+15070,249,2025-05-27,Late delivery,15938.91,Rejected
+19479,10,2025-04-06,Wrong item delivered,196.33,Completed
+17391,223,2025-09-17,Product not as described,12048.78,Approved
+15695,273,2025-09-21,Late delivery,23220.77,Rejected
+2964,150,2025-05-13,Size mismatch,20117.65,Approved
+19479,339,2025-12-13,Size mismatch,9136.41,Completed
+9622,163,2025-01-09,Changed mind,1215.55,Completed
+2325,381,2024-09-23,Quality issue,23242.22,Approved
+2910,436,2024-12-10,Wrong item delivered,979.76,Completed
+3959,87,2024-12-11,Damaged product,13066.29,Approved
+12934,425,2025-09-13,Damaged product,11313.05,Completed
+1250,450,2025-03-14,Quality issue,795.44,Approved
+12431,238,2024-10-06,Size mismatch,17080.29,Approved
+1502,500,2025-04-23,Damaged product,7827.24,Rejected
+5034,362,2026-01-10,Quality issue,11338.74,Completed
+15022,239,2025-10-07,Changed mind,3557.36,Completed
+13595,500,2025-06-30,Product not as described,12059.57,Completed
+10033,289,2025-04-03,Defective item,12182.55,Completed
+15417,171,2025-06-20,Size mismatch,4411.13,Completed
+10476,235,2024-12-14,Defective item,23512.9,Completed
+16322,51,2025-07-03,Damaged product,24046.2,Approved
+4450,57,2025-05-15,Wrong item delivered,13410.54,Rejected
+3776,424,2025-02-10,Quality issue,5452.81,Completed
+1185,147,2026-04-26,Wrong item delivered,14396.21,Completed
+19059,201,2025-06-13,Product not as described,7013.29,Approved
+7509,83,2025-03-21,Wrong item delivered,3757.5,Requested
+18067,446,2026-05-03,Changed mind,4473.43,Completed
+16032,324,2026-04-21,Defective item,9302.57,Approved
+19262,30,2025-08-01,Late delivery,1283.34,Completed
+18619,21,2024-11-19,Defective item,4189.98,Rejected
+12658,456,2025-03-03,Product not as described,9789.48,Completed
+3883,71,2026-05-18,Damaged product,21356.32,Requested
+4794,409,2026-04-15,Late delivery,1882.17,Completed
+16862,414,2025-12-04,Defective item,19735.89,Completed
+2606,452,2025-01-06,Defective item,24359.5,Completed
+17316,53,2025-10-17,Product not as described,16202.99,Approved
+15451,489,2024-09-14,Size mismatch,23731.25,Completed
+19551,81,2025-04-04,Late delivery,6102.38,Completed
+2371,421,2026-04-22,Product not as described,18088.01,Completed
+9033,290,2026-03-05,Late delivery,21786.98,Completed
+5578,31,2025-07-10,Changed mind,18957.08,Rejected
+4472,172,2024-08-16,Late delivery,18207.4,Completed
+15178,257,2024-10-17,Size mismatch,5123.27,Requested
+10773,48,2025-01-09,Size mismatch,15408.29,Completed
+18043,399,2025-11-26,Quality issue,6523.2,Completed
+15840,466,2025-02-04,Quality issue,9282.82,Completed
+7938,134,2024-08-28,Late delivery,4737.28,Completed
+18932,313,2025-04-02,Wrong item delivered,16254.5,Requested
+216,329,2025-02-26,Damaged product,13802.01,Completed
+11603,137,2024-08-19,Damaged product,13451,Completed
+2829,365,2025-06-23,Defective item,4777.54,Completed
+6659,208,2024-10-12,Quality issue,8308.96,Completed
+3044,301,2026-04-16,Late delivery,15201.67,Approved
+16560,394,2026-03-15,Wrong item delivered,6368.55,Completed
+8730,417,2026-05-10,Wrong item delivered,19768.82,Rejected
+2679,7,2026-07-08,Defective item,6970.97,Completed
+229,461,2025-05-25,Size mismatch,20743.42,Approved
+9989,165,2026-05-28,Wrong item delivered,21747.73,Completed
+43,112,2025-05-13,Product not as described,11083.49,Completed
+252,344,2025-11-04,Damaged product,8882.96,Completed
+16760,150,2024-08-22,Defective item,22826.37,Rejected
+2545,209,2024-10-31,Changed mind,5381.65,Completed
+4845,312,2026-05-27,Product not as described,8285,Approved
+9486,397,2025-12-17,Damaged product,1201.95,Completed
+3376,225,2026-03-11,Product not as described,2891.97,Completed
+15528,162,2025-07-12,Size mismatch,6493.93,Completed
+14105,78,2025-09-21,Defective item,1910.8,Completed
+14030,247,2024-07-27,Damaged product,9861.99,Completed
+6319,90,2026-02-19,Defective item,6701.85,Completed
+5067,189,2025-07-06,Quality issue,1102.1,Completed
+12389,422,2025-05-06,Quality issue,21460.29,Rejected
+10061,200,2025-03-09,Product not as described,17430.31,Completed
+2055,302,2025-02-09,Size mismatch,12271.49,Requested
+1772,258,2024-12-26,Size mismatch,17860.16,Approved
+7159,70,2026-03-09,Product not as described,21828.96,Requested
+4004,222,2025-01-18,Defective item,19700.45,Completed
+13455,96,2025-03-09,Late delivery,19456.64,Completed
+12783,333,2024-08-15,Changed mind,3349.8,Completed
+6986,341,2026-06-10,Damaged product,20950.7,Completed
+12309,23,2025-10-09,Quality issue,22263.12,Completed
+12540,432,2025-07-11,Product not as described,5312.22,Completed
+1316,129,2026-07-07,Quality issue,10178.79,Completed
+12261,452,2026-01-31,Late delivery,12334.35,Rejected
+17000,186,2025-01-15,Late delivery,19118,Approved
+7783,62,2025-10-01,Product not as described,6345.09,Completed
+14604,294,2025-05-08,Defective item,926.6,Requested
+9849,184,2026-01-11,Wrong item delivered,24952.27,Approved
+10516,468,2025-09-23,Wrong item delivered,23240.56,Completed
+2524,156,2026-01-18,Product not as described,12481.05,Completed
+5351,307,2025-04-11,Product not as described,23557.52,Approved
+7780,381,2025-09-30,Wrong item delivered,19777.16,Approved
+3265,150,2026-03-12,Defective item,6008.64,Completed
+13854,315,2025-06-25,Late delivery,17528.01,Completed
+5344,204,2026-06-01,Quality issue,8199.57,Requested
+13493,42,2025-03-27,Wrong item delivered,20470.04,Completed
+6509,296,2024-08-25,Changed mind,21423.92,Completed
+19189,230,2024-10-30,Defective item,6111.84,Completed
+2365,285,2024-11-21,Quality issue,16248.47,Requested
+19586,146,2025-07-09,Late delivery,10886.49,Rejected
+18697,278,2025-04-22,Late delivery,15218.18,Completed
+18017,122,2025-12-30,Damaged product,21718.51,Requested
+9935,234,2025-09-05,Defective item,1252.2,Requested
+17871,207,2025-07-25,Product not as described,10004.89,Completed
+6568,439,2025-08-17,Changed mind,884.94,Completed
+5386,230,2025-05-21,Size mismatch,9682.93,Completed
+1891,64,2025-03-22,Changed mind,6166.35,Rejected
+18170,111,2026-04-02,Changed mind,14965.35,Completed
+16005,430,2024-12-09,Late delivery,23151.24,Approved
+13578,271,2025-03-06,Changed mind,7108.08,Completed
+7084,24,2024-11-07,Late delivery,21418.38,Requested
+10796,110,2025-09-02,Quality issue,365.18,Requested
+12774,357,2025-09-19,Quality issue,11156.65,Completed
+12430,89,2025-05-26,Size mismatch,4250.86,Completed
+13723,87,2025-07-12,Late delivery,13455.5,Completed
+14969,62,2024-09-24,Damaged product,19227.57,Approved
+17003,373,2025-08-01,Late delivery,15188.09,Approved
+19325,437,2024-11-29,Quality issue,16961.25,Requested
+12784,272,2025-11-17,Wrong item delivered,15402.25,Completed
+16234,379,2026-07-08,Damaged product,2661.53,Rejected
+5021,375,2024-07-26,Wrong item delivered,9212.39,Completed
+13248,88,2026-02-01,Size mismatch,3040.96,Completed
+19608,135,2024-08-06,Changed mind,680.13,Completed
+10610,310,2025-01-31,Late delivery,2889.8,Completed
+9104,448,2025-05-01,Quality issue,23572.34,Completed
+10294,53,2025-09-21,Size mismatch,1861.21,Rejected
+17947,123,2024-10-20,Damaged product,6305.44,Approved
+5194,347,2025-07-16,Size mismatch,2227.53,Requested
+7327,398,2026-03-02,Late delivery,16141.74,Requested
+14639,152,2025-08-03,Damaged product,16632.37,Completed
+2652,472,2026-03-08,Wrong item delivered,24114.92,Completed
+4618,171,2025-01-11,Quality issue,5198.16,Rejected
+2906,496,2025-07-28,Quality issue,1927.01,Completed
+4157,466,2025-11-27,Product not as described,17965.1,Rejected
+6613,139,2025-02-14,Damaged product,5396.23,Approved
+4209,390,2025-06-08,Wrong item delivered,24608.54,Approved
+12536,232,2025-05-28,Product not as described,11447.65,Completed
+5906,259,2024-11-13,Wrong item delivered,9444.2,Completed
+1527,135,2025-01-09,Defective item,17528.99,Completed
+12710,477,2025-09-06,Product not as described,23144.94,Completed
+898,115,2026-04-18,Damaged product,15871.92,Rejected
+8138,220,2026-04-17,Product not as described,7900.25,Approved
+8181,131,2026-03-10,Late delivery,2526.95,Completed
+1811,341,2026-01-18,Size mismatch,24149.67,Completed
+1401,103,2024-10-12,Defective item,18204.45,Completed
+13769,337,2025-04-15,Changed mind,19352.55,Completed
+12658,176,2026-01-29,Product not as described,1456.35,Completed
+4989,413,2025-05-31,Wrong item delivered,12291.01,Completed
+11982,238,2025-04-29,Late delivery,6544.28,Rejected
+11401,472,2025-01-04,Quality issue,23266.28,Approved
+5244,89,2025-09-14,Damaged product,23418.38,Completed
+8950,382,2025-03-14,Damaged product,19824.33,Completed
+405,11,2025-10-18,Wrong item delivered,1051.87,Completed
+12859,318,2024-10-15,Late delivery,8421.62,Rejected
+6937,167,2026-05-03,Late delivery,11706.3,Completed
+1087,33,2025-03-02,Changed mind,11118.65,Completed
+2209,217,2026-02-20,Damaged product,16858.41,Completed
+18227,463,2025-08-08,Late delivery,24950.25,Requested
+14618,221,2026-06-10,Changed mind,13905.28,Approved
+8156,228,2026-02-10,Defective item,18429.63,Completed
+12936,135,2026-02-25,Quality issue,4946.71,Completed
+7804,226,2024-09-14,Defective item,6246.29,Completed
+19890,98,2024-08-23,Product not as described,20234.61,Approved
+17576,97,2026-06-03,Size mismatch,23364.94,Completed
+7025,200,2025-12-09,Quality issue,18899.12,Approved
+1253,330,2025-10-26,Size mismatch,22184.28,Completed
+5279,293,2025-05-22,Defective item,20051.93,Completed
+6190,280,2026-03-04,Late delivery,2743.94,Completed
+12274,363,2026-04-20,Late delivery,19506.69,Rejected
+11038,240,2025-11-11,Damaged product,11208,Completed
+15322,61,2025-02-27,Damaged product,24785.89,Completed
+11563,2,2025-07-13,Product not as described,978.93,Completed
+6291,496,2024-12-13,Product not as described,3467.39,Requested
+1790,203,2025-10-18,Size mismatch,1484.58,Completed
+972,213,2026-06-20,Size mismatch,12643.76,Completed
+14608,407,2026-03-28,Quality issue,18762.09,Completed
+10579,379,2025-07-25,Late delivery,23881.21,Completed
+12013,176,2024-07-16,Wrong item delivered,2424.63,Completed
+6149,94,2025-11-19,Changed mind,21158.63,Rejected
+6004,377,2026-06-09,Size mismatch,21049.41,Completed
+9355,59,2025-06-30,Late delivery,22386.65,Completed
+14615,483,2026-06-12,Damaged product,1774.35,Completed
+13147,271,2025-02-15,Damaged product,12619.4,Requested
+6055,385,2025-08-16,Changed mind,262.85,Completed
+15296,463,2024-08-01,Quality issue,17674.95,Approved
+13322,470,2024-07-26,Damaged product,15004.27,Approved
+2355,355,2025-05-13,Changed mind,9627.96,Completed
+2577,244,2024-11-01,Wrong item delivered,16021.27,Completed
+12278,392,2026-05-13,Size mismatch,19502.32,Completed
+13334,87,2025-03-02,Size mismatch,8374,Completed
+12438,25,2026-01-27,Late delivery,23368.97,Completed
+13027,302,2024-10-20,Product not as described,1441.75,Rejected
+6097,168,2025-08-17,Defective item,6306.23,Completed
+14622,319,2025-07-20,Changed mind,11914.51,Completed
+2088,331,2025-05-14,Late delivery,21203.86,Completed
+342,170,2025-08-13,Quality issue,3031.8,Approved
+979,314,2025-08-08,Damaged product,20650.68,Approved
+4135,167,2024-08-07,Product not as described,23189.01,Approved
+8987,413,2025-02-03,Wrong item delivered,14158.48,Approved
+13607,261,2024-07-31,Wrong item delivered,18093.26,Approved
+14609,427,2026-02-16,Changed mind,18274.16,Completed
+9237,444,2024-08-20,Product not as described,9571.13,Completed
+9198,204,2024-11-05,Changed mind,13494.61,Requested
+6807,360,2026-04-13,Changed mind,8549.56,Approved
+5696,69,2025-01-26,Wrong item delivered,2493.69,Rejected
+8731,291,2026-07-03,Late delivery,10114.03,Rejected
+5676,391,2025-09-14,Late delivery,13081.77,Approved
+1472,68,2025-03-23,Changed mind,3923.64,Completed
+8473,264,2026-04-27,Damaged product,22756.6,Requested
+5921,289,2025-03-20,Size mismatch,16895.79,Requested
+14729,306,2024-10-02,Defective item,16219.5,Completed
+16968,77,2025-06-17,Quality issue,5325.02,Completed
+16965,233,2025-03-21,Product not as described,17054.55,Completed
+16207,159,2026-02-28,Product not as described,24460.86,Approved
+5269,154,2024-08-29,Product not as described,8773.93,Completed
+18094,464,2026-02-06,Wrong item delivered,17236.28,Completed
+6307,255,2025-05-13,Quality issue,6262.94,Completed
+7672,310,2025-11-05,Product not as described,1967.37,Approved
+2744,326,2025-06-22,Defective item,18038.75,Completed
+14285,114,2026-04-29,Product not as described,12527.68,Completed
+720,278,2025-02-18,Defective item,1180.74,Approved
+18055,102,2025-01-07,Defective item,4904.95,Completed
+19164,214,2025-06-06,Size mismatch,20263.35,Approved
+14125,471,2024-07-20,Late delivery,16457.82,Completed
+3642,124,2026-01-11,Size mismatch,2911.72,Rejected
+18384,244,2024-11-27,Size mismatch,12534,Completed
+11632,346,2024-10-22,Quality issue,21665.78,Completed
+6559,274,2025-02-22,Product not as described,7337.49,Completed
+10165,163,2026-06-08,Defective item,16743.26,Completed
+8132,119,2025-09-20,Size mismatch,12109.95,Approved
+8103,458,2025-04-12,Damaged product,24117.95,Rejected
+15041,209,2025-02-28,Changed mind,14057.38,Completed
+10285,47,2026-05-13,Late delivery,15055.2,Completed
+9579,185,2026-03-29,Late delivery,21821.9,Completed
+9449,324,2024-09-02,Product not as described,7872.93,Approved
+15893,398,2026-02-03,Changed mind,15104.6,Completed
+5905,251,2025-04-09,Defective item,9350.68,Approved
+13569,67,2025-01-03,Quality issue,19818.21,Completed
+6963,433,2026-04-13,Damaged product,20665.46,Rejected
+17246,303,2025-04-09,Changed mind,21915.79,Completed
+19799,31,2024-11-30,Quality issue,14142.26,Completed
+15445,227,2025-07-22,Late delivery,12474.16,Completed
+19277,371,2024-09-08,Wrong item delivered,2816.05,Approved
+3763,299,2025-08-30,Wrong item delivered,10263,Completed
+1985,213,2024-09-14,Wrong item delivered,20010.47,Completed
+808,83,2024-11-13,Quality issue,16691.26,Requested
+19473,88,2026-06-15,Product not as described,21734.62,Completed
+4692,206,2025-11-17,Defective item,23102.38,Completed
+9119,260,2024-09-09,Late delivery,200.13,Rejected
+4026,488,2025-03-06,Product not as described,20138.44,Completed
+17887,230,2024-07-17,Size mismatch,13364.44,Completed
+8509,351,2025-04-13,Damaged product,3375.7,Completed
+19840,339,2025-02-24,Damaged product,4906.82,Completed
+7091,456,2024-10-06,Changed mind,12995.33,Approved
+8561,99,2025-10-08,Quality issue,9707.67,Rejected
+14896,45,2026-02-28,Size mismatch,7841.66,Completed
+10664,446,2025-01-27,Size mismatch,9256.75,Completed
+19223,223,2026-03-03,Late delivery,7370.82,Approved
+3844,334,2025-07-27,Defective item,8611.27,Approved
+19645,61,2026-04-25,Quality issue,20114.96,Completed
+16658,346,2025-01-23,Changed mind,4456.04,Completed
+3237,348,2025-02-07,Product not as described,22538.46,Completed
+19597,66,2026-01-09,Changed mind,15231,Approved
+672,380,2025-01-10,Damaged product,23393.74,Completed
+4491,422,2025-05-29,Product not as described,11398.41,Approved
+7974,474,2025-07-23,Changed mind,6244.59,Completed
+16075,217,2026-02-06,Damaged product,5349.5,Approved
+15388,303,2026-01-21,Product not as described,7474.2,Approved
+17013,308,2025-06-22,Wrong item delivered,1732.73,Approved
+6598,281,2026-01-07,Size mismatch,17511.29,Completed
+1740,46,2025-05-02,Changed mind,4777.79,Completed
+11266,13,2024-07-23,Size mismatch,23450.29,Completed
+958,405,2024-07-18,Late delivery,12096.91,Requested
+13567,107,2025-09-09,Changed mind,2698.04,Rejected
+3641,21,2024-08-19,Damaged product,24695.76,Completed
+14291,459,2026-06-13,Quality issue,5230.21,Completed
+17200,395,2024-11-20,Product not as described,13678.35,Approved
+18427,392,2026-02-16,Damaged product,24134.2,Requested
+12313,122,2026-03-10,Damaged product,24432.97,Completed
+19374,53,2025-10-01,Quality issue,24072.74,Completed
+16459,96,2026-03-18,Damaged product,22708.7,Completed
+8654,375,2024-12-10,Wrong item delivered,1641.24,Completed
+16377,345,2025-09-15,Defective item,16472.5,Requested
+14362,233,2026-06-09,Damaged product,15969.25,Completed
+779,131,2025-04-15,Changed mind,16744.45,Approved
+3178,314,2025-04-10,Damaged product,5176.83,Completed
+2869,452,2025-01-10,Wrong item delivered,8068.92,Requested
+6894,108,2025-05-21,Quality issue,18606.66,Completed
+12321,258,2025-07-18,Late delivery,16496.44,Completed
+19637,319,2025-11-07,Changed mind,419.5,Completed
+16131,204,2026-01-11,Changed mind,9402.86,Approved
+2129,279,2024-08-04,Product not as described,1846.05,Completed
+2376,9,2024-10-11,Late delivery,13641.72,Requested
+1831,492,2024-09-11,Product not as described,17671.31,Approved
+14140,181,2026-04-30,Late delivery,23652.96,Completed
+1214,350,2025-08-14,Changed mind,14958.24,Approved
+6702,38,2026-05-16,Size mismatch,2465.1,Approved
+3667,272,2024-08-16,Late delivery,11978.53,Requested
+13110,233,2026-01-14,Changed mind,16506.02,Approved
+5820,177,2025-06-26,Damaged product,16320.16,Approved
+1618,79,2026-06-16,Damaged product,16485,Completed
+19272,305,2026-01-19,Product not as described,9501.83,Completed
+11670,389,2025-04-19,Changed mind,2505.49,Completed
+1912,29,2025-12-03,Damaged product,6482,Completed
+12212,170,2026-06-09,Late delivery,12737.58,Completed
+6261,207,2025-12-28,Damaged product,17304.83,Approved
+18602,120,2024-09-03,Wrong item delivered,22507.95,Completed
+7259,228,2024-08-24,Changed mind,2793.76,Completed
+3869,81,2024-09-21,Wrong item delivered,10967.53,Completed
+2693,34,2024-09-03,Changed mind,10751.99,Completed
+15844,88,2025-08-08,Product not as described,8782.11,Completed
+19392,266,2026-06-18,Damaged product,22674.17,Rejected
+2364,451,2024-09-10,Quality issue,12889.06,Completed
+1181,62,2025-03-22,Product not as described,17771.07,Completed
+7162,248,2026-05-07,Changed mind,8225.1,Completed
+1592,196,2026-05-10,Damaged product,3354.82,Requested
+140,254,2025-09-26,Product not as described,16652.16,Completed
+14018,120,2024-11-08,Changed mind,2104.68,Rejected
+11318,455,2024-07-20,Quality issue,16085.54,Approved
+14986,452,2025-09-27,Damaged product,4423.44,Approved
+3583,409,2026-03-27,Damaged product,23197.93,Completed
+17091,171,2025-09-07,Quality issue,3798.38,Completed
+1560,29,2026-01-06,Size mismatch,18089.66,Completed
+12080,267,2026-04-10,Size mismatch,7135.97,Completed
+15207,375,2026-05-21,Quality issue,19865.81,Completed
+1980,445,2025-01-21,Damaged product,1977.43,Completed
+19377,64,2025-12-17,Damaged product,4687.32,Completed
+19204,95,2024-10-16,Defective item,19822.24,Requested
+9556,393,2025-12-01,Quality issue,8618.94,Requested
+16773,445,2025-07-12,Product not as described,5234.98,Approved
+12836,419,2025-07-30,Late delivery,4706.71,Approved
+15697,39,2025-05-17,Damaged product,8081.13,Rejected
+19266,291,2025-12-29,Wrong item delivered,11259.83,Approved
+6994,23,2026-02-20,Product not as described,8854.74,Requested
+4768,87,2025-03-16,Late delivery,21664.75,Completed
+5579,125,2026-06-19,Damaged product,17287.01,Completed
+1907,409,2025-10-20,Damaged product,23415.36,Completed
+19552,273,2025-07-11,Changed mind,15574.79,Completed
+3031,146,2025-11-24,Changed mind,15326.06,Completed
+16530,58,2025-06-06,Defective item,3208.3,Requested
+4495,344,2026-01-27,Product not as described,1047.6,Completed
+7609,407,2026-04-07,Late delivery,8547.94,Completed
+12575,178,2024-11-29,Size mismatch,3134.73,Approved
+8910,228,2025-01-25,Size mismatch,8943.39,Completed
+6952,228,2025-04-13,Quality issue,2762.14,Completed
+3720,385,2026-02-20,Size mismatch,16177.97,Rejected
+5353,233,2026-06-24,Defective item,22959.13,Completed
+8252,413,2025-06-20,Late delivery,15712.64,Approved
+3797,293,2026-06-28,Changed mind,17659.38,Completed
+11652,136,2026-03-30,Wrong item delivered,6791.66,Completed
+10896,40,2025-06-18,Size mismatch,17580.63,Completed
+14355,60,2025-11-06,Changed mind,8377.72,Approved
+18428,413,2025-03-01,Product not as described,13918.86,Rejected
+5531,84,2025-03-27,Changed mind,14144.89,Completed
+13184,91,2026-01-07,Size mismatch,2623.37,Completed
+17341,326,2026-07-11,Quality issue,16855.13,Rejected
+17439,267,2025-12-23,Defective item,22146.09,Completed
+16531,256,2025-04-28,Changed mind,16308.4,Completed
+4776,44,2026-01-12,Defective item,18758.59,Completed
+9168,465,2024-09-18,Late delivery,8395.78,Completed
+2676,135,2025-07-14,Changed mind,20783.58,Completed
+2576,66,2025-08-08,Quality issue,4829.76,Completed
+17045,91,2024-09-03,Changed mind,1773.92,Completed
+17971,420,2026-05-15,Defective item,5659.58,Completed
+3888,256,2026-03-02,Damaged product,3871.28,Completed
+11570,95,2025-01-16,Wrong item delivered,12676.2,Completed
+8566,170,2024-10-29,Wrong item delivered,10941.57,Completed
+8885,176,2025-09-04,Damaged product,8989.19,Completed
+17223,339,2025-12-13,Damaged product,7112.63,Approved
+5860,138,2024-11-20,Size mismatch,18482.88,Completed
+11892,228,2025-03-06,Defective item,6915.28,Completed
+16452,134,2026-01-08,Product not as described,15212.36,Completed
+12069,251,2024-08-31,Product not as described,17029.09,Approved
+19437,497,2026-05-22,Wrong item delivered,1499.86,Completed
+2277,425,2026-06-08,Size mismatch,21877.84,Approved
+9002,123,2025-04-04,Size mismatch,14570.94,Approved
+10114,440,2025-12-28,Changed mind,24074.16,Completed
+5188,465,2025-10-14,Size mismatch,11091.39,Completed
+19072,288,2026-06-28,Defective item,9135.63,Completed
+1043,358,2026-02-15,Defective item,7188.66,Completed
+12245,314,2026-05-13,Quality issue,17797.87,Completed
+1464,469,2026-03-02,Product not as described,14959.14,Completed
+19318,55,2026-01-21,Late delivery,18062.18,Completed
+12494,240,2024-11-26,Quality issue,11049.86,Completed
+2299,465,2025-12-12,Changed mind,23760.95,Approved
+13782,95,2026-06-07,Defective item,13422.83,Requested
+18541,1,2024-12-11,Wrong item delivered,20189.01,Completed
+16323,14,2026-02-18,Defective item,3462.53,Completed
+12005,346,2026-01-18,Damaged product,9000.83,Completed
+8885,197,2025-10-13,Size mismatch,2710.26,Completed
+3373,34,2026-03-25,Size mismatch,4031.82,Completed
+6965,48,2026-01-07,Late delivery,14186.81,Requested
+1161,106,2024-10-14,Defective item,5968.96,Approved
+12359,91,2026-02-26,Late delivery,1984.7,Rejected
+1370,226,2025-11-17,Defective item,6960.43,Completed
+8871,224,2024-08-27,Wrong item delivered,8617.12,Approved
+9422,161,2025-01-21,Changed mind,23939.86,Completed
+980,342,2024-10-09,Size mismatch,11367.43,Completed
+8124,290,2025-11-03,Changed mind,4318.69,Completed
+6386,319,2026-01-26,Defective item,4679.52,Completed
+227,276,2025-09-05,Product not as described,7764.18,Completed
+13195,262,2025-01-13,Damaged product,20397.66,Completed
+14937,269,2025-12-28,Size mismatch,9797.5,Approved
+5244,315,2025-04-29,Damaged product,20828.14,Completed
+15863,346,2026-03-06,Changed mind,8360.32,Approved
+4469,386,2025-02-22,Wrong item delivered,24425.2,Completed
+13661,404,2025-01-31,Size mismatch,2019.45,Requested
+4181,285,2024-08-15,Size mismatch,15316.37,Completed
+1777,76,2025-01-31,Quality issue,23075.33,Rejected
+2265,345,2025-12-18,Product not as described,3372.02,Completed
+443,316,2024-08-15,Late delivery,18501.63,Approved
+6171,178,2025-04-22,Damaged product,24084.51,Approved
+6254,130,2026-03-05,Size mismatch,1055.5,Completed
+4297,8,2025-12-03,Wrong item delivered,11680.87,Completed
+12382,416,2024-12-31,Damaged product,3355.46,Rejected
+10103,416,2025-11-19,Size mismatch,14186.37,Completed
+4556,204,2025-05-08,Wrong item delivered,13722.73,Approved
+5989,183,2025-06-27,Size mismatch,15310.82,Approved
+18647,450,2024-07-20,Product not as described,16825.71,Completed
+19569,482,2026-02-20,Product not as described,5881.32,Completed
+2075,216,2025-09-14,Quality issue,20191.13,Completed
+12502,297,2026-01-11,Wrong item delivered,7548.53,Completed
+12337,232,2025-12-15,Wrong item delivered,11962.1,Completed
+4608,436,2025-11-23,Quality issue,20500.31,Rejected
+19845,26,2024-11-13,Quality issue,3737.84,Requested
+4724,429,2024-09-12,Wrong item delivered,21395.39,Rejected
+9263,31,2025-12-29,Changed mind,13148.87,Completed
+13976,147,2025-04-09,Quality issue,11624.69,Completed
+17841,107,2025-11-26,Damaged product,20582.09,Rejected
+13342,102,2024-10-05,Wrong item delivered,4603.61,Approved
+16769,29,2025-08-18,Changed mind,308,Requested
+12457,451,2026-04-16,Wrong item delivered,1255.27,Completed
+11955,175,2025-06-22,Defective item,20384.99,Requested
+7218,216,2026-04-28,Damaged product,13978.23,Completed
+9282,45,2025-12-21,Wrong item delivered,4821.86,Completed
+513,481,2025-03-15,Defective item,5881.84,Completed
+15498,56,2025-11-19,Wrong item delivered,18293.34,Approved
+15608,101,2024-11-18,Size mismatch,13437.16,Completed
+10614,131,2024-10-23,Changed mind,22126.01,Completed
+10173,246,2025-10-24,Quality issue,12117.33,Completed
+19809,448,2026-02-01,Changed mind,22001.89,Approved
+2062,444,2024-12-08,Defective item,2627.04,Rejected
+17391,490,2025-07-04,Damaged product,24466.81,Requested
+17162,460,2026-04-24,Damaged product,14918.39,Completed
+4326,5,2025-08-02,Damaged product,14588.43,Completed
+6853,232,2025-05-27,Wrong item delivered,18087.43,Requested
+4924,466,2025-12-07,Size mismatch,16144.56,Requested
+2214,433,2024-10-26,Defective item,21377.08,Completed
+180,189,2026-04-04,Size mismatch,2242.95,Rejected
+1526,480,2025-07-02,Defective item,5818.34,Requested
+4094,71,2025-01-27,Quality issue,5554.11,Approved
+19009,326,2026-01-13,Quality issue,22086.98,Completed
+5265,123,2026-06-11,Wrong item delivered,1246.11,Approved
+7230,455,2024-08-08,Changed mind,652.45,Completed
+17124,226,2024-11-09,Changed mind,9308.14,Approved
+17024,30,2025-03-17,Late delivery,1620.08,Completed
+97,395,2025-03-01,Size mismatch,336.36,Requested
+2161,287,2025-10-31,Late delivery,3955.28,Requested
+18553,369,2024-07-27,Changed mind,13610.98,Completed
+9884,71,2025-05-16,Damaged product,7436.9,Completed
+6555,118,2025-06-03,Size mismatch,5785.81,Completed
+10092,2,2024-10-28,Quality issue,2115.87,Approved
+19343,253,2025-08-16,Damaged product,3446.69,Completed
+9035,348,2024-12-07,Defective item,13036.8,Completed
+17243,378,2024-09-20,Late delivery,20683.82,Completed
+1226,218,2026-04-16,Changed mind,12683.59,Completed
+6753,27,2026-06-14,Size mismatch,19720.35,Approved
+16151,172,2025-11-23,Size mismatch,10359.49,Approved
+4525,480,2025-12-19,Late delivery,20279.1,Rejected
+12250,430,2026-01-15,Changed mind,14425.03,Completed
+19496,222,2024-10-21,Changed mind,1443.46,Completed
+18630,17,2026-07-08,Wrong item delivered,21510.87,Completed
+7802,36,2026-04-20,Late delivery,6994.08,Approved
+16358,445,2025-03-02,Late delivery,16157.07,Completed
+14045,223,2024-07-31,Defective item,14526.24,Completed
+11840,205,2025-01-15,Damaged product,7789.13,Approved
+7418,12,2024-07-23,Defective item,24403.1,Approved
+3003,140,2024-09-03,Size mismatch,20194.5,Approved
+17672,407,2025-11-06,Size mismatch,13426.78,Completed
+16806,203,2026-01-31,Damaged product,4884.34,Completed
+16855,159,2024-09-22,Quality issue,15343.94,Approved
+4406,291,2026-03-02,Changed mind,13766.79,Approved
+3831,296,2025-03-19,Changed mind,20645.88,Rejected
+3986,422,2024-07-14,Defective item,20493.78,Completed
+9687,25,2026-06-09,Wrong item delivered,15835.49,Approved
+10638,485,2024-11-21,Wrong item delivered,18520.75,Completed
+19459,122,2024-08-13,Size mismatch,13716,Completed
+136,203,2025-07-10,Quality issue,7688.05,Completed
+18930,25,2026-01-22,Wrong item delivered,12202.59,Completed
+12158,279,2026-02-24,Changed mind,19673.41,Approved
+11565,179,2025-10-01,Wrong item delivered,10503.6,Completed
+11084,179,2025-09-30,Damaged product,1330.3,Completed
+5015,391,2026-03-16,Quality issue,5312.2,Requested
+18571,360,2025-12-24,Defective item,8606.46,Completed
+9836,143,2026-01-24,Damaged product,15258.54,Completed
+15946,229,2025-03-06,Wrong item delivered,8603.17,Completed
+682,135,2026-06-04,Quality issue,6497.48,Completed
+3829,242,2026-07-08,Late delivery,11529.73,Requested
+16297,268,2026-02-27,Product not as described,4751.19,Completed
+3655,289,2025-08-28,Product not as described,10476.26,Rejected
+15362,15,2025-05-19,Size mismatch,13412.45,Completed
+1446,376,2026-02-13,Changed mind,14149.46,Completed
+1012,8,2025-06-28,Size mismatch,17600.29,Approved
+16654,424,2024-08-17,Damaged product,20768.71,Completed
+7260,190,2025-01-09,Changed mind,2698.75,Approved
+19823,172,2025-05-16,Quality issue,1937.01,Completed
+2926,68,2025-12-30,Size mismatch,13370.54,Approved
+10045,31,2024-09-12,Product not as described,15455.71,Requested
+324,306,2025-02-28,Wrong item delivered,2199.24,Completed
+8750,355,2025-09-30,Wrong item delivered,15954.63,Completed
+12192,189,2024-07-22,Defective item,20908.94,Completed
+15345,120,2024-07-25,Product not as described,2359.46,Completed
+7801,125,2025-03-28,Quality issue,14197.16,Completed
+17930,212,2025-12-01,Product not as described,20429.45,Completed
+12477,53,2026-02-16,Defective item,3273.49,Approved
+8192,351,2026-02-05,Changed mind,20328.9,Completed
+14784,271,2025-01-03,Damaged product,14220.2,Approved
+10709,385,2024-11-07,Product not as described,15663.86,Approved
+10751,233,2024-10-21,Size mismatch,10282.5,Completed
+8911,3,2026-01-24,Late delivery,19510.38,Completed
+13391,147,2025-03-23,Defective item,9038.96,Completed
+357,202,2025-03-24,Changed mind,20623.04,Approved
+10084,220,2025-10-08,Changed mind,2352.07,Rejected
+9374,335,2026-05-27,Defective item,16465.72,Approved
+11225,428,2026-02-11,Late delivery,10090.65,Completed
+2060,118,2026-02-14,Damaged product,10181.49,Completed
+7622,412,2025-09-30,Changed mind,8622.6,Completed
+11874,350,2025-08-01,Product not as described,3700.26,Requested
+16098,383,2025-05-06,Damaged product,5827.31,Completed
+5760,457,2026-02-22,Changed mind,636.4,Completed
+13328,116,2025-07-29,Quality issue,3708.76,Completed
+12022,383,2026-06-03,Size mismatch,893.43,Completed
+6150,201,2024-11-03,Late delivery,22233.5,Completed
+9813,277,2025-04-03,Late delivery,10055.27,Completed
+12152,80,2024-11-22,Quality issue,15555.95,Completed
+4921,115,2024-09-14,Damaged product,16411.56,Completed
+16350,304,2026-05-04,Product not as described,15076.43,Completed
+5670,314,2025-08-19,Defective item,387.92,Requested
+18227,310,2024-10-17,Quality issue,13987.59,Approved
+6898,143,2026-07-02,Changed mind,8263.77,Approved
+18685,264,2026-03-15,Quality issue,13371.64,Completed
+14722,414,2025-10-12,Damaged product,20392.61,Completed
+5954,293,2026-05-09,Changed mind,22556.63,Completed
+4578,225,2024-07-26,Defective item,24958.38,Approved
+16080,392,2025-03-24,Late delivery,10235.15,Approved
+11076,77,2025-06-07,Quality issue,3445.72,Requested
+5625,280,2026-02-14,Size mismatch,5710.19,Rejected
+7296,218,2026-01-03,Quality issue,22915.82,Approved
+16671,261,2024-11-29,Late delivery,17516.63,Completed
+4882,48,2024-12-11,Defective item,15343.6,Completed
+2873,436,2024-07-12,Late delivery,11559.9,Completed
+8362,322,2024-10-16,Damaged product,22643.96,Requested
+7013,80,2024-12-15,Changed mind,20084.63,Completed
+1004,443,2026-03-30,Late delivery,20518.45,Completed
+850,274,2026-04-08,Quality issue,1099.73,Approved
+17286,62,2025-12-24,Defective item,11341.32,Rejected
+19141,30,2026-03-14,Damaged product,21116.1,Completed
+17653,303,2026-03-14,Defective item,11712.59,Completed
+2824,142,2024-11-23,Damaged product,18545.92,Rejected
+10047,226,2024-10-13,Size mismatch,6739.8,Approved
+17626,142,2025-07-08,Changed mind,11517.45,Completed
+10273,310,2025-12-21,Product not as described,17669.89,Approved
+16492,496,2025-08-27,Product not as described,13692.3,Completed
+9680,149,2025-06-07,Late delivery,10143.84,Approved
+4947,190,2026-05-23,Size mismatch,10535.7,Completed
+19940,304,2025-02-19,Defective item,21120.47,Completed
+7206,266,2025-03-23,Size mismatch,8775.45,Completed
+7468,235,2025-01-02,Size mismatch,3998.48,Completed
+18049,422,2025-03-10,Wrong item delivered,11316.16,Completed
+16910,244,2024-09-02,Quality issue,1285.6,Completed
+843,160,2025-06-01,Wrong item delivered,8604.86,Completed
+5414,307,2025-09-02,Wrong item delivered,18263.61,Completed
+13185,95,2024-11-02,Product not as described,1471.35,Completed
+983,406,2026-05-09,Defective item,2371.01,Completed
+2569,168,2026-06-25,Size mismatch,15155.34,Approved
+7111,456,2026-03-15,Product not as described,16900.01,Rejected
+3016,470,2025-12-24,Late delivery,23190.58,Completed
+4632,271,2026-02-22,Late delivery,8396.34,Completed
+998,297,2024-09-06,Defective item,22758.55,Completed
+9618,444,2026-03-04,Size mismatch,15862.03,Completed
+15760,467,2025-01-25,Damaged product,1791.12,Approved
+16101,215,2025-07-26,Changed mind,9169.36,Completed
+15566,341,2026-01-06,Quality issue,22171.99,Requested
+12360,207,2025-10-23,Damaged product,11885.22,Completed
+8240,130,2024-08-26,Late delivery,9635.03,Completed
+19391,373,2025-03-04,Changed mind,4852.22,Approved
+9540,332,2025-10-07,Wrong item delivered,2423.91,Rejected
+16855,339,2024-11-19,Late delivery,6395.23,Completed
+13367,289,2025-06-08,Changed mind,20991.95,Completed
+17174,390,2025-02-14,Defective item,19261.87,Rejected
+2183,368,2025-04-27,Wrong item delivered,24221.11,Completed
+3408,465,2024-07-18,Damaged product,8887.05,Completed
+17046,322,2026-05-03,Size mismatch,17229.65,Completed
+18834,78,2025-03-19,Product not as described,17777.44,Completed
+9606,304,2025-11-27,Size mismatch,22155.86,Approved
+8232,145,2025-08-07,Changed mind,15301.97,Rejected
+4196,77,2026-04-27,Quality issue,17325.51,Completed
+12460,153,2025-09-13,Changed mind,1504.85,Completed
+19476,434,2025-03-07,Late delivery,8847.66,Completed
+2844,3,2024-12-04,Quality issue,11769.26,Approved
+17675,116,2026-07-04,Product not as described,10832.51,Approved
+2357,286,2024-12-26,Size mismatch,11305.81,Completed
+3647,266,2024-10-03,Damaged product,6950.17,Completed
+7479,7,2024-11-09,Wrong item delivered,10957.93,Approved
+67,140,2024-12-06,Size mismatch,24061.42,Completed
+8233,85,2026-06-21,Size mismatch,12388.23,Rejected
+13685,278,2025-10-17,Wrong item delivered,3353.7,Completed
+7893,401,2024-12-08,Defective item,19064.39,Approved
+1846,468,2025-11-19,Defective item,10809.64,Completed
+7131,401,2026-02-15,Product not as described,11618.91,Approved
+5567,153,2025-08-20,Changed mind,4605.66,Completed
+2295,173,2025-04-24,Defective item,8392.11,Completed
+3523,132,2025-03-02,Defective item,7320.73,Completed
+10058,171,2025-08-25,Quality issue,2178.26,Requested
+15936,297,2026-02-01,Damaged product,2061.81,Completed
+15700,419,2024-11-29,Wrong item delivered,4979.48,Completed
+12581,301,2026-06-29,Quality issue,314.68,Completed
+11586,477,2024-10-12,Defective item,20484.61,Requested
+11631,285,2026-06-27,Size mismatch,17745.89,Approved
+11359,298,2025-08-29,Late delivery,12430.11,Approved
+2503,438,2025-05-14,Late delivery,14521.22,Approved
+4625,350,2025-08-12,Damaged product,9730.06,Completed
+633,142,2026-06-07,Defective item,19223.35,Requested
+5856,198,2026-05-02,Wrong item delivered,13047.57,Completed
+13232,234,2026-03-20,Product not as described,5754.75,Completed
+5213,295,2025-01-16,Product not as described,3589.69,Completed
+12276,388,2025-11-29,Quality issue,16807.54,Completed
+819,70,2025-11-03,Size mismatch,23228.09,Completed
+9939,142,2026-01-15,Defective item,24550.9,Completed
+10210,128,2024-12-26,Quality issue,20169.05,Approved
+16490,86,2026-02-01,Damaged product,4142.64,Approved
+18957,380,2026-06-13,Product not as described,2987.8,Completed
+4729,74,2025-04-12,Product not as described,14979.25,Completed
+7758,295,2024-10-24,Quality issue,974.17,Approved
+11659,497,2024-07-29,Damaged product,18462.45,Completed
+8511,410,2026-04-11,Wrong item delivered,21243.43,Approved
+5031,276,2025-07-18,Defective item,8160.12,Rejected
+13934,152,2026-06-10,Quality issue,3651.5,Completed
+17033,105,2025-04-02,Defective item,6267.55,Completed
+5056,74,2025-03-10,Late delivery,24532.89,Completed
+9868,186,2025-07-22,Size mismatch,19273.39,Completed
+1446,356,2025-03-06,Damaged product,5449.4,Completed
+15779,183,2026-04-10,Late delivery,16905.47,Rejected
+10608,9,2025-08-11,Size mismatch,24097.33,Completed
+11508,262,2026-02-23,Defective item,12621.16,Completed
+1149,417,2026-01-24,Quality issue,20169.02,Completed
+15970,218,2025-04-02,Damaged product,13471.08,Requested
+12332,249,2025-08-17,Quality issue,23062.22,Approved
+11294,328,2024-09-08,Damaged product,13015.63,Requested
+681,61,2024-08-16,Quality issue,14229.5,Rejected
+17149,348,2025-10-17,Changed mind,15998.08,Completed
+11101,256,2025-09-03,Wrong item delivered,16522.04,Approved
+14441,439,2024-10-12,Wrong item delivered,21290.88,Approved
+19845,444,2024-08-20,Quality issue,19334.01,Rejected
+18910,2,2025-03-13,Wrong item delivered,14338.97,Completed
+8216,395,2025-06-19,Damaged product,19779.83,Requested
+10858,198,2026-04-10,Wrong item delivered,18466.16,Completed
+10761,407,2026-02-07,Late delivery,21077.93,Approved
+16458,169,2024-08-22,Changed mind,13529.22,Completed
+14694,216,2025-01-27,Wrong item delivered,6020.9,Approved
+10567,444,2025-08-02,Late delivery,19401.45,Completed
+15860,161,2025-06-02,Wrong item delivered,17910.57,Completed
+19930,187,2025-06-14,Defective item,14528.43,Completed
+19498,248,2025-08-23,Changed mind,17789.68,Completed
+5916,381,2025-04-07,Damaged product,1780.65,Approved
+1833,171,2026-03-18,Damaged product,8935.33,Approved
+13340,244,2025-12-29,Damaged product,18431.85,Completed
+19455,179,2025-09-07,Damaged product,9346.28,Completed
+916,247,2026-01-26,Changed mind,21972.33,Completed
+934,68,2026-06-30,Changed mind,21407.91,Approved
+16959,315,2024-08-20,Late delivery,5193.54,Rejected
+10412,196,2025-05-28,Defective item,24345.39,Requested
+2446,350,2026-06-28,Wrong item delivered,21007.69,Approved
+6285,215,2025-05-14,Product not as described,5773.69,Rejected
+9377,320,2025-08-28,Product not as described,8162.31,Approved
+18436,18,2025-02-06,Changed mind,9869.57,Completed
+14268,412,2025-05-08,Product not as described,20300.12,Completed
+11793,370,2026-06-11,Damaged product,12326.16,Approved
+10740,10,2025-01-24,Damaged product,16329.65,Completed
+16904,237,2026-01-25,Quality issue,23947.57,Completed
+11833,206,2024-10-18,Defective item,18154.41,Approved
+18272,190,2024-11-20,Size mismatch,14056.66,Rejected
+11351,140,2025-04-12,Late delivery,24726.26,Completed
+106,217,2026-04-13,Size mismatch,15939.61,Completed
+18584,350,2026-01-12,Changed mind,22679.09,Completed
+2738,469,2024-12-02,Product not as described,16934.63,Approved
+7283,129,2026-02-03,Quality issue,9504.68,Requested
+5098,310,2024-09-15,Late delivery,13078.35,Completed
+16210,358,2025-10-13,Changed mind,2792.26,Completed
+1255,404,2026-06-21,Damaged product,9995.41,Approved
+12232,42,2026-06-26,Wrong item delivered,3664.84,Completed
+17785,427,2026-04-13,Size mismatch,21581.53,Completed
+12247,59,2025-10-27,Quality issue,6954.4,Completed
+5042,251,2025-11-04,Quality issue,668.43,Completed
+14270,157,2026-04-28,Wrong item delivered,10382.35,Completed
+6021,306,2025-12-31,Product not as described,12061.24,Approved
+19075,286,2025-12-13,Wrong item delivered,19155.23,Approved
+15486,286,2026-07-07,Late delivery,902.14,Approved
+504,129,2026-01-16,Late delivery,15379.92,Completed
+17335,413,2026-05-27,Wrong item delivered,15199.03,Completed
+10017,226,2025-05-08,Changed mind,12962.01,Completed
+5547,34,2025-09-08,Late delivery,24455.11,Approved
+14496,428,2024-07-31,Late delivery,3857.11,Requested
+16935,325,2026-06-07,Defective item,15909.3,Completed
+13617,111,2025-01-05,Defective item,14641.87,Completed
+8591,420,2025-07-29,Size mismatch,23355.59,Completed
+475,349,2026-05-22,Late delivery,3473.15,Completed
+13868,420,2026-05-03,Quality issue,3569.45,Completed
+9238,130,2026-01-05,Defective item,12690.34,Completed
+5545,395,2025-05-15,Changed mind,24315.45,Completed
+3928,254,2024-10-12,Changed mind,14731.12,Approved
+3995,375,2025-09-13,Wrong item delivered,4235.79,Rejected
+16986,288,2025-02-23,Wrong item delivered,16694.4,Completed
+3985,74,2024-10-15,Size mismatch,18042.11,Approved
+1625,106,2025-09-18,Product not as described,8063.23,Completed
+10561,175,2025-06-03,Quality issue,18951.5,Completed
+12072,292,2026-01-21,Damaged product,5689.37,Approved
+6912,57,2025-07-11,Quality issue,8690.14,Rejected
+4287,371,2025-09-07,Defective item,23716.34,Completed
+18704,444,2026-01-27,Wrong item delivered,15136.1,Completed
+12805,404,2026-06-09,Wrong item delivered,16612.83,Completed
+6940,199,2025-01-12,Wrong item delivered,16885.1,Requested
+13654,412,2024-11-08,Late delivery,847.89,Completed
+2355,460,2024-07-25,Changed mind,14248.72,Completed
+11843,445,2024-07-22,Defective item,2404.67,Approved
+3997,37,2026-07-05,Product not as described,13616.36,Completed
+5575,178,2026-06-05,Late delivery,14714.74,Completed
+9863,456,2026-05-30,Damaged product,13256.12,Completed
+14435,275,2026-06-07,Changed mind,17855.14,Completed
+3697,475,2025-09-15,Changed mind,19809,Completed
+1446,138,2025-02-04,Damaged product,20358.8,Rejected
+13764,286,2026-02-11,Changed mind,4387.11,Completed
+17763,447,2024-10-19,Late delivery,20665.2,Completed
+9269,493,2025-09-02,Quality issue,21288.72,Completed
+16119,167,2026-03-30,Quality issue,5102.47,Completed
+10631,272,2024-10-16,Defective item,2944.9,Completed
+10833,468,2024-12-17,Size mismatch,19177.63,Completed
+15290,426,2025-07-12,Wrong item delivered,16146.2,Rejected
+4484,493,2026-04-12,Defective item,16941.5,Approved
+5967,467,2025-03-21,Size mismatch,19397.31,Completed
+17144,473,2025-09-13,Defective item,11539.28,Completed
+933,64,2024-10-06,Changed mind,6573.8,Completed
+10591,304,2026-04-21,Size mismatch,18490.63,Completed
+12430,7,2024-10-27,Late delivery,23629.75,Requested
+5860,354,2026-01-14,Changed mind,4813,Approved
+6635,126,2025-09-12,Wrong item delivered,13497.81,Rejected
+15665,184,2025-07-12,Changed mind,16701.94,Completed
+1773,179,2026-04-17,Defective item,11270.29,Completed
+14427,381,2026-02-23,Quality issue,23271.33,Completed
+7621,150,2025-12-27,Defective item,10083.76,Completed
+2384,72,2024-07-29,Wrong item delivered,11517.26,Completed
+3284,281,2026-06-26,Product not as described,13574.75,Requested
+12545,207,2026-07-03,Late delivery,20259.26,Completed
+12677,301,2025-08-24,Quality issue,19937.08,Completed
+4231,490,2025-09-05,Changed mind,15755.83,Completed
+13437,408,2024-12-14,Size mismatch,17218.1,Completed
+11613,298,2025-05-10,Quality issue,20539.05,Completed
+3786,302,2025-10-25,Quality issue,9327.15,Completed
+3024,226,2025-06-11,Wrong item delivered,290.14,Completed
+9192,410,2024-09-28,Changed mind,12666.15,Completed
+18849,436,2024-09-20,Damaged product,4988.33,Completed
+18806,14,2025-12-06,Product not as described,2719.14,Approved
+1373,414,2026-07-05,Damaged product,6683.73,Completed
+4508,143,2025-02-18,Size mismatch,12578.71,Approved
+2455,70,2026-02-12,Damaged product,21547.79,Completed
+16325,408,2024-07-17,Product not as described,21772.09,Rejected
+16742,9,2024-10-21,Changed mind,10255.54,Requested
+14678,238,2026-01-26,Quality issue,17123.12,Completed
+8699,99,2025-09-16,Damaged product,20825.41,Rejected
+14470,147,2025-10-26,Defective item,13073.94,Completed
+9713,255,2026-06-09,Wrong item delivered,9806.16,Approved
+8401,231,2026-04-24,Late delivery,2120.3,Approved
+1664,283,2024-09-05,Defective item,15313.86,Completed
+5402,11,2025-11-10,Changed mind,2918.62,Rejected
+4594,350,2026-05-31,Late delivery,4902.01,Completed
+15685,244,2025-04-02,Defective item,15254.75,Rejected
+5112,305,2025-11-30,Late delivery,7736.09,Approved
+14707,50,2024-08-13,Late delivery,1601.53,Rejected
+8538,199,2025-04-20,Changed mind,4229.19,Completed
+16160,31,2025-08-09,Changed mind,14837.81,Completed
+13401,478,2024-09-27,Size mismatch,5545.74,Completed
+1365,35,2024-12-08,Product not as described,8140.76,Completed
+1188,356,2024-10-04,Changed mind,2529.75,Completed
+4203,125,2025-07-12,Damaged product,18122.87,Completed
+1608,243,2026-05-24,Wrong item delivered,19281.59,Completed
+6863,464,2025-01-25,Size mismatch,1038.84,Completed
+12714,205,2025-05-07,Late delivery,19406.13,Rejected
+3528,70,2024-09-04,Damaged product,12518.88,Completed
+11632,107,2026-06-23,Product not as described,22390.44,Approved
+19501,437,2024-12-23,Quality issue,7893.85,Completed
+6757,328,2024-10-01,Late delivery,16460.25,Completed
+19153,292,2025-09-13,Size mismatch,11724,Completed
+7749,18,2025-04-20,Defective item,15572.73,Requested
+15052,20,2024-09-11,Product not as described,24129,Completed
+18939,269,2025-04-21,Size mismatch,6330.24,Rejected
+2773,92,2026-03-10,Late delivery,23952.97,Approved
+14366,46,2024-12-31,Quality issue,21599.88,Completed
+18941,309,2026-05-19,Product not as described,7224.15,Completed
+13799,344,2026-06-16,Wrong item delivered,10350.15,Completed
+3688,253,2024-08-18,Late delivery,17927.23,Completed
+15686,341,2024-08-08,Quality issue,22070.83,Completed
+7490,12,2024-07-29,Quality issue,6714.77,Approved
+17709,72,2025-09-02,Quality issue,14552.71,Approved
+19465,153,2024-11-06,Changed mind,22773.29,Completed
+14438,270,2024-07-20,Wrong item delivered,11918.06,Approved
+8012,295,2025-02-17,Size mismatch,20195.91,Completed
+12937,207,2025-03-15,Damaged product,15026.43,Completed
+15649,232,2025-12-22,Size mismatch,5342.47,Completed
+9398,430,2026-05-29,Late delivery,606.93,Completed
+3322,407,2025-01-31,Quality issue,19166.89,Completed
+9390,50,2025-01-28,Quality issue,22617.47,Completed
+5844,165,2025-08-14,Product not as described,869.03,Approved
+8290,293,2025-08-05,Quality issue,13683.89,Completed
+14147,360,2026-05-06,Late delivery,6050.19,Approved
+9427,7,2026-05-07,Size mismatch,17679.11,Completed
+8453,396,2024-11-10,Quality issue,19378.68,Completed
+2028,172,2024-09-14,Product not as described,11260.56,Requested
+2730,362,2024-10-27,Quality issue,7312.84,Completed
+12799,489,2024-09-27,Changed mind,15070.13,Completed
+13711,435,2024-08-22,Damaged product,18379.85,Approved
+16258,436,2024-12-12,Changed mind,18804.58,Rejected
+9960,245,2024-10-05,Damaged product,9740.04,Completed
+13712,74,2025-12-23,Changed mind,12932.16,Completed
+14533,335,2026-06-30,Size mismatch,17654.98,Completed
+12421,437,2025-11-23,Damaged product,10993.4,Rejected
+1019,244,2025-10-02,Changed mind,5812.73,Completed
+16608,355,2026-04-06,Damaged product,1550.38,Requested
+18595,295,2026-06-14,Wrong item delivered,23784.49,Completed
+11513,288,2025-02-25,Defective item,23097.27,Requested
+14271,302,2025-04-29,Changed mind,4591.76,Completed
+3036,262,2026-05-04,Product not as described,6508.09,Completed
+9419,70,2026-02-18,Late delivery,10231.52,Rejected
+1748,407,2026-07-07,Size mismatch,21366.1,Completed
+12298,238,2026-06-15,Product not as described,3027.94,Approved
+8246,70,2025-01-17,Damaged product,7834.15,Rejected
+18547,362,2025-12-06,Late delivery,5930.1,Completed
+6992,128,2024-10-13,Wrong item delivered,10895.02,Requested
+4817,450,2024-11-04,Damaged product,19639.11,Completed
+4358,248,2025-02-01,Quality issue,15586.41,Requested
+12646,311,2024-11-28,Size mismatch,631.46,Rejected
+1953,397,2025-07-27,Late delivery,20304.52,Completed
+19112,343,2026-01-13,Product not as described,11439.72,Approved
+6008,115,2026-01-11,Size mismatch,23957.62,Requested
+8862,376,2024-08-19,Late delivery,8937.58,Completed
+11093,463,2025-07-31,Defective item,2054.87,Completed
+17266,444,2025-09-29,Changed mind,7076.5,Approved
+16368,209,2025-09-20,Wrong item delivered,19635.3,Completed
+18700,15,2025-12-20,Late delivery,20470.99,Completed
+19693,220,2025-07-25,Late delivery,12124.01,Approved
+5965,177,2025-08-21,Wrong item delivered,2085.11,Approved
+18703,267,2025-05-29,Damaged product,16140.52,Approved
+13632,472,2025-02-20,Damaged product,6768.53,Completed
+9559,335,2025-08-03,Size mismatch,10023.38,Completed
+19822,186,2026-01-21,Product not as described,17195.77,Rejected
+5440,459,2024-10-18,Quality issue,2539.75,Completed
+11340,38,2026-06-02,Product not as described,6391.69,Completed
+17179,278,2026-01-24,Late delivery,2382.01,Completed
+4954,51,2025-02-17,Late delivery,17588.03,Rejected
+19800,367,2025-03-24,Defective item,2886.15,Completed
+16453,229,2025-02-19,Late delivery,438.59,Completed
+4268,398,2025-05-09,Late delivery,23614,Approved
+14398,368,2024-08-22,Product not as described,18551.37,Rejected
+10862,135,2025-12-16,Defective item,3495.42,Completed
+8527,492,2024-07-22,Wrong item delivered,6038.91,Approved
+2623,2,2024-10-20,Changed mind,19184.53,Rejected
+17273,185,2026-05-14,Quality issue,2580.18,Completed
+2453,371,2026-07-02,Damaged product,15392.22,Completed
+14564,222,2025-11-25,Late delivery,13093.37,Completed
+10486,152,2026-06-11,Damaged product,8004.8,Approved
+14996,311,2024-11-23,Wrong item delivered,21486.66,Rejected
+9037,198,2026-06-29,Damaged product,12919.45,Completed
+16969,168,2025-04-22,Damaged product,19322.08,Completed
+6022,264,2026-04-30,Wrong item delivered,17158.13,Completed
+4430,165,2025-12-31,Damaged product,4129.62,Completed
+9455,429,2025-09-01,Changed mind,8797,Completed
+16971,58,2025-07-29,Damaged product,11133.26,Completed
+19512,183,2025-11-21,Late delivery,11354.38,Completed
+4039,140,2025-06-14,Quality issue,7920.9,Completed
+7551,250,2025-08-28,Quality issue,5788.46,Completed
+3699,126,2026-05-24,Late delivery,12634.28,Completed
+1287,88,2024-08-09,Defective item,11531.48,Completed
+1815,20,2024-12-03,Late delivery,7965.05,Completed
+15512,317,2026-06-16,Defective item,7763.41,Requested
+1998,462,2025-10-13,Quality issue,9732.14,Completed
+13950,320,2025-08-20,Defective item,9002.24,Approved
+9892,24,2026-05-10,Late delivery,12064.22,Completed
+17615,362,2025-05-01,Product not as described,8909.71,Completed
+4697,163,2025-10-07,Late delivery,6413.86,Completed
+7612,445,2026-06-16,Quality issue,9368.3,Completed
+2846,469,2025-01-17,Changed mind,3598.61,Completed
+17870,492,2024-08-24,Damaged product,20658.09,Rejected
+16036,265,2024-11-17,Defective item,841.81,Completed
+648,373,2026-04-12,Size mismatch,9584.97,Completed
+18658,158,2026-06-24,Changed mind,20816.71,Completed
+10352,454,2026-04-25,Product not as described,21808.05,Completed
+11106,197,2025-08-17,Product not as described,7979.42,Completed
+11263,130,2026-06-27,Damaged product,22782.82,Requested
+11867,63,2026-02-12,Size mismatch,20631.15,Requested
+2838,488,2025-09-03,Damaged product,24965.22,Requested
+17835,173,2026-05-04,Product not as described,15363.37,Completed
+11786,57,2024-12-31,Damaged product,20978.16,Completed
+4911,234,2026-04-06,Defective item,2175.08,Rejected
+18436,306,2025-11-11,Damaged product,19811.32,Completed
+1447,283,2024-11-03,Defective item,3652.88,Completed
+16048,440,2025-03-09,Quality issue,23417.61,Approved
+14231,356,2025-02-11,Quality issue,12175.15,Completed
+14699,54,2025-02-13,Product not as described,4130.26,Rejected
+7685,178,2025-11-06,Quality issue,6604.59,Approved
+12260,159,2026-04-02,Quality issue,6996.96,Approved
+4476,207,2024-11-26,Product not as described,11415.39,Requested
+1991,278,2024-08-02,Damaged product,23169.34,Requested
+12211,491,2025-01-26,Defective item,899.13,Completed
+14179,388,2026-06-06,Damaged product,10713.19,Completed
+694,85,2025-08-29,Product not as described,18082.7,Completed
+12322,226,2025-09-08,Quality issue,16783.71,Requested
+18323,369,2024-07-12,Size mismatch,22411.44,Completed
+18606,364,2024-08-26,Changed mind,21357.31,Completed
+9300,125,2025-08-30,Size mismatch,6978.73,Completed
+9001,411,2024-10-16,Changed mind,19275.3,Rejected
+16831,55,2025-09-03,Size mismatch,17138.3,Approved
+3274,249,2024-08-18,Changed mind,3447.92,Requested
+17115,111,2025-11-06,Wrong item delivered,20414.05,Requested
+10611,127,2026-02-12,Damaged product,14916.39,Completed
+4856,331,2025-04-24,Late delivery,21886.74,Approved
+2677,89,2025-03-16,Damaged product,5824.62,Completed
+2188,365,2024-11-10,Wrong item delivered,15346.17,Completed
+14249,67,2025-08-28,Size mismatch,7526.41,Rejected
+7384,457,2024-08-11,Damaged product,14917.79,Completed
+5404,155,2025-05-28,Product not as described,9187.52,Completed
+4650,79,2025-12-11,Quality issue,3610.22,Completed
+7564,163,2025-05-24,Wrong item delivered,9049.3,Approved
+422,390,2026-01-03,Defective item,18403.28,Approved
+10798,408,2026-06-04,Changed mind,10882.84,Completed
+9241,280,2026-02-19,Changed mind,2905.03,Approved
+10681,483,2025-01-01,Late delivery,15832.39,Completed
+19861,124,2025-05-04,Wrong item delivered,1610.77,Approved
+10799,78,2026-04-08,Quality issue,14297.27,Rejected
+13558,485,2026-04-03,Defective item,5802.05,Completed
+18514,449,2026-02-28,Late delivery,7121.28,Completed
+4300,450,2024-11-14,Defective item,4876.15,Completed
+10969,212,2026-01-18,Late delivery,23223.39,Completed
+12563,289,2025-11-09,Late delivery,12398.29,Completed
+12093,323,2024-11-05,Size mismatch,21716.3,Completed
+11595,389,2025-06-01,Quality issue,4705.98,Completed
+19321,110,2025-11-07,Size mismatch,4702.86,Completed
+8244,95,2025-09-03,Changed mind,2968.3,Completed
+13774,4,2024-12-23,Product not as described,16684.35,Approved
+12514,155,2025-05-29,Quality issue,5541.93,Completed
+4345,114,2025-01-24,Size mismatch,7022.88,Completed
+4988,70,2026-07-03,Defective item,10485.84,Rejected
+5936,332,2024-10-23,Changed mind,19160.35,Rejected
+17619,451,2024-12-28,Quality issue,5770.71,Completed
+9881,276,2025-02-11,Product not as described,18214.5,Completed
+14274,23,2026-05-06,Defective item,19902.45,Completed
+16849,35,2024-11-16,Late delivery,590.77,Approved
+11346,257,2025-02-28,Changed mind,19621.24,Completed
+17659,412,2025-10-09,Wrong item delivered,22954.9,Approved
+219,479,2024-07-13,Changed mind,20535.97,Completed
+10864,43,2026-06-14,Defective item,6388.68,Approved
+18648,463,2025-12-04,Late delivery,5393.22,Completed
+9143,470,2025-02-17,Late delivery,2380.6,Completed
+6348,91,2024-08-09,Wrong item delivered,19826.62,Completed
+18882,278,2026-03-31,Product not as described,12509.36,Approved
+6176,14,2025-01-10,Product not as described,23536.95,Completed
+1261,62,2024-09-04,Product not as described,20436.7,Approved
+10851,73,2025-08-16,Size mismatch,7869.76,Completed
+369,41,2025-08-23,Defective item,13034.75,Completed
+15424,249,2025-04-29,Late delivery,11841.84,Completed
+12872,85,2024-08-26,Product not as described,22460.13,Completed
+4289,211,2024-12-31,Defective item,3264.34,Rejected
+10457,15,2025-08-12,Quality issue,3905.35,Completed
+8102,252,2026-06-16,Product not as described,5173.15,Completed
+1519,189,2026-05-03,Product not as described,10124.81,Completed
+3411,483,2024-08-26,Damaged product,15597.66,Approved
+16935,412,2025-04-20,Changed mind,9840.79,Completed
+18075,97,2025-01-19,Wrong item delivered,21932.04,Completed
+14092,86,2025-07-09,Changed mind,13326,Completed
+13242,388,2025-08-06,Wrong item delivered,12525.23,Completed
+4681,200,2025-10-15,Product not as described,15623.65,Rejected
+1174,331,2025-07-24,Defective item,24308.65,Completed
+14091,479,2026-07-04,Product not as described,400.65,Requested
+9641,17,2024-11-01,Late delivery,24574.5,Completed
+9423,384,2025-12-15,Defective item,19139.01,Approved
+6640,247,2024-11-03,Defective item,24754.1,Completed
+19036,358,2025-04-13,Quality issue,16196.64,Completed
+15203,110,2024-08-12,Wrong item delivered,14825.96,Approved
+7614,165,2025-12-18,Product not as described,11118.73,Completed
+8978,278,2025-11-12,Size mismatch,12190.22,Requested
+18661,86,2024-09-20,Quality issue,11773.15,Approved
+12599,65,2025-11-16,Damaged product,13541.33,Approved
+18486,488,2025-01-16,Damaged product,20818.32,Completed
+19008,77,2024-10-14,Damaged product,15737.18,Completed
+17860,70,2025-02-02,Size mismatch,8578.55,Completed
+8477,118,2025-10-16,Defective item,24214.85,Completed
+14422,250,2024-12-14,Wrong item delivered,20553.45,Requested
+1410,63,2024-08-29,Changed mind,9868.27,Completed
+12769,127,2026-07-02,Size mismatch,21323.92,Completed
+2890,131,2025-04-27,Defective item,22655.91,Rejected
+19859,479,2025-05-08,Size mismatch,24909.17,Requested
+11555,311,2025-07-17,Wrong item delivered,7318.23,Completed
+12351,318,2026-02-27,Defective item,5371.82,Completed
+6250,259,2025-10-14,Damaged product,1522.14,Completed
+1391,256,2025-11-30,Damaged product,506.29,Completed
+8808,191,2025-12-24,Late delivery,842.98,Rejected
+11521,216,2026-06-22,Damaged product,15811.93,Completed
+12470,353,2024-12-11,Changed mind,16019.49,Completed
+19578,152,2026-03-29,Product not as described,2922.82,Completed
+12547,436,2024-12-03,Size mismatch,18558.55,Completed
+6446,6,2026-06-20,Size mismatch,14896.43,Completed
+14435,478,2026-02-01,Damaged product,2784.46,Approved
+19664,170,2026-03-26,Size mismatch,22674.98,Completed
+6378,40,2026-05-29,Changed mind,4035.11,Requested
+1798,101,2026-07-08,Product not as described,17614.14,Completed
+3121,403,2025-02-12,Damaged product,22627.65,Rejected
+9431,300,2026-01-21,Product not as described,17861.63,Completed
+17929,116,2026-04-28,Size mismatch,20077.58,Completed
+18420,84,2025-10-12,Size mismatch,12536.49,Completed
+609,475,2026-02-17,Changed mind,9121.79,Requested
+13341,102,2024-10-21,Damaged product,21385.74,Rejected
+13823,141,2025-12-31,Quality issue,16648.19,Approved
+4677,241,2026-03-14,Quality issue,6302.75,Completed
+15165,256,2024-09-19,Wrong item delivered,6917.03,Approved
+10541,360,2025-09-04,Damaged product,10180.24,Completed
+6188,424,2026-06-02,Changed mind,3111.89,Requested
+7454,23,2026-03-22,Defective item,10437.77,Completed
+11794,392,2025-09-21,Quality issue,6456.31,Completed
+16538,206,2024-11-19,Size mismatch,12106.77,Completed
+4593,93,2025-11-02,Product not as described,15809.73,Completed
+14301,173,2025-09-28,Product not as described,7927.53,Completed
+7688,150,2026-07-08,Product not as described,16109.9,Completed
+6078,32,2024-10-03,Product not as described,18114.53,Completed
+17607,457,2026-06-09,Wrong item delivered,21643.08,Completed
+8893,172,2024-08-21,Late delivery,23072.78,Completed
+14469,466,2025-09-03,Size mismatch,18620.88,Requested
+18946,89,2026-03-27,Wrong item delivered,14203.1,Requested
+7877,376,2026-03-15,Damaged product,11517.7,Completed
+15378,422,2025-09-16,Wrong item delivered,23733.9,Requested
+67,376,2025-04-13,Product not as described,20442.89,Completed
+5780,150,2025-10-03,Product not as described,8124.71,Completed
+3980,165,2024-10-02,Size mismatch,10529.33,Completed
+1192,426,2025-12-17,Size mismatch,20519.32,Completed
+18642,408,2025-09-04,Damaged product,4263.86,Approved
+12885,409,2024-10-31,Product not as described,15952.62,Approved
+3280,232,2025-03-04,Late delivery,12314.49,Completed
+6589,359,2026-06-28,Size mismatch,4856.05,Completed
+14229,24,2026-02-27,Changed mind,15557.95,Rejected
+19768,210,2025-01-05,Changed mind,15081.15,Completed
+18360,430,2026-07-06,Damaged product,15773.64,Approved
+16510,229,2024-10-19,Defective item,6495.66,Completed
+17531,313,2026-03-26,Size mismatch,3968.58,Approved
+8247,30,2026-02-20,Damaged product,23477.55,Completed
+3845,122,2025-06-03,Quality issue,22750.51,Requested
+3304,175,2025-03-06,Changed mind,13066.56,Approved
+6697,116,2025-03-26,Defective item,24046.63,Completed
+10578,91,2026-06-25,Size mismatch,6221.43,Completed
+5825,53,2025-01-02,Size mismatch,9790.08,Rejected
+3649,349,2025-04-30,Changed mind,16572.82,Completed
+17455,407,2025-07-12,Changed mind,21634.63,Completed
+18530,306,2024-09-18,Damaged product,11479.07,Completed
+650,484,2024-12-24,Late delivery,23235.99,Completed
+6950,140,2025-05-01,Damaged product,19553.9,Approved
+10027,458,2025-04-15,Size mismatch,6375.79,Completed
+1033,464,2025-03-05,Quality issue,18135.51,Completed
+4533,124,2025-04-30,Late delivery,13913.47,Rejected
+2090,107,2025-08-26,Quality issue,15404.49,Requested
+10768,371,2025-12-22,Damaged product,7848.66,Completed
+5956,475,2026-05-24,Size mismatch,12266.23,Completed
+16573,345,2026-06-06,Size mismatch,13183.39,Completed
+489,184,2025-01-23,Late delivery,5211.59,Completed
+450,386,2026-05-11,Product not as described,7621.14,Completed
+3921,116,2025-12-02,Product not as described,4297.55,Completed
+7803,408,2025-04-09,Quality issue,21666.39,Completed
+13408,195,2025-08-02,Quality issue,4231.69,Approved
+1457,286,2026-03-21,Wrong item delivered,24634.08,Completed
+16623,154,2025-03-02,Defective item,9193.54,Completed
+9038,273,2025-02-22,Late delivery,755,Completed
+13535,131,2024-10-06,Late delivery,3310.3,Completed
+17304,380,2026-01-24,Wrong item delivered,11628.25,Completed
+12062,75,2025-01-07,Quality issue,7130.78,Completed
+1066,346,2025-01-02,Wrong item delivered,1604.31,Completed
+13644,281,2025-09-05,Late delivery,15201.88,Completed
+18915,178,2024-07-25,Late delivery,4672.95,Completed
+14094,79,2026-06-11,Late delivery,5218.43,Approved
+4983,337,2024-11-23,Defective item,4355.2,Rejected
+10807,132,2026-03-07,Changed mind,10433.19,Approved
+2854,247,2024-11-23,Damaged product,5608.79,Approved
+4581,288,2026-05-03,Size mismatch,17291.62,Rejected
+8599,445,2025-08-26,Damaged product,1885.11,Rejected
+4887,385,2026-04-12,Quality issue,4182.97,Rejected
+5803,190,2024-11-16,Product not as described,21359.34,Completed
+7057,136,2024-07-25,Late delivery,3702.02,Completed
+18904,3,2025-07-21,Quality issue,14100.85,Rejected
+7290,475,2025-02-22,Late delivery,15787.85,Completed
+15117,75,2025-02-01,Late delivery,20288.45,Rejected
+1583,374,2024-11-02,Wrong item delivered,17599.19,Completed
+17852,208,2025-07-19,Product not as described,4860.46,Completed
+3108,112,2024-11-06,Defective item,6086.25,Completed
+4668,490,2025-09-03,Damaged product,23817.57,Completed
+18805,305,2025-05-04,Late delivery,4542.13,Rejected
+1136,194,2025-02-15,Late delivery,18787.78,Approved
+16870,200,2025-03-06,Late delivery,15583.59,Completed
+11255,437,2024-10-01,Product not as described,20257.5,Completed
+4665,245,2025-04-05,Size mismatch,2820.67,Completed
+5027,235,2025-05-31,Quality issue,20142.04,Completed
+1209,443,2025-02-18,Product not as described,10098.31,Completed
+19535,285,2025-04-01,Quality issue,9224.28,Completed
+19683,414,2025-07-29,Damaged product,13785.38,Completed
+18980,334,2025-09-19,Changed mind,4573.36,Approved
+19194,98,2024-12-24,Damaged product,20058.06,Completed
+358,418,2026-02-13,Wrong item delivered,24328.63,Approved
+14966,111,2025-09-18,Changed mind,23444.94,Completed
+15295,480,2026-06-20,Product not as described,24320.15,Completed
+12792,300,2025-01-27,Wrong item delivered,9236.91,Completed
+6203,258,2025-11-11,Late delivery,16218.64,Completed
+19431,256,2026-01-14,Product not as described,15982.97,Approved
+2793,480,2026-02-14,Defective item,4439.99,Completed
+4720,240,2025-11-14,Damaged product,22042.96,Completed
+17609,111,2024-12-18,Changed mind,18886.46,Completed
+3470,392,2024-10-20,Wrong item delivered,16599,Rejected
+6103,208,2024-11-27,Late delivery,15321.34,Completed
+5616,239,2026-07-02,Defective item,4662.4,Completed
+7231,295,2025-07-22,Product not as described,19075.85,Requested
+19036,5,2025-07-02,Late delivery,2745.93,Completed
+6644,118,2024-09-01,Product not as described,7889.21,Completed
+12680,126,2025-02-25,Defective item,9421.18,Requested
+17241,21,2025-10-20,Late delivery,14044.33,Approved
+16073,26,2024-10-01,Late delivery,227.07,Completed
+6547,245,2025-06-26,Late delivery,8903.21,Completed
+5394,333,2025-10-31,Wrong item delivered,21389.6,Completed
+2082,250,2025-05-01,Damaged product,15986.65,Rejected
+11222,135,2026-04-25,Quality issue,13918.34,Approved
+7189,168,2024-12-15,Wrong item delivered,20232.21,Completed
+10446,254,2024-10-06,Late delivery,10608.35,Completed
+13638,122,2026-02-26,Late delivery,13697.93,Requested
+5643,392,2025-10-24,Wrong item delivered,17588.51,Completed
+2666,111,2024-08-19,Late delivery,19512.84,Completed
+5670,181,2025-08-31,Wrong item delivered,3716.44,Approved
+14940,95,2026-05-29,Quality issue,11899.46,Completed
+16977,426,2025-04-23,Quality issue,14787.84,Rejected
+13517,123,2025-08-14,Size mismatch,3257.92,Completed
+16320,321,2026-05-04,Changed mind,17249.38,Completed
+14028,239,2025-08-05,Changed mind,6431.61,Completed
+5309,296,2025-12-03,Quality issue,4748,Rejected
+12778,23,2026-03-03,Quality issue,12284.45,Completed
+58,186,2025-11-25,Wrong item delivered,747.59,Completed
+13235,80,2024-10-15,Defective item,12830.28,Completed
+2399,137,2026-01-26,Quality issue,14562.97,Completed
+13870,80,2024-07-20,Defective item,13834.51,Completed
+10544,473,2026-03-21,Size mismatch,4476.21,Requested
+18773,422,2025-03-03,Late delivery,100.76,Rejected
+16357,64,2025-11-13,Changed mind,21464.42,Completed
+7387,344,2024-09-17,Size mismatch,20409.11,Completed
+17659,178,2024-12-04,Product not as described,5228.56,Approved
+11909,255,2024-11-02,Size mismatch,21343.19,Requested
+13042,449,2025-04-08,Damaged product,19214.08,Approved
+7212,19,2026-04-14,Size mismatch,9188.53,Approved
+9947,134,2025-12-01,Changed mind,23329.75,Completed
+4497,246,2024-12-21,Wrong item delivered,16178.73,Completed
+13743,281,2026-01-19,Wrong item delivered,13888.83,Approved
+7732,286,2025-09-10,Quality issue,9001.76,Completed
+155,234,2024-12-02,Size mismatch,22204.84,Completed
+7250,343,2025-10-27,Wrong item delivered,20595.62,Completed
+16816,479,2025-09-01,Size mismatch,20627.74,Approved
+16642,243,2025-02-19,Late delivery,12706.41,Completed
+19844,425,2025-11-09,Wrong item delivered,22763.07,Completed
+4901,291,2025-07-03,Late delivery,13631.23,Completed
+11248,456,2025-10-29,Size mismatch,16633.81,Requested
+16627,62,2024-11-06,Product not as described,12386.64,Rejected
+12016,210,2024-08-04,Late delivery,2369.18,Rejected
+1616,377,2024-09-04,Wrong item delivered,21271.86,Approved
+13693,419,2026-01-09,Defective item,744.41,Completed
+2676,411,2026-01-30,Quality issue,15038.71,Completed
+10741,34,2026-04-24,Changed mind,14438.48,Completed
+779,476,2026-05-05,Defective item,12081.37,Completed
+14300,327,2025-03-18,Defective item,10719.96,Completed
+15801,277,2024-08-13,Wrong item delivered,16165.63,Approved
+9989,181,2025-11-01,Late delivery,8539.15,Completed
+1278,203,2025-08-26,Quality issue,13750.29,Completed
+8433,118,2026-07-09,Late delivery,213.71,Completed
+11174,400,2025-12-11,Damaged product,1976.68,Completed
+5846,147,2024-09-18,Defective item,22232.4,Approved
+9275,313,2025-03-05,Size mismatch,24213.77,Completed
+4146,68,2026-05-02,Quality issue,5567.32,Completed
+9883,184,2025-11-05,Size mismatch,19132.78,Completed
+5540,487,2024-10-27,Damaged product,22858.78,Completed
+13714,134,2025-07-01,Size mismatch,1014.63,Approved
+5948,415,2026-02-08,Product not as described,21975.94,Completed
+9350,123,2026-02-16,Changed mind,12754.07,Approved
+5197,342,2025-06-04,Product not as described,375.23,Completed
+9294,65,2026-05-23,Size mismatch,22140.37,Requested
+12087,350,2026-07-11,Size mismatch,5797.21,Completed
+15574,293,2026-01-22,Quality issue,9285.21,Approved
+11303,20,2026-07-01,Changed mind,1072.07,Completed
+13256,33,2025-02-16,Quality issue,22782.59,Completed
+9307,107,2024-08-16,Late delivery,427.58,Completed
+17494,156,2026-03-07,Wrong item delivered,8126.42,Completed
+14646,105,2025-03-02,Quality issue,8244.9,Completed
+13424,24,2024-09-09,Damaged product,1422.17,Approved
+3354,184,2024-10-04,Product not as described,242.67,Completed
+8177,356,2025-06-10,Product not as described,16596.18,Completed
+9095,458,2026-03-27,Size mismatch,20196.73,Completed
+7619,499,2026-05-06,Size mismatch,7852.83,Completed
+13737,78,2026-03-14,Product not as described,2326.02,Completed
+4918,417,2025-01-07,Defective item,8897.1,Completed
+818,374,2026-04-19,Product not as described,18450.21,Approved
+17325,103,2025-08-15,Quality issue,7569.72,Approved
+19293,331,2024-11-13,Defective item,24384.22,Approved
+9631,15,2025-09-20,Defective item,15471.48,Approved
+16732,357,2026-03-10,Size mismatch,17276.08,Completed
+2461,199,2025-01-15,Changed mind,21390.05,Completed
+14384,370,2025-09-03,Quality issue,12281.62,Approved
+15917,460,2024-09-08,Quality issue,11251.21,Completed
+15311,89,2025-01-05,Wrong item delivered,15842.41,Completed
+9296,79,2026-06-07,Product not as described,23314.74,Completed
+1632,273,2025-01-08,Late delivery,7735.37,Completed
+11299,273,2025-08-12,Defective item,6681.1,Approved
+16598,158,2026-02-19,Size mismatch,16409.71,Rejected
+16496,192,2025-11-27,Damaged product,4833.62,Completed
+2460,164,2025-02-06,Changed mind,1599.24,Completed
+1432,243,2025-11-23,Wrong item delivered,8828.33,Completed
+4562,209,2024-10-08,Late delivery,11451.56,Completed
+19643,213,2025-01-02,Late delivery,15634.94,Approved
+13933,146,2024-09-21,Quality issue,6758.02,Requested
+19899,363,2025-03-17,Defective item,10019,Approved
+11206,6,2024-10-20,Defective item,2144.27,Approved
+5365,237,2026-06-17,Product not as described,20548.58,Requested
+18640,438,2025-09-16,Product not as described,6583.9,Completed
+16051,220,2025-04-09,Quality issue,4044.82,Approved
+17062,353,2025-04-28,Defective item,4759.89,Completed
+800,390,2025-03-29,Late delivery,14585.59,Completed
+13500,376,2025-03-14,Quality issue,8779.34,Rejected
+3955,493,2025-05-09,Product not as described,20268.18,Completed
+4801,337,2025-03-24,Changed mind,20310.65,Requested
+628,168,2026-05-16,Wrong item delivered,21231.87,Completed
+3981,144,2025-05-08,Damaged product,19097.27,Completed
+10916,24,2024-08-09,Quality issue,17422.54,Rejected
+8145,29,2026-03-09,Wrong item delivered,13549.4,Approved
+9828,146,2026-04-14,Wrong item delivered,4965.4,Completed
+19731,112,2025-12-31,Wrong item delivered,7694.85,Rejected
+11693,37,2025-09-21,Defective item,22971.14,Requested
+14453,47,2024-08-19,Damaged product,24438.03,Completed
+3532,250,2025-08-09,Damaged product,8193.95,Rejected
+9022,14,2024-09-11,Wrong item delivered,3961.82,Completed
+15130,208,2026-02-01,Wrong item delivered,2867.81,Completed
+13552,41,2026-06-06,Changed mind,20530.74,Completed
+14632,289,2026-02-13,Wrong item delivered,2231.61,Completed
+19720,154,2025-02-14,Changed mind,10209.34,Completed
+7499,291,2024-12-28,Late delivery,9303.67,Requested
+15942,178,2026-04-17,Late delivery,18766.67,Approved
+8401,340,2024-11-13,Changed mind,24243.19,Completed
+14967,184,2025-05-17,Changed mind,23651.03,Completed
+3919,307,2025-09-26,Wrong item delivered,3839.15,Completed
+5437,21,2026-06-27,Wrong item delivered,5908.62,Completed
+7559,155,2025-11-29,Quality issue,23292.39,Completed
+14938,259,2024-12-29,Product not as described,3983.63,Completed
+13930,355,2025-11-09,Damaged product,12917.29,Completed
+15282,90,2025-03-22,Product not as described,2190.09,Requested
+18119,330,2026-02-04,Wrong item delivered,2954.04,Completed
+13974,397,2025-06-02,Late delivery,3356.38,Rejected
+13898,256,2026-01-25,Damaged product,6267.47,Approved
+16339,192,2025-03-07,Changed mind,4495.53,Completed
+10576,160,2024-11-14,Wrong item delivered,15076.55,Completed
+5796,317,2025-01-10,Defective item,20356.53,Completed
+12395,381,2025-08-17,Quality issue,22280.75,Completed
+3334,105,2025-01-16,Quality issue,11412.21,Approved
+3309,110,2025-03-31,Damaged product,13289.25,Completed
+7540,246,2024-07-27,Changed mind,17047.58,Completed
+1131,401,2025-01-24,Quality issue,4253.93,Completed
+5196,106,2024-12-24,Size mismatch,2732.16,Completed
+16532,486,2025-11-15,Product not as described,7693.61,Requested
+15725,391,2026-04-16,Changed mind,22002.84,Completed
+16274,431,2024-10-16,Wrong item delivered,11062.82,Completed
+17885,273,2025-10-06,Product not as described,4209.51,Completed
+9265,92,2025-07-21,Size mismatch,17695.05,Completed
+10272,298,2024-10-06,Late delivery,11405.77,Completed
+6223,379,2025-03-01,Wrong item delivered,11365.93,Approved
+1495,175,2025-11-15,Wrong item delivered,2932.63,Completed
+3476,427,2025-11-24,Quality issue,17926.59,Completed
+17493,401,2026-04-10,Product not as described,6485.86,Completed
+10678,243,2025-06-09,Quality issue,4319.11,Approved
+6326,486,2026-07-01,Defective item,14811.38,Completed
+3098,309,2026-04-06,Quality issue,13253.76,Rejected
+1318,326,2024-12-21,Late delivery,6401.06,Rejected
+9573,237,2026-05-07,Damaged product,23967.14,Requested
+7120,39,2025-07-31,Wrong item delivered,10885.62,Completed
+7645,405,2026-07-01,Damaged product,19388.29,Completed
+14875,261,2025-11-25,Size mismatch,15618.33,Completed
+6225,137,2025-06-09,Product not as described,14083.68,Completed
+2018,79,2025-03-17,Wrong item delivered,16926.11,Completed
+2321,276,2026-05-05,Defective item,13777.38,Completed
+4197,322,2024-08-03,Late delivery,15789.23,Completed
+497,242,2025-09-15,Changed mind,8944.98,Rejected
+5375,449,2026-06-17,Changed mind,20595.37,Completed
+19876,440,2025-07-05,Changed mind,9689.97,Rejected
+11035,161,2026-03-30,Size mismatch,2853.96,Approved
+5623,393,2026-04-04,Product not as described,252.86,Approved
+59,471,2025-07-30,Product not as described,9702,Completed
+528,139,2026-01-04,Changed mind,4922.12,Approved
+931,206,2026-01-08,Late delivery,5779.01,Completed
+18790,252,2024-09-16,Product not as described,10952.94,Completed
+6696,482,2024-12-29,Defective item,14864.37,Completed
+19614,42,2024-12-24,Late delivery,5020.81,Completed
+671,144,2025-05-26,Changed mind,9364.13,Rejected
+8817,243,2025-01-27,Changed mind,12679.85,Completed
+15462,495,2026-01-19,Product not as described,17526.02,Completed
+3635,166,2024-07-12,Size mismatch,15970.11,Completed
+10390,348,2026-03-24,Product not as described,2678.32,Rejected
+13526,375,2024-11-23,Product not as described,4954.3,Completed
+9780,61,2025-09-26,Quality issue,2748.37,Completed
+13729,418,2025-05-04,Late delivery,14519.68,Completed
+1953,57,2025-09-08,Product not as described,16023.78,Requested
+10299,133,2026-04-06,Damaged product,5878.68,Completed
+14200,16,2026-03-12,Wrong item delivered,1987.69,Approved
+17084,490,2025-05-09,Changed mind,2340.74,Completed
+146,135,2025-08-19,Product not as described,5516.76,Completed
+15421,174,2025-09-17,Late delivery,7598.52,Completed
+13825,363,2025-11-04,Wrong item delivered,20292.1,Requested
+16256,275,2025-03-12,Size mismatch,20369.64,Completed
+16988,459,2024-12-24,Size mismatch,24190.02,Approved
+5494,128,2025-09-04,Wrong item delivered,12128.5,Completed
+1078,30,2024-07-26,Size mismatch,4343.36,Completed
+16625,137,2026-02-26,Wrong item delivered,16001.53,Requested
+5726,12,2025-09-27,Damaged product,1579.06,Rejected
+4938,263,2026-01-19,Damaged product,933.6,Completed
+4023,224,2025-11-22,Quality issue,19490.12,Approved
+10549,227,2024-11-03,Product not as described,19280.76,Completed
+5801,480,2024-08-22,Wrong item delivered,7851.44,Completed
+19204,255,2025-09-22,Damaged product,6253.85,Completed
+401,193,2026-02-16,Wrong item delivered,1011.27,Completed
+10443,294,2026-01-10,Wrong item delivered,12255.74,Rejected
+14686,53,2026-03-08,Late delivery,18918.61,Completed
+10055,478,2024-10-24,Late delivery,24443.72,Completed
+1115,291,2025-10-31,Defective item,2703.41,Rejected
+9566,142,2025-09-13,Product not as described,15124.84,Completed
+5546,78,2025-10-12,Defective item,6553.9,Completed
+18382,441,2024-09-11,Size mismatch,19456.73,Completed
+2697,416,2024-12-27,Defective item,23150.67,Approved
+1744,381,2025-09-02,Wrong item delivered,6249.82,Completed
+13087,309,2025-08-30,Changed mind,13784.82,Completed
+17974,377,2025-08-01,Size mismatch,475.82,Approved
+12456,310,2024-08-03,Damaged product,20653.55,Completed
+6053,321,2025-09-22,Size mismatch,23118.45,Completed
+2285,81,2025-09-27,Late delivery,1983.5,Completed
+16389,349,2025-05-10,Wrong item delivered,22038.25,Completed
+17038,391,2024-10-19,Changed mind,22476.17,Rejected
+5257,113,2025-06-14,Product not as described,7106.11,Completed
+15193,130,2026-05-09,Product not as described,17530.51,Approved
+13212,2,2025-11-11,Defective item,4848.86,Completed
+11251,488,2025-11-13,Wrong item delivered,2949.27,Completed
+77,191,2025-04-18,Changed mind,4460.95,Approved
+9117,56,2025-10-15,Quality issue,8923.35,Completed
+9286,108,2025-02-26,Quality issue,12590.95,Rejected
+11138,41,2025-12-12,Late delivery,8799.7,Approved
+2941,101,2026-03-05,Size mismatch,22310.72,Approved
+12588,354,2025-03-13,Late delivery,6269.66,Approved
+17728,495,2025-04-18,Changed mind,12288.16,Completed
+14280,144,2024-11-08,Late delivery,15951.01,Requested
+18148,53,2024-10-26,Wrong item delivered,8884.3,Completed
+4544,308,2026-05-22,Changed mind,18602.67,Completed
+15627,401,2025-09-10,Product not as described,7396.48,Completed
+14046,454,2025-03-09,Damaged product,20491.67,Completed
+14900,251,2025-08-12,Product not as described,18846.26,Approved
+15792,85,2025-07-19,Product not as described,21126.79,Completed
+8008,197,2024-09-30,Defective item,20427.55,Completed
+9663,318,2024-08-27,Damaged product,896.04,Rejected
+7705,39,2025-02-28,Product not as described,24930.84,Approved
+15014,121,2026-04-01,Damaged product,5958.36,Rejected
+19142,198,2025-11-06,Late delivery,8295.05,Approved
+347,103,2026-03-28,Wrong item delivered,21794.55,Completed
+15705,54,2025-10-24,Changed mind,12039.12,Rejected
+7867,213,2024-07-17,Damaged product,1833.38,Completed
+15145,80,2025-12-20,Late delivery,417.58,Completed
+11972,96,2024-11-09,Size mismatch,18909.77,Completed
+6419,301,2025-01-05,Changed mind,12100.47,Rejected
+15822,327,2026-07-08,Changed mind,3049.22,Completed
+7592,35,2025-11-15,Damaged product,9713.89,Completed
+13989,377,2026-02-07,Wrong item delivered,16761.73,Completed
+1433,19,2025-03-31,Damaged product,6850.76,Approved
+13270,496,2025-07-21,Late delivery,10916.42,Approved
+11134,469,2024-11-19,Damaged product,6294.32,Requested
+15683,46,2024-12-10,Product not as described,19180.79,Completed
+4334,436,2025-12-04,Late delivery,20736.86,Completed
+19056,273,2025-06-07,Defective item,6882.9,Rejected
+10733,282,2025-09-07,Defective item,2211.77,Completed
+9931,97,2025-01-24,Late delivery,6312.3,Completed
+15473,5,2026-02-09,Damaged product,10078.39,Approved
+3854,346,2025-03-06,Defective item,10334.78,Completed
+5949,310,2026-01-05,Quality issue,19728.06,Completed
+1289,36,2025-02-14,Changed mind,1253.84,Requested
+18453,306,2025-11-22,Size mismatch,14082.88,Completed
+1100,448,2025-02-15,Quality issue,2911.01,Completed
+6306,360,2026-06-05,Product not as described,12807.24,Completed
+7257,202,2024-07-14,Size mismatch,1028.03,Approved
+15223,401,2025-10-21,Changed mind,14458.54,Completed
+4096,283,2025-08-05,Wrong item delivered,21777.33,Completed
+5468,297,2024-07-14,Product not as described,20560.38,Approved
+5862,68,2026-04-01,Damaged product,20521.89,Completed
+9655,193,2026-05-08,Product not as described,17613.38,Requested
+15007,173,2026-02-12,Product not as described,20761.6,Completed
+1123,95,2026-03-08,Wrong item delivered,23249.22,Completed
+368,45,2025-03-28,Changed mind,12392.58,Approved
+11691,145,2025-12-31,Wrong item delivered,9456.35,Completed
+11120,224,2025-09-27,Quality issue,20962.21,Completed
+8772,381,2025-07-12,Quality issue,13073.21,Rejected
+1507,7,2026-01-28,Product not as described,6126.76,Completed
+14531,13,2026-04-14,Late delivery,8451.63,Completed
+14717,113,2025-01-10,Changed mind,1365.22,Completed
+11671,68,2024-07-17,Damaged product,17865.3,Rejected
+10442,341,2026-05-16,Changed mind,6381.51,Requested
+16858,479,2024-10-13,Damaged product,20088.63,Completed
+16488,35,2025-03-16,Quality issue,1391.01,Approved
+11685,301,2026-05-20,Damaged product,21985.39,Completed
+14148,368,2025-06-06,Quality issue,11084.13,Rejected
+11081,365,2026-01-30,Late delivery,235.15,Completed
+4123,203,2026-05-24,Damaged product,17830.51,Completed
+102,412,2025-09-01,Late delivery,2099.52,Completed
+16635,105,2025-07-19,Late delivery,18392.28,Completed
+2249,419,2026-02-06,Quality issue,17229.35,Approved
+5260,33,2025-09-24,Damaged product,8450.07,Completed
+5073,261,2026-02-15,Late delivery,23183.79,Approved
+19976,288,2025-06-06,Quality issue,4375.54,Approved
+921,300,2024-09-18,Product not as described,15776.68,Completed
+19127,80,2025-05-14,Product not as described,2361.86,Approved
+11086,474,2026-05-14,Changed mind,7545.23,Approved
+1512,102,2025-08-25,Quality issue,15397.44,Approved
+2803,176,2025-09-24,Product not as described,5302.51,Completed
+5924,145,2025-02-04,Wrong item delivered,2034.32,Rejected
+12062,201,2024-12-17,Defective item,1626.04,Completed
+4280,493,2025-10-29,Damaged product,4653.58,Completed
+10744,382,2026-03-21,Wrong item delivered,5588.02,Completed
+5958,463,2026-05-12,Size mismatch,18967.33,Approved
+11695,439,2025-08-21,Damaged product,2202.84,Completed
+19057,307,2025-02-27,Defective item,3934.32,Approved
+566,203,2025-01-25,Wrong item delivered,9211.65,Approved
+6276,282,2025-05-19,Size mismatch,9123.65,Approved
+5248,454,2025-03-01,Quality issue,9480.56,Completed
+7468,369,2026-02-24,Product not as described,18249.11,Completed
+10288,476,2025-04-25,Quality issue,106.17,Requested
+13962,112,2025-06-06,Damaged product,18350.44,Requested
+4343,346,2024-12-29,Size mismatch,24131.5,Completed
+9900,421,2025-03-13,Changed mind,9560.02,Approved
+11033,464,2025-06-24,Defective item,24495.1,Rejected
+1984,304,2025-08-27,Quality issue,14596.48,Completed
+14784,356,2025-08-12,Defective item,14728,Approved
+8224,372,2025-03-12,Damaged product,16063.68,Completed
+17819,150,2024-09-14,Quality issue,16823.85,Completed
+917,145,2025-12-31,Changed mind,2220.04,Completed
+26,406,2025-07-24,Product not as described,4370.21,Rejected
+11272,484,2025-09-21,Damaged product,12205.69,Completed
+10389,449,2025-12-13,Quality issue,5903.94,Approved
+6598,323,2024-07-21,Changed mind,5997.69,Approved
+16816,144,2024-12-27,Wrong item delivered,1980,Completed
+9448,152,2024-09-17,Changed mind,10971.39,Approved
+11545,197,2025-07-05,Size mismatch,6940.28,Completed
+12083,440,2024-11-14,Size mismatch,18007.61,Requested
+6202,105,2024-10-30,Damaged product,16632.67,Completed
+17691,160,2024-08-14,Damaged product,11338.83,Completed
+13431,468,2025-09-26,Late delivery,14880.1,Approved
+8123,373,2025-05-16,Late delivery,6186.58,Completed
+13646,245,2025-08-07,Size mismatch,23083.49,Requested
+797,346,2025-03-16,Quality issue,21845.05,Requested
+7437,98,2025-09-04,Damaged product,3249.74,Completed
+4970,410,2024-08-27,Damaged product,13733.64,Completed
+758,61,2024-12-16,Defective item,178.37,Completed
+14469,48,2026-04-17,Changed mind,7073.68,Completed
+7823,455,2024-07-31,Changed mind,9564.35,Completed
+1107,465,2024-08-10,Size mismatch,1105.94,Completed
+975,373,2026-01-13,Product not as described,22699.14,Completed
+15348,203,2025-02-13,Late delivery,5872.81,Requested
+16386,497,2026-05-12,Wrong item delivered,10418.07,Completed
+17735,403,2025-11-02,Changed mind,8689.6,Completed
+523,473,2025-06-11,Changed mind,2628.3,Requested
+14660,241,2026-02-02,Defective item,18202.48,Completed
+1039,322,2025-01-09,Changed mind,14309.09,Approved
+529,150,2026-04-21,Quality issue,19181.24,Approved
+9029,266,2026-05-02,Wrong item delivered,21847.91,Completed
+4452,202,2026-01-24,Damaged product,13474.32,Completed
+3563,288,2025-06-26,Damaged product,909.78,Completed
+6580,181,2024-09-19,Late delivery,8321.37,Requested
+18926,340,2025-05-11,Product not as described,7826.76,Approved
+374,336,2025-11-09,Changed mind,2743.55,Approved
+1705,248,2024-09-04,Defective item,17384.1,Completed
+13203,444,2026-05-02,Late delivery,2356.28,Requested
+18866,218,2025-11-22,Defective item,24765.1,Completed
+9210,452,2026-05-21,Wrong item delivered,1204.36,Completed
+8081,457,2024-12-20,Changed mind,9780.72,Completed
+2566,287,2025-08-23,Changed mind,14757.09,Requested
+19117,483,2026-07-08,Wrong item delivered,11147.37,Approved
+14155,153,2025-12-24,Size mismatch,21983.58,Completed
+4403,159,2025-12-27,Late delivery,5294.76,Completed
+18476,401,2025-04-01,Product not as described,15414.35,Completed
+19487,225,2024-10-21,Damaged product,7581.88,Completed
+9918,462,2024-07-19,Quality issue,2936.17,Completed
+14883,158,2025-12-22,Size mismatch,17377.47,Completed
+353,321,2025-01-21,Defective item,21978.16,Completed
+12799,333,2025-08-10,Late delivery,9523.2,Requested
+14809,165,2024-08-13,Product not as described,10845.51,Approved
+18055,394,2025-05-03,Size mismatch,5450.03,Completed
+126,29,2025-11-15,Size mismatch,23311.34,Completed
+12698,484,2026-04-18,Damaged product,19652.46,Approved
+15540,435,2025-03-13,Wrong item delivered,14009.95,Completed
+6703,444,2025-01-08,Damaged product,19662.78,Completed
+2837,135,2026-06-21,Quality issue,1384.2,Completed
+1679,277,2024-09-22,Wrong item delivered,19744.18,Approved
+10154,96,2025-05-03,Defective item,23377.56,Requested
+13427,124,2025-07-23,Quality issue,13932.92,Requested
+8291,206,2025-03-24,Wrong item delivered,13337.39,Completed
+19014,415,2025-11-21,Late delivery,17225.59,Completed
+7344,57,2025-02-28,Product not as described,17095.03,Rejected
+7697,5,2025-10-10,Defective item,23235.19,Completed
+14088,439,2026-03-05,Size mismatch,10075.86,Approved
+19098,439,2025-05-04,Size mismatch,543.01,Completed
+16337,16,2024-10-07,Damaged product,9408.35,Completed
+15612,357,2025-12-01,Late delivery,7461.6,Approved
+15100,351,2025-08-12,Product not as described,2606.85,Completed
+395,215,2025-02-09,Product not as described,7663.24,Completed
+8316,153,2024-11-27,Late delivery,13123.08,Completed
+18557,231,2024-09-19,Changed mind,15415.71,Completed
+13114,139,2025-06-06,Size mismatch,20476.29,Approved
+19020,263,2025-02-15,Late delivery,13597.93,Approved
+3491,303,2024-07-22,Late delivery,17662.71,Completed
+19235,330,2025-06-18,Late delivery,8374.74,Completed
+14185,37,2025-02-18,Changed mind,24188.24,Completed
+12192,20,2025-07-12,Damaged product,19967.57,Approved
+9565,293,2026-04-20,Quality issue,13792.39,Completed
+15677,291,2025-06-15,Wrong item delivered,20494.92,Completed
+18280,331,2026-01-30,Quality issue,14472.13,Approved
+230,39,2025-01-22,Size mismatch,4426.35,Completed
+11438,305,2025-11-24,Late delivery,21295.23,Completed
+16522,77,2025-05-26,Product not as described,21795.51,Requested
+10766,166,2025-09-06,Damaged product,14230.82,Approved
+14243,482,2026-03-30,Changed mind,21863.96,Requested
+2530,180,2025-10-22,Late delivery,14737.96,Approved
+4465,491,2026-05-13,Quality issue,13039.02,Rejected
+2019,116,2025-07-18,Changed mind,2662.99,Completed
+16300,261,2025-03-24,Late delivery,23399.51,Completed
+18264,242,2025-05-31,Damaged product,11029.29,Approved
+9770,397,2025-02-10,Changed mind,24694.33,Completed
+16755,249,2025-12-27,Size mismatch,19869.94,Completed
+11072,438,2026-03-04,Quality issue,10561.63,Completed
+10208,280,2025-04-29,Defective item,19404.41,Rejected
+10716,130,2024-07-14,Quality issue,19545.16,Completed
+5542,107,2026-04-03,Wrong item delivered,4914.4,Approved
+15292,28,2025-07-03,Wrong item delivered,15678.5,Approved
+10949,284,2024-10-15,Damaged product,14002.37,Completed
+13985,212,2025-02-10,Defective item,9469.58,Requested
+7000,414,2025-07-07,Size mismatch,20732.21,Completed
+11795,227,2026-06-14,Quality issue,24901.09,Requested
+15165,337,2024-10-21,Late delivery,5177.67,Approved
+14611,212,2025-03-27,Defective item,15448.13,Completed
+14291,188,2026-01-18,Changed mind,24149.04,Completed
+19350,411,2026-05-10,Late delivery,2842.38,Completed
+19352,495,2024-07-28,Defective item,10109.99,Completed
+10272,210,2026-03-09,Late delivery,12548.94,Rejected
+19893,259,2024-09-26,Wrong item delivered,10657.54,Completed
+8875,75,2024-08-07,Late delivery,15281.71,Completed
+651,212,2026-06-18,Late delivery,6185.27,Completed
+14934,345,2024-09-09,Product not as described,9704.98,Completed
+7055,394,2024-12-11,Product not as described,946.74,Completed
+10477,268,2026-01-02,Size mismatch,4485.42,Completed
+6732,1,2025-06-29,Product not as described,15561.99,Completed
+1745,101,2025-10-21,Damaged product,23369.32,Completed
+1381,458,2024-08-21,Wrong item delivered,21714.25,Approved
+15557,331,2026-06-29,Quality issue,22988.09,Completed
+17844,328,2025-07-25,Quality issue,4024.66,Approved
+547,252,2025-08-22,Size mismatch,24242.06,Completed
+7980,451,2026-05-31,Product not as described,2115.22,Completed
+5592,421,2025-07-03,Quality issue,23120.53,Completed
+13043,47,2025-08-18,Changed mind,3085.13,Completed
+13217,154,2025-09-27,Changed mind,16699.48,Completed
+656,90,2026-02-03,Damaged product,20811.6,Completed
+3354,33,2024-11-23,Quality issue,10736.01,Completed
+13415,257,2025-05-18,Wrong item delivered,9208.3,Completed
+3010,249,2024-08-04,Product not as described,12901.23,Rejected
+10079,444,2025-11-05,Changed mind,12429.54,Completed
+16087,331,2024-08-18,Defective item,24239.26,Approved
+9202,170,2026-01-19,Changed mind,4326.54,Completed
+12934,180,2026-03-05,Damaged product,8694.51,Completed
+11429,416,2024-08-11,Product not as described,23431.01,Approved
+12274,373,2025-04-19,Damaged product,18018.82,Approved
+13047,486,2025-06-19,Wrong item delivered,4339.28,Completed
+13337,487,2026-06-24,Late delivery,4939.65,Approved
+9070,72,2025-12-15,Wrong item delivered,11310.98,Completed
+14896,497,2025-07-25,Late delivery,6294.95,Rejected
+16142,307,2024-08-17,Defective item,4663.33,Approved
+13845,287,2025-01-21,Product not as described,8926.08,Completed
+13394,271,2024-11-16,Size mismatch,12917.13,Approved
+15904,169,2024-09-20,Defective item,11253.24,Completed
+3616,176,2024-08-08,Damaged product,10175.61,Completed
+907,82,2025-09-24,Changed mind,20238.54,Approved
+10490,228,2025-03-05,Size mismatch,1056.18,Completed
+8548,421,2026-04-28,Defective item,15970.03,Completed
+8771,64,2025-06-07,Damaged product,16102.58,Completed
+12073,23,2025-02-11,Defective item,1831.3,Completed
+18224,235,2026-06-21,Changed mind,4367.87,Approved
+1011,81,2024-10-15,Product not as described,21683.18,Requested
+19969,64,2025-01-04,Product not as described,11978.15,Completed
+17264,127,2026-01-17,Damaged product,12255.7,Approved
+7596,146,2026-04-02,Late delivery,2316.98,Completed
+15599,110,2024-07-16,Late delivery,10658.68,Approved
+11199,73,2026-03-24,Quality issue,17959.39,Completed
+5809,268,2025-09-22,Late delivery,15104.49,Completed
+9535,120,2025-04-10,Defective item,2079.77,Approved
+5214,137,2026-01-07,Quality issue,13241.68,Approved

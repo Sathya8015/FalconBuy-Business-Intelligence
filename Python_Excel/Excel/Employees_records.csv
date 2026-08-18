@@ -1,0 +1,251 @@
+Employee_Code,First_Name,Last_Name,Department_ID,Store_ID,Email,Phone_Number,Designation,Salary,Hire_Date,Status
+EMP00001,Arjun,Bhakta,7,4,usane@example.org,9534789965,HR Executive,76124.43,2018-08-08,Active
+EMP00002,Ucchal,Ganesan,6,24,karpeoliver@example.org,9388799711,Marketing Executive,70807.69,2020-03-23,Active
+EMP00003,Azad,Bajwa,2,7,arjunradhakrishnan@example.net,9442739480,Customer Support,56675.73,2020-01-03,Active
+EMP00004,Kevin,Bava,4,9,ridhibiswas@example.com,9933927723,Customer Support,48600.37,2020-04-03,Active
+EMP00005,Omaja,Karpe,7,25,darpan74@example.net,9417068668,Assistant Manager,91345.71,2024-07-11,Active
+EMP00006,Yahvi,Mann,5,14,nnarain@example.org,9225658728,Customer Support,60901.62,2020-11-22,Active
+EMP00007,Hredhaan,Mangat,7,14,champakrajagopal@example.net,9223869559,Supervisor,81372.34,2019-06-25,Active
+EMP00008,Wridesh,Dara,5,3,aryacontractor@example.net,9607293835,Assistant Manager,85048.79,2025-05-27,Inactive
+EMP00009,Krisha,Saraf,9,15,kdubey@example.net,9273921990,Supervisor,88421.93,2024-01-08,Active
+EMP00010,Aarna,Roy,3,19,duttdaksh@example.org,9079614452,HR Executive,49096.87,2026-06-01,Active
+EMP00011,Samuel,Sha,3,23,farhan54@example.com,9691362775,Customer Support,37537.05,2025-12-16,Active
+EMP00012,Balhaar,Sengupta,7,5,galaomkaar@example.com,9798051893,Customer Support,26016.27,2020-05-11,Active
+EMP00013,Sanya,Muni,8,13,smitra@example.org,9733562415,Supervisor,106064.17,2019-06-30,Active
+EMP00014,Harsh,Pingle,1,9,ramaswamyharish@example.net,9592250965,Customer Support,68537.97,2026-03-30,Active
+EMP00015,Idika,Banerjee,9,20,ewarrior@example.org,9044401123,HR Executive,101464.33,2024-10-22,Active
+EMP00016,Veer,Sane,6,2,grewaltamanna@example.com,9467956510,Accountant,61048.45,2025-10-12,Active
+EMP00017,Jason,Pingle,8,12,jkeer@example.net,9969778103,Sales Executive,109557.18,2023-05-30,Active
+EMP00018,Janya,Rao,8,13,henry86@example.net,9820260030,Assistant Manager,28723.41,2018-09-22,Active
+EMP00019,Pushti,Bal,3,14,reva46@example.org,9298648303,Store Manager,67499.73,2025-04-22,Active
+EMP00020,Victor,Rajagopal,9,15,siddharth94@example.net,9419133646,HR Executive,100811.43,2024-11-20,Active
+EMP00021,Kiaan,Rajan,9,16,suhaniben@example.com,9377166495,Sales Executive,114883.42,2020-10-26,Active
+EMP00022,Riya,Pradhan,7,7,noahpillai@example.org,9789125471,Marketing Executive,62584.7,2025-01-13,Active
+EMP00023,Christopher,Kapoor,10,19,sawhneydavid@example.com,9389564069,Inventory Manager,118636.3,2024-05-17,Active
+EMP00024,Meghana,Nanda,1,20,rayaanvasa@example.com,9247947798,Sales Executive,112787.49,2024-01-12,Active
+EMP00025,Avni,Thaman,6,21,isaac11@example.org,9771184383,Store Manager,99050.39,2018-12-04,Active
+EMP00026,Robert,Sundaram,3,8,leelachaudhry@example.com,9772922641,Supervisor,23296.23,2022-06-25,Active
+EMP00027,Reva,Swamy,5,1,ladwatika@example.com,9185681135,Cashier,75621.16,2023-04-10,Active
+EMP00028,Saumya,Baral,4,24,varenyabhagat@example.net,9014317285,Cashier,94382.73,2019-06-07,Active
+EMP00029,Devansh,Puri,4,4,tejas90@example.org,9856926136,Marketing Executive,48316.99,2022-01-09,Inactive
+EMP00030,Wishi,Jaggi,5,7,krishnakant@example.com,9277423179,Store Manager,90827.27,2022-02-21,Active
+EMP00031,Ishaan,Badal,2,24,ykalla@example.org,9847255903,Customer Support,83424.91,2021-07-17,Active
+EMP00032,Libni,Vaidya,10,14,shayatin@example.net,9622101916,Cashier,95976.93,2026-02-09,Active
+EMP00033,Krishna,Buch,5,4,nsabharwal@example.com,9682358308,Accountant,112063.87,2024-02-13,Active
+EMP00034,Anusha,Walla,5,25,kondafalan@example.net,9052147900,Assistant Manager,33134.31,2021-10-04,Active
+EMP00035,Urmi,Radhakrishnan,4,8,sharmaamara@example.net,9404401499,Sales Executive,20937.79,2025-03-11,Active
+EMP00036,Gabriel,Butala,7,4,aahanabath@example.com,9276226413,Assistant Manager,76938.48,2021-01-16,Active
+EMP00037,Guneet,Rattan,9,9,vrittigour@example.net,9417654449,Accountant,56104.05,2023-05-23,Active
+EMP00038,Vedika,Krish,3,25,xbaral@example.net,9702376606,Marketing Executive,54020.81,2025-06-05,Active
+EMP00039,Urmi,Ben,1,3,anay02@example.com,9423838214,Customer Support,30050.01,2018-11-04,Active
+EMP00040,Vedhika,Babu,1,19,harishbath@example.com,9406488074,Store Manager,43310.1,2021-03-03,Active
+EMP00041,Sathvik,Loyal,3,19,lkaran@example.net,9568352621,Inventory Manager,35060.74,2020-11-21,Active
+EMP00042,Falak,Rana,1,18,girish18@example.org,9144463437,Accountant,61722.7,2019-09-08,Active
+EMP00043,Sathvik,Iyer,4,25,dalbirnatarajan@example.com,9257347685,Supervisor,101870.02,2025-10-05,Active
+EMP00044,Yatan,Comar,8,19,yashica37@example.org,9799197221,Cashier,58483.92,2024-03-13,Active
+EMP00045,Balvan,Bava,4,24,gaurangi04@example.com,9044937710,Supervisor,113533.56,2026-03-18,Active
+EMP00046,Rishi,Kala,5,21,girish97@example.org,9797745647,Assistant Manager,71763.2,2023-03-11,Active
+EMP00047,Arjun,Aggarwal,2,15,mandrehaan@example.com,9445944849,Cashier,103408.99,2020-05-05,Active
+EMP00048,Kamala,Murthy,5,8,yashviom@example.com,9751275720,Sales Executive,34746.47,2020-12-05,Active
+EMP00049,Orinder,Natarajan,9,4,dalbircomar@example.org,9354333964,HR Executive,47814.08,2021-10-27,Active
+EMP00050,Anmol,Kakar,8,6,ojasvikorpal@example.com,9620060702,Inventory Manager,82124.7,2020-07-26,Inactive
+EMP00051,Tanish,Nagi,4,23,ravelaarav@example.org,9728115685,HR Executive,71190.08,2022-11-04,Inactive
+EMP00052,Pahal,Viswanathan,5,6,isaacgoel@example.net,9900133557,Store Manager,119505.58,2020-08-06,Active
+EMP00053,Amrita,Handa,10,21,sankaranfalak@example.net,9994248560,Cashier,88753.93,2026-02-02,Active
+EMP00054,Jason,Goel,10,7,gandhimax@example.net,9882939762,Marketing Executive,60599.08,2019-02-12,Active
+EMP00055,Bahadurjit,Pal,8,21,jasmit34@example.com,9131363976,Store Manager,51188.47,2023-09-21,Active
+EMP00056,Daksh,Nair,4,17,rattaekalinga@example.net,9747839877,Cashier,72240,2025-11-23,Active
+EMP00057,Ansh,Thaman,10,6,wgrewal@example.net,9465177614,Customer Support,107142.32,2019-02-15,Active
+EMP00058,Amaira,Mistry,5,14,baljiwanmishra@example.net,9591047412,Cashier,79508.5,2018-12-28,Active
+EMP00059,Gaurika,Mukherjee,7,18,udant36@example.com,9301672132,Sales Executive,65235.36,2021-08-24,Inactive
+EMP00060,Jeet,Kumer,7,21,sathvikhora@example.net,9225836825,Customer Support,62392.11,2020-06-07,Inactive
+EMP00061,Imaran,Pillay,9,13,inaya99@example.net,9715630398,Store Manager,74934.39,2026-06-02,Active
+EMP00062,Wakeeta,Saraf,2,13,rachana49@example.net,9415775275,Accountant,74109.82,2023-02-08,Active
+EMP00063,Amol,Mallick,2,9,gauranginaidu@example.com,9961432616,Accountant,68335.94,2021-03-03,Active
+EMP00064,Wishi,Walia,1,17,charvi02@example.com,9487307948,Assistant Manager,54049,2019-10-25,Active
+EMP00065,Sudiksha,Rajagopalan,9,22,deymanan@example.org,9384524352,Supervisor,117003.15,2021-07-22,Active
+EMP00066,Pooja,Srivastava,4,9,om55@example.net,9757757015,Store Manager,117204.58,2021-02-13,Active
+EMP00067,Henry,Nagarajan,1,20,varughesepranav@example.org,9318553298,Store Manager,61827.48,2023-09-29,Active
+EMP00068,Vritti,Parekh,4,13,viswanathanarjun@example.org,9061730093,Customer Support,72661.48,2022-04-13,Active
+EMP00069,Upasna,Viswanathan,10,1,miteshdua@example.com,9298652767,Marketing Executive,59393.86,2024-12-21,Active
+EMP00070,Rayaan,Nazareth,2,8,nandiniraja@example.org,9873612963,Inventory Manager,59001.04,2020-09-27,Active
+EMP00071,Ishwar,Handa,6,4,upmapuri@example.org,9861046401,Sales Executive,69338.49,2022-06-28,Active
+EMP00072,Sanya,Bandi,7,14,yamini66@example.com,9902267533,Customer Support,107234.39,2022-10-20,Active
+EMP00073,Kamya,Soman,4,1,xsant@example.net,9358261197,Assistant Manager,109648.91,2023-01-08,Active
+EMP00074,Gautam,Prakash,8,18,faqiddoshi@example.net,9758257490,Marketing Executive,40864.47,2022-02-25,Active
+EMP00075,Hiral,Andra,6,10,rbahri@example.com,9092574065,Supervisor,76208.61,2021-03-12,Active
+EMP00076,Maanav,Mahajan,7,9,tataekani@example.org,9883151122,Cashier,69831.33,2021-10-06,Active
+EMP00077,Isaiah,Krishna,6,16,ekantaraja@example.org,9074182090,Cashier,118598.2,2026-06-17,Active
+EMP00078,Rehaan,Bawa,3,4,tdada@example.net,9820342887,Accountant,49437.68,2020-09-26,Active
+EMP00079,Radha,Suresh,4,25,aarini10@example.net,9267977086,HR Executive,65430.04,2024-08-21,Inactive
+EMP00080,Meghana,Chaudry,1,16,nmore@example.com,9572781260,Assistant Manager,20577.25,2023-10-20,Active
+EMP00081,Zashil,Vohra,7,19,bsachdeva@example.org,9930293481,Cashier,40447.43,2025-09-08,Active
+EMP00082,Reva,Rai,8,11,sraju@example.org,9774132155,Sales Executive,97742.96,2024-02-28,Active
+EMP00083,Ayush,Solanki,8,5,reyanshtailor@example.org,9885093493,Cashier,103908.81,2024-11-20,Active
+EMP00084,Xalak,Narayan,8,17,abeer22@example.org,9107181085,Store Manager,57102.39,2026-06-05,Active
+EMP00085,Oscar,Tella,8,10,lohit06@example.org,9901922295,Customer Support,60649.54,2018-11-13,Active
+EMP00086,Faris,Comar,5,2,chatresh65@example.net,9996856603,Supervisor,78294.06,2022-12-27,Active
+EMP00087,Ekapad,Sachar,10,8,mistrykamala@example.org,9836440059,HR Executive,85247.23,2023-03-11,Active
+EMP00088,Jasmit,Wali,2,6,nikita18@example.net,9515786535,Inventory Manager,119208.87,2021-12-04,Active
+EMP00089,Isaiah,Nadig,2,10,nlata@example.org,9023172250,Inventory Manager,88731.2,2025-02-10,Active
+EMP00090,Vamakshi,Contractor,9,16,ishasharaf@example.org,9502954899,Accountant,107578.77,2024-10-15,Active
+EMP00091,Yashoda,Sheth,4,25,guhajai@example.org,9428508733,Inventory Manager,81045.61,2019-08-05,Active
+EMP00092,Zinal,Bobal,8,2,rdass@example.net,9716022601,Cashier,23920.58,2023-10-25,Active
+EMP00093,Ishita,Konda,7,15,gaganluthra@example.net,9039334586,Inventory Manager,38625.38,2019-03-25,Active
+EMP00094,Indali,Doshi,6,3,rbhandari@example.org,9651953056,Customer Support,104700.85,2023-07-24,Active
+EMP00095,Qarin,Gulati,3,2,fpatla@example.net,9593840802,Customer Support,46528.52,2023-10-06,Active
+EMP00096,Ayaan,Palan,7,2,nigamudyati@example.com,9540517845,Marketing Executive,32198.1,2025-02-24,Active
+EMP00097,Ganga,Yogi,2,21,asavant@example.net,9344935251,Store Manager,42344.82,2019-05-13,Active
+EMP00098,Om,Jani,3,11,dominic26@example.com,9155691601,Inventory Manager,55457.03,2022-09-23,Active
+EMP00099,Gauri,Chhabra,10,22,merchantmaanas@example.org,9055867203,Cashier,79994.17,2019-10-10,Active
+EMP00100,Azaan,Dugar,7,2,vamakshivarkey@example.org,9737949483,HR Executive,41160.62,2022-01-29,Inactive
+EMP00101,Aarna,Peri,10,9,lranganathan@example.com,9465521605,Sales Executive,73470.24,2019-10-16,Active
+EMP00102,Onkar,Balakrishnan,3,7,chanakya45@example.org,9488018228,Marketing Executive,56221.73,2019-10-23,Active
+EMP00103,Theodore,Parmer,2,8,lekha42@example.com,9611342954,Inventory Manager,53807.43,2018-09-19,Active
+EMP00104,Jhalak,Tank,5,14,netramore@example.com,9804779334,Store Manager,63662.35,2018-09-11,Active
+EMP00105,Jyoti,Sarma,3,17,kurianpushti@example.com,9571746888,Customer Support,115171.1,2018-07-16,Active
+EMP00106,Matthew,Sridhar,8,8,usharaf@example.net,9802240999,Store Manager,89295.94,2026-04-14,Active
+EMP00107,Amol,Hari,2,19,srinivasanria@example.net,9575875612,Store Manager,102392.09,2023-11-26,Active
+EMP00108,Adweta,Mutti,5,11,alkasavant@example.org,9111793332,Marketing Executive,113003.83,2022-05-05,Active
+EMP00109,Yashvi,Parikh,8,1,hkonda@example.com,9979599571,Store Manager,22614.3,2022-01-04,Active
+EMP00110,Sanaya,Wali,9,3,anayiyer@example.org,9232050592,Marketing Executive,55916.47,2020-10-05,Active
+EMP00111,Kashish,Sule,5,8,neelima11@example.com,9238224755,Accountant,97453.26,2018-10-10,Active
+EMP00112,Ronith,De,5,6,azaankadakia@example.org,9169203457,Store Manager,103042.87,2022-06-12,Active
+EMP00113,Krishna,Dyal,2,18,sai74@example.net,9947782837,Accountant,67086.25,2019-12-10,Active
+EMP00114,Imaran,Krish,2,20,kapoorxiti@example.org,9516563519,Accountant,113342.65,2021-07-23,Active
+EMP00115,Keya,Chahal,1,14,mahika59@example.net,9944211463,Accountant,94281.94,2022-04-28,Active
+EMP00116,Falguni,Chaudhuri,7,12,birvritti@example.com,9837431450,Customer Support,99503.73,2020-07-02,Active
+EMP00117,Pranav,Mane,6,21,uganesh@example.com,9793775909,Inventory Manager,79357.48,2025-10-08,Active
+EMP00118,Tristan,Iyer,8,2,skibe@example.net,9639318266,Supervisor,83446.25,2023-08-21,Active
+EMP00119,Yug,Suresh,10,20,keerabhimanyu@example.org,9816183254,Cashier,62770.07,2018-12-18,Active
+EMP00120,Damyanti,Ray,2,1,aahana31@example.net,9673223462,Store Manager,64353.3,2020-01-12,Active
+EMP00121,Ayushman,Sachdev,4,5,wsaini@example.com,9965350034,Accountant,117061.02,2024-01-27,Active
+EMP00122,Mason,Kibe,6,25,wchaudhry@example.org,9994491989,Sales Executive,97010.44,2020-03-29,Active
+EMP00123,Atharv,Das,7,2,pratyush77@example.net,9731679204,Inventory Manager,113260.4,2026-03-20,Active
+EMP00124,Gaurangi,Chaudry,3,11,zansisubramanian@example.com,9903436582,Assistant Manager,44195.38,2022-02-18,Active
+EMP00125,Charles,Rattan,2,25,seshadrianusha@example.com,9169348759,Sales Executive,76498.24,2019-05-08,Active
+EMP00126,Geetika,Anand,10,15,ekta21@example.com,9710040705,Inventory Manager,28759.33,2023-02-16,Active
+EMP00127,Wishi,Bajaj,2,3,darshmutti@example.com,9957488619,Cashier,25663.37,2026-02-21,Active
+EMP00128,Kabir,Suresh,5,24,rehaan20@example.org,9821616459,Supervisor,38982.59,2018-08-25,Active
+EMP00129,Oeshi,D’Alia,6,7,dalaja03@example.net,9844612790,Cashier,97663.14,2025-09-25,Active
+EMP00130,Wakeeta,Krishnamurthy,8,20,ranbirpandey@example.com,9902137971,Accountant,64574.85,2019-06-15,Active
+EMP00131,Lipika,Sharaf,6,19,jdate@example.com,9992919881,Assistant Manager,28508.93,2019-04-07,Active
+EMP00132,Gayathri,Dugar,10,14,radha45@example.com,9169713751,Assistant Manager,41508.2,2020-12-26,Active
+EMP00133,Harrison,Nanda,2,3,qarin70@example.org,9405664163,Sales Executive,57783.36,2022-02-10,Active
+EMP00134,Aarnav,Mannan,3,13,choprajeevika@example.com,9105447079,Cashier,57286.52,2023-11-19,Active
+EMP00135,Yadavi,Yadav,8,15,dhruv85@example.net,9482791491,HR Executive,81394.58,2023-05-18,Active
+EMP00136,Saumya,Chauhan,6,17,zaitra76@example.org,9507906510,Sales Executive,72865.76,2025-01-15,Active
+EMP00137,Odika,Issac,7,18,finnparmer@example.org,9516903633,Accountant,26942.88,2019-07-21,Active
+EMP00138,Lila,Sant,1,19,paninibawa@example.net,9035498277,Marketing Executive,92371.59,2023-12-17,Active
+EMP00139,Harrison,Gupta,8,19,rajatabhandari@example.com,9912189617,Inventory Manager,64128.81,2021-12-27,Active
+EMP00140,Yatan,Andra,2,7,loyalsneha@example.com,9470172398,Store Manager,20334.63,2021-04-26,Active
+EMP00141,Karan,Karan,7,5,butalayagnesh@example.com,9024863975,Sales Executive,37218.39,2024-04-02,Active
+EMP00142,Geetika,Chaudhary,6,15,vyanjana70@example.net,9543233061,Inventory Manager,87980.32,2023-04-22,Inactive
+EMP00143,Gabriel,Palla,10,5,bchakrabarti@example.org,9906574551,Assistant Manager,23227.82,2021-09-22,Active
+EMP00144,Harinakshi,Gole,4,5,choudhuryvyanjana@example.com,9378557980,Inventory Manager,93933.61,2025-02-03,Active
+EMP00145,Charan,Naidu,3,25,edube@example.com,9738417410,Store Manager,59369.89,2025-03-30,Active
+EMP00146,Krisha,Kulkarni,5,5,xbatra@example.com,9757431026,Accountant,37410.15,2020-11-06,Inactive
+EMP00147,Rayaan,Sheth,7,18,hdhar@example.com,9579319367,Assistant Manager,100423.1,2026-07-02,Active
+EMP00148,Wahab,Ben,1,6,xissac@example.net,9194857262,Accountant,75719.64,2023-05-19,Active
+EMP00149,Naveen,Contractor,4,14,naksh63@example.org,9580872307,Supervisor,60292,2025-09-23,Active
+EMP00150,Advaith,Chaudhari,9,18,nakshvaidya@example.net,9245647592,Customer Support,24707.94,2020-04-21,Active
+EMP00151,Wakeeta,Sabharwal,6,15,onkar12@example.net,9803418214,Sales Executive,55146.96,2026-06-18,Active
+EMP00152,Mohini,Talwar,8,19,fariq40@example.org,9744244784,Supervisor,112170.9,2021-11-15,Active
+EMP00153,Eiravati,Madan,7,14,nathan66@example.org,9147830551,Inventory Manager,107814.48,2025-05-15,Active
+EMP00154,Atharv,Tara,2,12,ravalharrison@example.org,9683259260,Inventory Manager,88497.99,2023-11-17,Active
+EMP00155,Yuvraj,Narayanan,6,10,tkarpe@example.com,9443111263,Sales Executive,118215.62,2026-04-01,Active
+EMP00156,Tamanna,Dixit,8,25,odar@example.org,9328062664,Inventory Manager,86140.02,2026-03-20,Active
+EMP00157,Kiaan,Kapoor,4,3,vkothari@example.org,9512548376,Supervisor,38997.86,2025-08-19,Active
+EMP00158,Yagnesh,Nagar,3,12,rtalwar@example.org,9869757868,Assistant Manager,119367.86,2023-08-31,Active
+EMP00159,Ladli,Gill,2,16,dbhatti@example.net,9611418944,Marketing Executive,64953.77,2021-12-23,Active
+EMP00160,Mitali,Chokshi,9,6,tarakrama@example.org,9749558701,HR Executive,34952.26,2026-01-30,Inactive
+EMP00161,Diya,Chadha,8,21,falgunisoni@example.org,9843974537,Supervisor,78110.22,2023-06-21,Active
+EMP00162,Xalak,Suri,1,22,echaudhary@example.com,9921150141,Supervisor,86540.39,2018-09-13,Active
+EMP00163,Oliver,Bhargava,9,4,gulatiradhika@example.org,9489064036,HR Executive,104639.65,2018-11-06,Active
+EMP00164,Qabil,Boase,1,17,turvi58@example.net,9938265182,Assistant Manager,119228.91,2025-01-10,Active
+EMP00165,Vasana,Sandal,5,9,gom@example.org,9541603283,HR Executive,27556.95,2019-11-07,Active
+EMP00166,Bhavani,Madan,9,3,samar34@example.org,9320294127,Assistant Manager,53600.27,2023-07-16,Active
+EMP00167,Harshil,Goda,5,10,nbhatt@example.com,9412757725,HR Executive,114510.7,2025-02-28,Active
+EMP00168,Ijaya,Balakrishnan,6,7,kdhaliwal@example.org,9837376930,Inventory Manager,62147.15,2018-07-20,Active
+EMP00169,Ishita,Singh,6,24,parmerthomas@example.org,9777228242,Cashier,99809.08,2021-04-28,Active
+EMP00170,Harish,Dugar,4,10,wallanitara@example.com,9805651881,Customer Support,118419.88,2018-10-09,Active
+EMP00171,Aashi,Randhawa,3,6,mishrayatin@example.org,9313044765,Sales Executive,38079.35,2022-08-29,Active
+EMP00172,Ekani,Chahal,6,24,chokshigagan@example.net,9333058372,Supervisor,62868.43,2026-04-01,Active
+EMP00173,Krishna,Amble,1,10,paninisahni@example.net,9713258039,Cashier,85300.61,2024-06-02,Active
+EMP00174,Oscar,Kashyap,10,20,rissac@example.com,9813829367,Inventory Manager,110477.55,2023-06-11,Active
+EMP00175,Osha,De,4,12,samarththaman@example.com,9067442054,Cashier,68438.49,2025-10-03,Active
+EMP00176,Sai,Sahni,9,18,sidhuadya@example.net,9032432489,Customer Support,106237.45,2025-03-21,Active
+EMP00177,Hema,Mallick,10,13,karanchandran@example.com,9549362641,Store Manager,24912.66,2025-12-24,Active
+EMP00178,Teerth,Mander,10,5,nnaidu@example.net,9854719440,Assistant Manager,96923.28,2020-05-09,Active
+EMP00179,Aadhya,Naik,6,11,kamdaramol@example.org,9681772139,Cashier,114990.24,2022-03-26,Active
+EMP00180,Umang,Korpal,5,1,lakshkaur@example.com,9967043548,Assistant Manager,50273.96,2019-11-28,Active
+EMP00181,Aarini,Doctor,3,3,janya49@example.org,9142254145,Accountant,113029.01,2025-04-05,Active
+EMP00182,Aradhana,Sarin,10,25,qushi24@example.org,9273428034,Store Manager,41461.84,2024-02-15,Active
+EMP00183,Rishi,Dasgupta,9,23,oshanatarajan@example.com,9262022220,Supervisor,55730.27,2019-01-19,Inactive
+EMP00184,Zayan,Sodhi,3,1,egarde@example.com,9893206308,Customer Support,80418.57,2025-05-16,Active
+EMP00185,Farhan,Doctor,1,12,vincentsandhu@example.net,9014728606,Cashier,92613.46,2026-01-19,Active
+EMP00186,Tanmayi,Lad,4,20,bachittaragrawal@example.com,9767832899,Inventory Manager,88698.26,2018-12-18,Active
+EMP00187,Rachit,Nadig,4,22,kondaomya@example.org,9297425419,Inventory Manager,77897.27,2026-01-23,Active
+EMP00188,Darsh,Raman,4,12,triyagara@example.org,9902446916,Accountant,73272.8,2025-07-28,Inactive
+EMP00189,Janaki,Goda,6,9,bhavinimukherjee@example.net,9655355710,Cashier,101142.35,2022-09-04,Active
+EMP00190,Radhika,Mand,7,15,yutika82@example.org,9291182181,Cashier,27860.28,2025-03-31,Inactive
+EMP00191,Manbir,Kala,3,12,vedika91@example.org,9298226647,Cashier,88991.22,2023-09-25,Active
+EMP00192,Gopal,Sarin,5,13,ekaraj98@example.net,9711275057,Store Manager,53475.48,2020-01-30,Active
+EMP00193,Urmi,Krishnamurthy,6,6,anath@example.net,9758550834,Marketing Executive,110369.48,2023-04-28,Active
+EMP00194,Zansi,Patla,6,17,kashish82@example.net,9691127526,Cashier,104223.63,2020-03-15,Active
+EMP00195,Vrinda,De,1,12,narasimhanneha@example.org,9423499024,Customer Support,36575.33,2020-07-29,Active
+EMP00196,Damyanti,Kant,1,14,boranihal@example.net,9304613065,Sales Executive,63890.52,2019-03-30,Active
+EMP00197,Girindra,Hayre,5,4,sanayavaidya@example.net,9316668394,Supervisor,46699.01,2019-08-06,Active
+EMP00198,Lavanya,Chakrabarti,5,8,warda65@example.net,9531123353,Store Manager,110198.63,2019-09-28,Active
+EMP00199,Logan,Srinivas,6,22,deepa65@example.org,9300448378,Marketing Executive,71997.25,2020-12-14,Active
+EMP00200,Shravya,Radhakrishnan,3,17,sai06@example.org,9173889986,Customer Support,62510.24,2024-09-25,Inactive
+EMP00201,Luke,More,7,2,atharv45@example.org,9346838852,Store Manager,92079.33,2021-10-06,Active
+EMP00202,Gagan,Mammen,9,6,gulatilakshmi@example.com,9854800053,HR Executive,111002.02,2024-05-07,Inactive
+EMP00203,Unnati,Doshi,9,9,bhavani61@example.org,9384498918,Store Manager,35022.22,2023-10-29,Active
+EMP00204,Ishita,Goel,10,17,kkhanna@example.com,9793442591,Sales Executive,99518.65,2020-09-02,Active
+EMP00205,Odika,Singh,2,4,baralhitesh@example.com,9549919466,Customer Support,43267.02,2021-08-16,Active
+EMP00206,Dev,Chanda,3,10,ranveertank@example.org,9742142258,Supervisor,60252.2,2019-08-04,Active
+EMP00207,Deepa,Divan,7,3,aben@example.org,9323512217,Marketing Executive,110108.51,2022-08-02,Active
+EMP00208,Aahana,Mahajan,10,3,yatindhingra@example.com,9366348568,Customer Support,90114.8,2020-11-12,Active
+EMP00209,Zarna,Jhaveri,4,20,vrinda87@example.org,9560021390,Supervisor,63434.84,2021-01-05,Active
+EMP00210,Oliver,Bobal,6,16,nattjack@example.org,9207567618,Supervisor,43559.49,2026-01-03,Active
+EMP00211,Waida,Kannan,8,25,krishnamurthyhredhaan@example.org,9201487320,Cashier,113481.83,2020-07-25,Active
+EMP00212,Neel,De,2,15,xguha@example.org,9915149813,Inventory Manager,44432.08,2023-09-10,Active
+EMP00213,Arin,Sampath,6,20,ganga63@example.net,9894053848,HR Executive,33998.42,2023-12-28,Active
+EMP00214,Anika,Deshmukh,10,22,jonathan84@example.org,9135899733,Marketing Executive,37105.31,2021-10-04,Active
+EMP00215,Noah,Hegde,1,22,fchokshi@example.net,9229713074,Marketing Executive,62686.34,2026-01-08,Active
+EMP00216,Dalaja,Mani,10,17,manthan33@example.net,9585442144,Marketing Executive,29291.87,2022-12-04,Active
+EMP00217,Yadavi,Nadig,8,6,zdalal@example.net,9702040108,Assistant Manager,24113.36,2018-11-07,Active
+EMP00218,Tanay,Rattan,6,9,deepa91@example.org,9269830103,Assistant Manager,29682.34,2021-01-18,Active
+EMP00219,Zaid,Butala,1,7,barkhaahuja@example.org,9417567849,Cashier,96374.17,2024-09-05,Active
+EMP00220,Samar,Purohit,6,22,uyadav@example.org,9297069670,Customer Support,22869.44,2022-09-15,Active
+EMP00221,Rachita,Kala,3,6,sehgaldalaja@example.org,9620340003,Cashier,40146.63,2022-05-09,Active
+EMP00222,Ikbal,Sabharwal,2,7,elijahkamdar@example.org,9454738822,Supervisor,106787.58,2023-06-23,Active
+EMP00223,Bhavna,Bail,3,17,zkumar@example.org,9963314240,Cashier,101209.32,2019-08-10,Active
+EMP00224,Aishani,Tak,7,20,teerthsule@example.com,9530532635,Marketing Executive,83108.75,2019-01-04,Inactive
+EMP00225,Om,Ramakrishnan,9,21,khatrivedika@example.com,9304288686,Supervisor,98546.91,2025-01-18,Active
+EMP00226,Yatan,Dasgupta,7,16,snehabhatia@example.org,9396766307,Cashier,31267.83,2025-09-28,Inactive
+EMP00227,Isaac,Loke,7,19,pahaljaggi@example.com,9708998386,Assistant Manager,37534.96,2023-06-03,Active
+EMP00228,Triveni,Sachdev,6,13,sathvikchoudhry@example.org,9152857850,HR Executive,36870.31,2023-09-21,Active
+EMP00229,Waida,Balakrishnan,5,15,yashasvidube@example.org,9052168990,Inventory Manager,27234.36,2020-03-05,Active
+EMP00230,Manan,Char,8,16,srinivasekaja@example.net,9899548241,Inventory Manager,102176.23,2023-06-08,Active
+EMP00231,Yoshita,Toor,10,10,biswaskrish@example.com,9680249860,Sales Executive,96250.08,2026-05-16,Active
+EMP00232,Nachiket,Gole,1,22,garimayohannan@example.com,9945650728,Customer Support,92169.03,2024-05-24,Active
+EMP00233,Chanchal,Jha,6,16,tbhakta@example.com,9851871321,Supervisor,57629.51,2019-06-14,Active
+EMP00234,Anjali,Nagarajan,9,5,lavanya63@example.com,9896997321,Assistant Manager,105223.86,2024-01-01,Active
+EMP00235,Balendra,Varty,3,8,bandiisha@example.org,9709906260,Store Manager,51995.21,2019-04-18,Active
+EMP00236,Qarin,Gandhi,10,7,thamancharan@example.org,9841342882,Cashier,32441.95,2025-08-31,Active
+EMP00237,Maya,Soman,4,2,prasadmohammed@example.org,9455245499,Inventory Manager,70900.32,2021-03-21,Active
+EMP00238,Gayathri,Chada,9,6,girindra15@example.org,9521634747,Store Manager,117828.09,2021-06-07,Active
+EMP00239,Zarna,Deo,1,2,nimratswamy@example.org,9644292524,Marketing Executive,78148,2019-06-28,Active
+EMP00240,Zilmil,D’Alia,5,12,dewanaarnav@example.com,9782681576,Cashier,86851.21,2023-12-19,Active
+EMP00241,Eesha,Shah,6,15,bmangal@example.net,9621261741,HR Executive,70473.11,2026-05-29,Active
+EMP00242,Tara,Singhal,8,5,dhaliwalbrijesh@example.net,9404005746,Sales Executive,24430.94,2025-12-08,Inactive
+EMP00243,Vamakshi,Chaudhary,4,10,niteshchanda@example.org,9384899029,HR Executive,69052.65,2019-05-25,Active
+EMP00244,Ekbal,Nigam,10,23,nikitawali@example.com,9668672784,Inventory Manager,35070.69,2021-06-05,Active
+EMP00245,Samesh,Kapoor,8,4,zpillay@example.com,9251802331,Accountant,102704.58,2023-09-05,Active
+EMP00246,Upkaar,Ganguly,9,7,chandaijaya@example.net,9237124420,Inventory Manager,109791.18,2026-03-03,Active
+EMP00247,Advik,Mammen,10,8,omuppal@example.com,9155056395,Cashier,52391.87,2024-03-05,Active
+EMP00248,Inaya,Bhattacharyya,10,2,aryandani@example.com,9301973171,Customer Support,108669.6,2026-03-11,Active
+EMP00249,Kabir,Khanna,1,22,rehaan44@example.org,9660566482,HR Executive,86237.81,2023-08-21,Inactive
+EMP00250,Gautami,Rajagopal,3,13,noahmane@example.com,9402672190,Store Manager,89057.48,2026-05-24,Inactive
