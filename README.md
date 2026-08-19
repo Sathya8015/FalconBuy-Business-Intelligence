@@ -168,7 +168,7 @@ FalconBuy uses a large-scale synthetic retail dataset representing an omnichanne
 
 ### 01 — Executive Dashboard
 
-<img src="./ANALYSIS%20DASHBOARDS/Executive%20Dashboard.png" width="900">
+<img src="./ANALYSIS_DASHBOARDS/executive dash 1 .png" width="900">
 
 </div>
 
