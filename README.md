@@ -388,7 +388,7 @@ The complete project documentation is available in the **Documentation** folder.
 
 | 📁 Resource | 🔗 Access |
 |:---|:---:|
-| 📊 **Dashboard Screenshots** | [View Dashboards](./ANALYSIS%20DASHBOARDS/) |
+| 📊 **Dashboard Screenshots** | [View Dashboards](./ANALYSIS_DASHBOARDS/) |
 | 🗄️ **Database & SQL** | [View SQL Files](./Databases/) |
 | 📚 **Documentation** | [View Documentation](./Documentation/) |
 | 🖼️ **Images & Logos** | [View Images](./Images/) |
@@ -633,7 +633,7 @@ The multi-location structure provides a foundation for regional performance comp
 
 | 📁 Resource                  |                  🔗 Access                  |
 | :--------------------------- | :-----------------------------------------: |
-| 📊 **Dashboard Screenshots** | [View Dashboards](./ANALYSIS%20DASHBOARDS/) |
+| 📊 **Dashboard Screenshots** | [View Dashboards](./ANALYSIS_DASHBOARDS/) |
 | 🗄️ **Database & SQL**       |        [View Database](./Databases/)        |
 | 📚 **Documentation**         |    [View Documentation](./Documentation/)   |
 | 🖼️ **Images & Logos**       |           [View Images](./Images/)          |
