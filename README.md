@@ -186,7 +186,7 @@ FalconBuy uses a large-scale synthetic retail dataset representing an omnichanne
 
 ### 02 — Sales Analysis Dashboard
 
-<img src="./ANALYSIS%20DASHBOARDS/Sales%20Analysis.png" width="900">
+<img src="./ANALYSIS_DASHBOARDS/sales dash 2.png " width="900">
 
 </div>
 
@@ -204,7 +204,7 @@ FalconBuy uses a large-scale synthetic retail dataset representing an omnichanne
 
 ### 03 — Customer Analysis Dashboard
 
-<img src="./ANALYSIS%20DASHBOARDS/Customer%20Analysis.png" width="900">
+<img src="./ANALYSIS_DASHBOARDS/customer dash 3.png" width="900">
 
 </div>
 
@@ -222,7 +222,7 @@ FalconBuy uses a large-scale synthetic retail dataset representing an omnichanne
 
 ### 04 — Product Analysis Dashboard
 
-<img src="./ANALYSIS%20DASHBOARDS/Product%20Analysis.png" width="900">
+<img src="./ANALYSIS_DASHBOARDS/product dash 4.png" width="900">
 
 </div>
 
@@ -240,7 +240,7 @@ FalconBuy uses a large-scale synthetic retail dataset representing an omnichanne
 
 ### 05 — Inventory Dashboard
 
-<img src="./ANALYSIS%20DASHBOARDS/Inventory.png" width="900">
+<img src="./ANALYSIS_DASHBOARDS/inventory dash 5.png" width="900">
 
 </div>
 
@@ -258,7 +258,7 @@ FalconBuy uses a large-scale synthetic retail dataset representing an omnichanne
 
 ### 06 — Shipment Dashboard
 
-<img src="./ANALYSIS%20DASHBOARDS/Shipment.png" width="900">
+<img src="./ANALYSIS_DASHBOARDS/shipment dash 6.png" width="900">
 
 </div>
 
@@ -276,7 +276,7 @@ FalconBuy uses a large-scale synthetic retail dataset representing an omnichanne
 
 ### 07 — Marketing Dashboard
 
-<img src="./ANALYSIS%20DASHBOARDS/Marketing.png" width="900">
+<img src="./ANALYSIS_DASHBOARDS/marketing dashboard.png" width="900">
 
 </div>
 
@@ -294,7 +294,7 @@ FalconBuy uses a large-scale synthetic retail dataset representing an omnichanne
 
 ### 08 — Store Performance Dashboard
 
-<img src="./ANALYSIS%20DASHBOARDS/Store.png" width="900">
+<img src="./ANALYSIS_DASHBOARDS/store dash 7.png" width="900">
 
 </div>
 
@@ -312,7 +312,7 @@ FalconBuy uses a large-scale synthetic retail dataset representing an omnichanne
 
 ### 09 — Overall Business Dashboard
 
-<img src="./ANALYSIS%20DASHBOARDS/Overall%20Business.png" width="900">
+<img src="./ANALYSIS_DASHBOARDS/Business Insights & Executive Summary.png" width="900">
 
 </div>
 
