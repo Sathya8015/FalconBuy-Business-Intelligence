@@ -330,7 +330,7 @@ FalconBuy uses a large-scale synthetic retail dataset representing an omnichanne
 
 ### 📁 View All Dashboard Screenshots
 
-👉 **[Open Dashboard Screenshots Folder](./ANALYSIS%20DASHBOARDS/)**
+👉 **[Open Dashboard Screenshots Folder](./ANALYSIS_DASHBOARDS/)**
 
 </div>
 
