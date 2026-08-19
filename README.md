@@ -94,7 +94,7 @@ The main objectives of FalconBuy are to:
               │ & Decision Support│
               └───────────────────┘
 
-
+```
 ---
 
 ## 🛠️ Technologies Used
@@ -431,7 +431,7 @@ Suppliers
 Warehouses
 Regions
 Marketing Campaigns
-
+```
 ## 💡 Key Business Insights
 
 FalconBuy's analytical solution helps identify important business patterns across multiple retail functions.
@@ -580,12 +580,12 @@ FalconBuy can be further enhanced with advanced analytics and AI capabilities.
 
 FalconBuy is designed as a multi-location retail business with operations across major cities.
 
-| Location | Role |
-|:---|:---|
-| 🇮🇳 **Chennai** | Main corporate and business operations |
-| 🇮🇳 **Madurai** | Regional retail and operational branch |
-| 🇮🇳 **New Delhi** | Northern regional operations |
-| 🇺🇸 **New York** | International and foreign-affairs operations |
+| Location           | Role                                          |
+| :----------------- | :-------------------------------------------- |
+| 🇮🇳 **Chennai**   | Main corporate and business operations        |
+| 🇮🇳 **Madurai**   | Regional retail and operational branch        |
+| 🇮🇳 **New Delhi** | Northern regional operations                  |
+| 🇺🇸 **New York**  | International retail and expansion operations |
 
 The multi-location structure provides a foundation for regional performance comparison and future international expansion.
 
@@ -593,75 +593,53 @@ The multi-location structure provides a foundation for regional performance comp
 
 ## 🏆 Project Highlights
 
-<div align="center">
-
-| ⭐ Highlight | Achievement |
-|:---:|:---:|
-| 🛒 Orders | **20,000** |
-| 👥 Customers | **5,000** |
-| 📦 Products | **500** |
-| 🏬 Stores | **25** |
-| 💰 Revenue | **₹255M+** |
-| 📊 Dashboards | **9** |
-| 🗄️ Database | **MySQL** |
-| 🐍 Analytics | **Python** |
+|    ⭐ Highlight   |  Achievement |
+| :--------------: | :----------: |
+|     🛒 Orders    |  **20,000**  |
+|   👥 Customers   |   **5,000**  |
+|    📦 Products   |    **500**   |
+|     🏬 Stores    |    **25**    |
+|    💰 Revenue    |  **₹255M+**  |
+|   📊 Dashboards  |     **9**    |
+|   🗄️ Database   |   **MySQL**  |
+|   🐍 Analytics   |  **Python**  |
 | 📊 Visualization | **Power BI** |
-
-</div>
 
 ---
 
-## 👨‍💻 Developer
+# 👨‍💻 Sathyasaravanan
 
-<div align="center">
+### Founder & CEO | FalconBuy
 
-# Sathyasaravanan
+![Sathyasaravanan - Founder & CEO](./Images/Sathyasaravanan-Founder-CEO.png)
 
-### Business Intelligence & Data Analytics Project
+**Business Intelligence & Data Analytics**
 
-**Skills Demonstrated**
-
-`SQL` • `Python` • `MySQL` • `Power BI` • `DAX` • `Excel` • `Data Analytics`
-
-</div>
+`SQL` • `Python` • `MySQL` • `Power BI` • `DAX` • `Excel`
 
 ---
 
 ## 🦅 FalconBuy
 
-<div align="center">
-
-### **Smart Retail. Better Insights. Faster Decisions.**
-
-<br>
+### Smart Retail. Better Insights. Faster Decisions.
 
 **Business Intelligence • Data Analytics • Decision Support**
 
-</div>
-
----
-
-<p align="center">
-  Built with data, analytics and business intelligence.
-</p>
+> Built with data, analytics and business intelligence.
 
 ---
 
 ## 🔗 Project Resources
 
-<div align="center">
-
-| 📁 Resource | 🔗 Access |
-|:---|:---:|
+| 📁 Resource                  |                  🔗 Access                  |
+| :--------------------------- | :-----------------------------------------: |
 | 📊 **Dashboard Screenshots** | [View Dashboards](./ANALYSIS%20DASHBOARDS/) |
-| 🗄️ **Database & SQL** | [View Database](./Databases/) |
-| 📚 **Documentation** | [View Documentation](./Documentation/) |
-| 🖼️ **Images & Logos** | [View Images](./Images/) |
-| 📊 **Power BI Files** | [View Power BI](./PowerBI/) |
-| 🎤 **Presentation Files** | [View Presentation](./Presentation/) |
-| 🐍 **Python & Excel** | [View Python & Excel](./Python_Excel/) |
-
-</div>
+| 🗄️ **Database & SQL**       |        [View Database](./Databases/)        |
+| 📚 **Documentation**         |    [View Documentation](./Documentation/)   |
+| 🖼️ **Images & Logos**       |           [View Images](./Images/)          |
+| 📊 **Power BI Files**        |         [View Power BI](./PowerBI/)         |
+| 🎤 **Presentation Files**    |     [View Presentation](./Presentation/)    |
+| 🐍 **Python & Excel**        |    [View Python & Excel](./Python_Excel/)   |
 
 ---
 
@@ -693,31 +671,21 @@ FalconBuy-Business-Intelligence/
 │   └── Excel/
 │
 └── 📄 README.md
+```
 
 ---
-
-<div align="center">
 
 # 🦅 FalconBuy
 
-### **Smart Retail. Better Insights. Faster Decisions.**
+### Smart Retail. Better Insights. Faster Decisions.
 
-<p>
-Business Intelligence • Data Analytics • Decision Support
-</p>
-
-<br>
+**Business Intelligence • Data Analytics • Decision Support**
 
 **Built with MySQL, SQL, Python, Excel, Power BI & DAX**
 
-<br><br>
-
 ⭐ **Thank you for exploring the FalconBuy Business Intelligence Project!** ⭐
-
-</div>
 
 ---
 
-<p align="center">
-  © 2026 FalconBuy • Business Intelligence & Data Analytics
-</p>
+**© 2026 FalconBuy • Business Intelligence & Data Analytics**
+
