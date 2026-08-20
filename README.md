@@ -506,6 +506,7 @@ DAX Measures & KPIs
 Business Insights
         ↓
 Decision Support
+```
 
 ### Project Outcomes
 
@@ -580,12 +581,12 @@ FalconBuy can be further enhanced with advanced analytics and AI capabilities.
 
 FalconBuy is designed as a multi-location retail business with operations across major cities.
 
-| Location           | Role                                          |
-| :----------------- | :-------------------------------------------- |
-| 🇮🇳 **Chennai**   | Main corporate and business operations        |
-| 🇮🇳 **Madurai**   | Regional retail and operational branch        |
-| 🇮🇳 **New Delhi** | Northern regional operations                  |
-| 🇺🇸 **New York**  | International retail and expansion operations |
+| Location | Role |
+|:---|:---|
+| 🇮🇳 **Chennai** | Main corporate and business operations |
+| 🇮🇳 **Madurai** | Regional retail and operational branch |
+| 🇮🇳 **New Delhi** | Northern regional operations |
+| 🇺🇸 **New York** | International retail and expansion operations |
 
 The multi-location structure provides a foundation for regional performance comparison and future international expansion.
 
@@ -593,16 +594,16 @@ The multi-location structure provides a foundation for regional performance comp
 
 ## 🏆 Project Highlights
 
-|    ⭐ Highlight   |  Achievement |
-| :--------------: | :----------: |
-|     🛒 Orders    |  **20,000**  |
-|   👥 Customers   |   **5,000**  |
-|    📦 Products   |    **500**   |
-|     🏬 Stores    |    **25**    |
-|    💰 Revenue    |  **₹255M+**  |
-|   📊 Dashboards  |     **9**    |
-|   🗄️ Database   |   **MySQL**  |
-|   🐍 Analytics   |  **Python**  |
+| ⭐ Highlight | Achievement |
+|:---:|:---:|
+| 🛒 Orders | **20,000** |
+| 👥 Customers | **5,000** |
+| 📦 Products | **500** |
+| 🏬 Stores | **25** |
+| 💰 Revenue | **₹255M+** |
+| 📊 Dashboards | **9** |
+| 🗄️ Database | **MySQL** |
+| 🐍 Analytics | **Python** |
 | 📊 Visualization | **Power BI** |
 
 ---
@@ -611,7 +612,11 @@ The multi-location structure provides a foundation for regional performance comp
 
 ### Founder & CEO | FalconBuy
 
-![Sathyasaravanan - Founder & CEO](./Images/IMG_20260819_175641.png)
+<p align="center">
+  <img src="./Images/Sathyasaravanan_Founder_CEO.png" 
+       alt="Sathyasaravanan - Founder & CEO"
+       width="250">
+</p>
 
 **Business Intelligence & Data Analytics**
 
@@ -631,15 +636,15 @@ The multi-location structure provides a foundation for regional performance comp
 
 ## 🔗 Project Resources
 
-| 📁 Resource                  |                  🔗 Access                  |
-| :--------------------------- | :-----------------------------------------: |
+| 📁 Resource | 🔗 Access |
+|:---|:---:|
 | 📊 **Dashboard Screenshots** | [View Dashboards](./ANALYSIS_DASHBOARDS/) |
-| 🗄️ **Database & SQL**       |        [View Database](./Databases/)        |
-| 📚 **Documentation**         |    [View Documentation](./Documentation/)   |
-| 🖼️ **Images & Logos**       |           [View Images](./Images/)          |
-| 📊 **Power BI Files**        |         [View Power BI](./PowerBI/)         |
-| 🎤 **Presentation Files**    |     [View Presentation](./Presentation/)    |
-| 🐍 **Python & Excel**        |    [View Python & Excel](./Python_Excel/)   |
+| 🗄️ **Database & SQL** | [View Database](./Databases/) |
+| 📚 **Documentation** | [View Documentation](./Documentation/) |
+| 🖼️ **Images & Logos** | [View Images](./Images/) |
+| 📊 **Power BI Files** | [View Power BI](./PowerBI/) |
+| 🎤 **Presentation Files** | [View Presentation](./Presentation/) |
+| 🐍 **Python & Excel** | [View Python & Excel](./Python_Excel/) |
 
 ---
 
@@ -648,7 +653,7 @@ The multi-location structure provides a foundation for regional performance comp
 ```text
 FalconBuy-Business-Intelligence/
 │
-├── 📊 ANALYSIS DASHBOARDS/
+├── 📊 ANALYSIS_DASHBOARDS/
 │   └── Power BI dashboard screenshots
 │
 ├── 🗄️ Databases/
@@ -688,4 +693,3 @@ FalconBuy-Business-Intelligence/
 ---
 
 **© 2026 FalconBuy • Business Intelligence & Data Analytics**
-
