@@ -1,18 +1,37 @@
-<h1 align="center">
-  🦅 FalconBuy
-</h1>
+<table align="center" style="border: none;">
+<tr style="border: none;">
 
-<h3 align="center">
-  Business Intelligence & AI Decision Support System
-</h3>
+<td width="30%" align="center" style="border: none; padding: 30px 50px;">
 
-<p align="center">
-  <strong>Turning Retail Data into Actionable Business Intelligence</strong>
+<img src="./Images/FalconBuy_Logo.png"
+     alt="FalconBuy Logo"
+     width="150">
+
+</td>
+
+<td width="70%" align="center" style="border: none; padding: 30px 50px;">
+
+<h1>FalconBuy</h1>
+
+<h3>Business Intelligence & AI Decision Support System</h3>
+
+<p>
+<strong>Turning Retail Data into Actionable Business Intelligence</strong>
 </p>
 
-<p align="center">
-  MySQL • SQL • Python • Excel • Power BI • DAX
+<p>
+<code>MySQL</code> •
+<code>SQL</code> •
+<code>Python</code> •
+<code>Excel</code> •
+<code>Power BI</code> •
+<code>DAX</code>
 </p>
+
+</td>
+
+</tr>
+</table>
 
 ## 📌 Project Overview
 
@@ -883,13 +902,11 @@ FalconBuy-Business-Intelligence/
 
 <p>
   <img 
-    src="./Images/FalconBuy_Logo.png"
+    src="./Images/logo2.png"
     alt="FalconBuy Logo"
-    width="180"
+    width="250"
   >
 </p>
-
-<h1>🦅 FalconBuy</h1>
 
 <h3>Smart Retail. Better Insights. Faster Decisions.</h3>
 
