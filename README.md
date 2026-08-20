@@ -350,13 +350,13 @@ key insights, results, and future enhancements.
 
 ### ▶️ Presentation Video
 
-🎬 **[Watch FalconBuy Project Presentation](YOUR_VIDEO_LINK_HERE)**
+🎬 **[Watch FalconBuy Project Presentation](https://drive.google.com/file/d/1fq5D02Ut5vPXdpEqT8kINRsWP_SfD892/view?usp=drivesdk)**
 
 > Replace `YOUR_VIDEO_LINK_HERE` with your YouTube / Google Drive video link.
 
 ### 📊 Presentation Files
 
-- 📑 **[View PowerPoint Presentation](./Presentation/)**
+- 📑 **[View PowerPoint Presentation](./https://docs.google.com/presentation/d/16ai8m-M-oQ04m1nTWnWe59zyz40Yvdn7/edit?usp=drivesdk&ouid=102743264952164250504&rtpof=true&sd=true/)**
 - 📄 **[View Presentation PDF](./Presentation/)**
 
 ---
