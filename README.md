@@ -480,11 +480,15 @@ FalconBuy's analytical solution helps identify important business patterns acros
 
 ---
 
+<div align="center">
+
 ## 📈 Results & Outcomes
 
+<p>
 The FalconBuy project successfully demonstrates a complete end-to-end Business Intelligence workflow.
+</p>
 
-```text
+<pre>
 Raw / Synthetic Data
         ↓
 MySQL Database
@@ -506,105 +510,213 @@ DAX Measures & KPIs
 Business Insights
         ↓
 Decision Support
-```
+</pre>
 
-### Project Outcomes
+### 📊 Project Outcomes
 
-- Successfully developed a structured retail database.
-- Generated and analyzed large-scale retail data.
-- Performed SQL-based business analysis.
-- Conducted Python-based exploratory analysis.
-- Created supporting Excel analysis.
-- Developed Power BI data models and relationships.
-- Created DAX-based KPIs and measures.
-- Developed **9 interactive Power BI dashboards**.
-- Consolidated multiple business functions into a centralized BI solution.
-- Produced complete project documentation and presentation.
+<p>✅ Successfully developed a structured retail database.</p>
+<p>✅ Generated and analyzed large-scale retail data.</p>
+<p>✅ Performed SQL-based business analysis.</p>
+<p>✅ Conducted Python-based exploratory analysis.</p>
+<p>✅ Created supporting Excel analysis.</p>
+<p>✅ Developed Power BI data models and relationships.</p>
+<p>✅ Created DAX-based KPIs and measures.</p>
+<p>✅ Developed <strong>9 interactive Power BI dashboards</strong>.</p>
+<p>✅ Consolidated multiple business functions into a centralized BI solution.</p>
+<p>✅ Produced complete project documentation and presentation.</p>
 
 ---
 
 ## 💼 Business Impact
 
+<p>
 FalconBuy demonstrates how data analytics can support real-world retail decision-making.
+</p>
 
 ### 🚀 Operational Benefits
 
-| Area | Business Benefit |
-|:---|:---|
-| 📈 Sales | Better understanding of revenue and sales trends |
-| 👥 Customers | Improved customer behavior analysis |
-| 📦 Inventory | Better stock visibility and planning |
-| 🚚 Logistics | Improved shipment monitoring |
-| 📣 Marketing | Better campaign evaluation |
-| 🏬 Stores | Performance comparison across locations |
-| 📊 Management | Centralized business intelligence |
-| ⚡ Reporting | Reduced dependency on manual reporting |
+<table align="center">
+<tr>
+<th>Area</th>
+<th>Business Benefit</th>
+</tr>
+
+<tr>
+<td>📈 Sales</td>
+<td>Better understanding of revenue and sales trends</td>
+</tr>
+
+<tr>
+<td>👥 Customers</td>
+<td>Improved customer behavior analysis</td>
+</tr>
+
+<tr>
+<td>📦 Inventory</td>
+<td>Better stock visibility and planning</td>
+</tr>
+
+<tr>
+<td>🚚 Logistics</td>
+<td>Improved shipment monitoring</td>
+</tr>
+
+<tr>
+<td>📣 Marketing</td>
+<td>Better campaign evaluation</td>
+</tr>
+
+<tr>
+<td>🏬 Stores</td>
+<td>Performance comparison across locations</td>
+</tr>
+
+<tr>
+<td>📊 Management</td>
+<td>Centralized business intelligence</td>
+</tr>
+
+<tr>
+<td>⚡ Reporting</td>
+<td>Reduced dependency on manual reporting</td>
+</tr>
+
+</table>
 
 ---
 
 ## 🚀 Future Enhancements
 
+<p>
 FalconBuy can be further enhanced with advanced analytics and AI capabilities.
+</p>
 
 ### 🤖 Artificial Intelligence
 
-- AI-powered business chatbot
-- Natural-language dashboard interaction
-- Automated business insight generation
-- AI-assisted decision support
+<p>🤖 AI-powered business chatbot</p>
+<p>💬 Natural-language dashboard interaction</p>
+<p>💡 Automated business insight generation</p>
+<p>🧠 AI-assisted decision support</p>
 
 ### 📈 Predictive Analytics
 
-- Sales forecasting
-- Demand forecasting
-- Customer churn prediction
-- Product demand prediction
-- Inventory forecasting
+<p>📊 Sales forecasting</p>
+<p>📦 Demand forecasting</p>
+<p>👥 Customer churn prediction</p>
+<p>🛒 Product demand prediction</p>
+<p>📦 Inventory forecasting</p>
 
 ### 🎯 Recommendation Systems
 
-- Personalized product recommendations
-- Customer-specific offers
-- Targeted marketing recommendations
-- Cross-selling and up-selling suggestions
+<p>🎯 Personalized product recommendations</p>
+<p>💰 Customer-specific offers</p>
+<p>📣 Targeted marketing recommendations</p>
+<p>🔄 Cross-selling and up-selling suggestions</p>
 
 ### ☁️ Cloud & Real-Time Analytics
 
-- Cloud database integration
-- Real-time data pipelines
-- Automated dashboard refresh
-- Scalable enterprise analytics
+<p>☁️ Cloud database integration</p>
+<p>⚡ Real-time data pipelines</p>
+<p>🔄 Automated dashboard refresh</p>
+<p>📈 Scalable enterprise analytics</p>
 
 ---
 
 ## 🌍 FalconBuy Business Locations
 
+<p>
 FalconBuy is designed as a multi-location retail business with operations across major cities.
+</p>
 
-| Location | Role |
-|:---|:---|
-| 🇮🇳 **Chennai** | Main corporate and business operations |
-| 🇮🇳 **Madurai** | Regional retail and operational branch |
-| 🇮🇳 **New Delhi** | Northern regional operations |
-| 🇺🇸 **New York** | International retail and expansion operations |
+<table align="center">
+<tr>
+<th>Location</th>
+<th>Role</th>
+</tr>
 
-The multi-location structure provides a foundation for regional performance comparison and future international expansion.
+<tr>
+<td>🇮🇳 <strong>Chennai</strong></td>
+<td>Main corporate and business operations</td>
+</tr>
+
+<tr>
+<td>🇮🇳 <strong>Madurai</strong></td>
+<td>Regional retail and operational branch</td>
+</tr>
+
+<tr>
+<td>🇮🇳 <strong>New Delhi</strong></td>
+<td>Northern regional operations</td>
+</tr>
+
+<tr>
+<td>🇺🇸 <strong>New York</strong></td>
+<td>International retail and expansion operations</td>
+</tr>
+
+</table>
+
+<p>
+The multi-location structure provides a foundation for regional performance comparison
+and future international expansion.
+</p>
 
 ---
 
 ## 🏆 Project Highlights
 
-| ⭐ Highlight | Achievement |
-|:---:|:---:|
-| 🛒 Orders | **20,000** |
-| 👥 Customers | **5,000** |
-| 📦 Products | **500** |
-| 🏬 Stores | **25** |
-| 💰 Revenue | **₹255M+** |
-| 📊 Dashboards | **9** |
-| 🗄️ Database | **MySQL** |
-| 🐍 Analytics | **Python** |
-| 📊 Visualization | **Power BI** |
+<table align="center">
+<tr>
+<th>⭐ Highlight</th>
+<th>Achievement</th>
+</tr>
+
+<tr>
+<td>🛒 Orders</td>
+<td><strong>20,000</strong></td>
+</tr>
+
+<tr>
+<td>👥 Customers</td>
+<td><strong>5,000</strong></td>
+</tr>
+
+<tr>
+<td>📦 Products</td>
+<td><strong>500</strong></td>
+</tr>
+
+<tr>
+<td>🏬 Stores</td>
+<td><strong>25</strong></td>
+</tr>
+
+<tr>
+<td>💰 Revenue</td>
+<td><strong>₹255M+</strong></td>
+</tr>
+
+<tr>
+<td>📊 Dashboards</td>
+<td><strong>9</strong></td>
+</tr>
+
+<tr>
+<td>🗄️ Database</td>
+<td><strong>MySQL</strong></td>
+</tr>
+
+<tr>
+<td>🐍 Analytics</td>
+<td><strong>Python</strong></td>
+</tr>
+
+<tr>
+<td>📊 Visualization</td>
+<td><strong>Power BI</strong></td>
+</tr>
+
+</table>
 
 ---
 
@@ -613,14 +725,24 @@ The multi-location structure provides a foundation for regional performance comp
 ### Founder & CEO | FalconBuy
 
 <p align="center">
-  <img src="./Images/IMG_20260819_175641.png" 
-       alt="Sathyasaravanan - Founder & CEO"
-       width="250">
+<img 
+src="./Images/IMG_20260819_175641.png"
+alt="Sathyasaravanan - Founder & CEO"
+width="250">
 </p>
 
-**Business Intelligence & Data Analytics**
+<p>
+<strong>Business Intelligence & Data Analytics</strong>
+</p>
 
-`SQL` • `Python` • `MySQL` • `Power BI` • `DAX` • `Excel`
+<p>
+<code>SQL</code> •
+<code>Python</code> •
+<code>MySQL</code> •
+<code>Power BI</code> •
+<code>DAX</code> •
+<code>Excel</code>
+</p>
 
 ---
 
@@ -628,29 +750,66 @@ The multi-location structure provides a foundation for regional performance comp
 
 ### Smart Retail. Better Insights. Faster Decisions.
 
-**Business Intelligence • Data Analytics • Decision Support**
+<p>
+<strong>Business Intelligence • Data Analytics • Decision Support</strong>
+</p>
 
-> Built with data, analytics and business intelligence.
+<blockquote>
+Built with data, analytics and business intelligence.
+</blockquote>
 
 ---
 
 ## 🔗 Project Resources
 
-| 📁 Resource | 🔗 Access |
-|:---|:---:|
-| 📊 **Dashboard Screenshots** | [View Dashboards](./ANALYSIS_DASHBOARDS/) |
-| 🗄️ **Database & SQL** | [View Database](./Databases/) |
-| 📚 **Documentation** | [View Documentation](./Documentation/) |
-| 🖼️ **Images & Logos** | [View Images](./Images/) |
-| 📊 **Power BI Files** | [View Power BI](./PowerBI/) |
-| 🎤 **Presentation Files** | [View Presentation](./Presentation/) |
-| 🐍 **Python & Excel** | [View Python & Excel](./Python_Excel/) |
+<table align="center">
+<tr>
+<th>📁 Resource</th>
+<th>🔗 Access</th>
+</tr>
+
+<tr>
+<td>📊 <strong>Dashboard Screenshots</strong></td>
+<td><a href="./ANALYSIS_DASHBOARDS/">View Dashboards</a></td>
+</tr>
+
+<tr>
+<td>🗄️ <strong>Database & SQL</strong></td>
+<td><a href="./Databases/">View Database</a></td>
+</tr>
+
+<tr>
+<td>📚 <strong>Documentation</strong></td>
+<td><a href="./Documentation/">View Documentation</a></td>
+</tr>
+
+<tr>
+<td>🖼️ <strong>Images & Logos</strong></td>
+<td><a href="./Images/">View Images</a></td>
+</tr>
+
+<tr>
+<td>📊 <strong>Power BI Files</strong></td>
+<td><a href="./PowerBI/">View Power BI</a></td>
+</tr>
+
+<tr>
+<td>🎤 <strong>Presentation Files</strong></td>
+<td><a href="./Presentation/">View Presentation</a></td>
+</tr>
+
+<tr>
+<td>🐍 <strong>Python & Excel</strong></td>
+<td><a href="./Python_Excel/">View Python & Excel</a></td>
+</tr>
+
+</table>
 
 ---
 
 ## 📂 Repository Structure
 
-```text
+<pre align="center">
 FalconBuy-Business-Intelligence/
 │
 ├── 📊 ANALYSIS_DASHBOARDS/
@@ -676,7 +835,7 @@ FalconBuy-Business-Intelligence/
 │   └── Excel/
 │
 └── 📄 README.md
-```
+</pre>
 
 ---
 
@@ -684,12 +843,22 @@ FalconBuy-Business-Intelligence/
 
 ### Smart Retail. Better Insights. Faster Decisions.
 
-**Business Intelligence • Data Analytics • Decision Support**
+<p>
+<strong>Business Intelligence • Data Analytics • Decision Support</strong>
+</p>
 
-**Built with MySQL, SQL, Python, Excel, Power BI & DAX**
+<p>
+<strong>Built with MySQL, SQL, Python, Excel, Power BI & DAX</strong>
+</p>
 
-⭐ **Thank you for exploring the FalconBuy Business Intelligence Project!** ⭐
+<br>
 
----
+<h3>⭐ Thank you for exploring the FalconBuy Business Intelligence Project! ⭐</h3>
 
-**© 2026 FalconBuy • Business Intelligence & Data Analytics**
+<br>
+
+<p>
+<strong>© 2026 FalconBuy • Business Intelligence & Data Analytics</strong>
+</p>
+
+</div>
