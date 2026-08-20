@@ -1,13 +1,22 @@
-# 🦅 FalconBuy — Business Intelligence & AI Decision Support System
+<h1 align="center">
+  🦅 FalconBuy
+</h1>
 
 <p align="center">
-  <strong>Turning Retail Data into Actionable Business Intelligence</strong>
+  <img src="./Images/FalconBuy_Logo.png" alt="FalconBuy Logo" width="180">
+</p>
+
+<p align="center">
+  <strong>Business Intelligence & AI Decision Support System</strong>
+</p>
+
+<p align="center">
+  Turning Retail Data into Actionable Business Intelligence
 </p>
 
 <p align="center">
   MySQL • SQL • Python • Excel • Power BI • DAX
 </p>
-
 ---
 
 ## 📌 Project Overview
