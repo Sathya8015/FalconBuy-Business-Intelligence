@@ -3,15 +3,17 @@
 
 <td width="30%" align="center" style="border: none; padding: 30px 50px;">
 
-<img src="./Images/FalconBuy_Logo.png"
+<img src="./Images/logo 6.png"
      alt="FalconBuy Logo"
-     width="150">
+     width="800">
 
 </td>
 
-<td width="70%" align="center" style="border: none; padding: 30px 50px;">
+<td width="150%" align="center" style="border: none; padding: 30px 50px;">
 
-<h1>FalconBuy</h1>
+<h1 align="center">
+  <span style="font-size: 800px;"> FalconBuy</span>
+</h1>
 
 <h3>Business Intelligence & AI Decision Support System</h3>
 
