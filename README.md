@@ -2,22 +2,17 @@
   🦅 FalconBuy
 </h1>
 
-<p align="center">
-  <img src="./Images/FalconBuy_Logo.png" alt="FalconBuy Logo" width="180">
-</p>
+<h3 align="center">
+  Business Intelligence & AI Decision Support System
+</h3>
 
 <p align="center">
-  <strong>Business Intelligence & AI Decision Support System</strong>
-</p>
-
-<p align="center">
-  Turning Retail Data into Actionable Business Intelligence
+  <strong>Turning Retail Data into Actionable Business Intelligence</strong>
 </p>
 
 <p align="center">
   MySQL • SQL • Python • Excel • Power BI • DAX
 </p>
----
 
 ## 📌 Project Overview
 
@@ -59,9 +54,11 @@ The main objectives of FalconBuy are to:
 
 ---
 
-# 🏗️ Project Architecture
+<h2 align="center">🏗️ Project Architecture</h2>
 
-```text
+<div align="center">
+
+<pre>
                     RETAIL DATA
                         │
                         ▼
@@ -102,52 +99,73 @@ The main objectives of FalconBuy are to:
               │ Business Insights │
               │ & Decision Support│
               └───────────────────┘
+</pre>
 
-```
----
+</div>
 
 ## 🛠️ Technologies Used
 
-<p align="center">
+<table align="center">
+  <tr>
+    <th>Technology</th>
+    <th>Purpose</th>
+  </tr>
 
-| Technology | Purpose |
-|:---:|---|
-| 🗄️ **MySQL** | Database management |
-| 🔹 **SQL** | Data querying and business analysis |
-| 🐍 **Python** | Data generation, cleaning and EDA |
-| 🐼 **Pandas** | Data manipulation and analysis |
-| 🔢 **NumPy** | Numerical processing |
-| 🎲 **Faker** | Synthetic retail data generation |
-| 📊 **Power BI** | Interactive dashboards |
-| ⚡ **DAX** | KPI and analytical calculations |
-| 🔄 **Power Query** | Data transformation |
-| 📗 **Excel** | Supporting analysis and data preparation |
-| 🐙 **GitHub** | Version control and project portfolio |
+  <tr>
+    <td align="center">🗄️ <strong>MySQL</strong></td>
+    <td align="center">Database management</td>
+  </tr>
 
-</p>
+  <tr>
+    <td align="center">🔹 <strong>SQL</strong></td>
+    <td align="center">Data querying and business analysis</td>
+  </tr>
 
----
+  <tr>
+    <td align="center">🐍 <strong>Python</strong></td>
+    <td align="center">Data generation, cleaning and EDA</td>
+  </tr>
 
-## 📊 Dataset Overview
+  <tr>
+    <td align="center">🐼 <strong>Pandas</strong></td>
+    <td align="center">Data manipulation and analysis</td>
+  </tr>
 
-FalconBuy uses a large-scale synthetic retail dataset representing an omnichannel retail business.
+  <tr>
+    <td align="center">🔢 <strong>NumPy</strong></td>
+    <td align="center">Numerical processing</td>
+  </tr>
 
-<div align="center">
+  <tr>
+    <td align="center">🎲 <strong>Faker</strong></td>
+    <td align="center">Synthetic retail data generation</td>
+  </tr>
 
-| 📌 Metric | 📈 Value |
-|:---:|---:|
-| 👥 Customers | **5,000** |
-| 🛒 Orders | **20,000** |
-| 📦 Products | **500** |
-| 🗂️ Categories | **20** |
-| 🏭 Suppliers | **10** |
-| 🏬 Stores | **25** |
-| 👨‍💼 Employees | **250** |
-| 💰 Total Revenue | **₹255,534,716.45** |
-| 🧾 Average Order Value | **₹12,776.74** |
-| 📊 Power BI Dashboards | **9** |
+  <tr>
+    <td align="center">📊 <strong>Power BI</strong></td>
+    <td align="center">Interactive dashboards</td>
+  </tr>
 
-</div>
+  <tr>
+    <td align="center">⚡ <strong>DAX</strong></td>
+    <td align="center">KPI and analytical calculations</td>
+  </tr>
+
+  <tr>
+    <td align="center">🔄 <strong>Power Query</strong></td>
+    <td align="center">Data transformation</td>
+  </tr>
+
+  <tr>
+    <td align="center">📗 <strong>Excel</strong></td>
+    <td align="center">Supporting analysis and data preparation</td>
+  </tr>
+
+  <tr>
+    <td align="center">🐙 <strong>GitHub</strong></td>
+    <td align="center">Version control and project portfolio</td>
+  </tr>
+</table>
 
 ---
 
@@ -818,7 +836,15 @@ Built with data, analytics and business intelligence.
 
 ## 📂 Repository Structure
 
-<pre align="center">
+<h2 align="center">📂 Repository Structure</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+<pre>
 FalconBuy-Business-Intelligence/
 │
 ├── 📊 ANALYSIS_DASHBOARDS/
@@ -846,18 +872,33 @@ FalconBuy-Business-Intelligence/
 └── 📄 README.md
 </pre>
 
+</td>
+</tr>
+</table>
+
+</div>
 ---
 
-# 🦅 FalconBuy
-
-### Smart Retail. Better Insights. Faster Decisions.
+<div align="center">
 
 <p>
-<strong>Business Intelligence • Data Analytics • Decision Support</strong>
+  <img 
+    src="./Images/FalconBuy_Logo.png"
+    alt="FalconBuy Logo"
+    width="180"
+  >
+</p>
+
+<h1>🦅 FalconBuy</h1>
+
+<h3>Smart Retail. Better Insights. Faster Decisions.</h3>
+
+<p>
+  <strong>Business Intelligence • Data Analytics • Decision Support</strong>
 </p>
 
 <p>
-<strong>Built with MySQL, SQL, Python, Excel, Power BI & DAX</strong>
+  <strong>Built with MySQL, SQL, Python, Excel, Power BI & DAX</strong>
 </p>
 
 <br>
@@ -867,7 +908,7 @@ FalconBuy-Business-Intelligence/
 <br>
 
 <p>
-<strong>© 2026 FalconBuy • Business Intelligence & Data Analytics</strong>
+  <strong>© 2026 FalconBuy • Business Intelligence & Data Analytics</strong>
 </p>
 
 </div>
