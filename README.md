@@ -357,7 +357,7 @@ key insights, results, and future enhancements.
 ### 📊 Presentation Files
 
 - 📑 **[View PowerPoint Presentation](https://docs.google.com/presentation/d/16ai8m-M-oQ04m1nTWnWe59zyz40Yvdn7/edit?usp=drivesdk&ouid=102743264952164250504&rtpof=true&sd=true)**
-- 📄 **[View Presentation PDF](./Presentation/)**
+- 📄 **[View Presentation PDF](./Presentation/Falcon Buy presentation pdf.pdf)**
 
 ---
 
