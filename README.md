@@ -613,7 +613,7 @@ The multi-location structure provides a foundation for regional performance comp
 ### Founder & CEO | FalconBuy
 
 <p align="center">
-  <img src="./Images/Sathyasaravanan_Founder_CEO.png" 
+  <img src="./Images/IMG_20260819_175641.png" 
        alt="Sathyasaravanan - Founder & CEO"
        width="250">
 </p>
